@@ -267,16 +267,7 @@ http://iptvaruba.com:8080/ecde51eb/222e4cad/297423
 
 =================================================================================================================================
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", INDONESIA OPEN 1
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480.m3u8?title=8162326&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=1FCF01FCD397442252A70B0D8E1F0149&ups_client_netip=180.241.47.237&ups_ts=1705978600&ups_userid=0&utid=defaultCnaLive20180425&vid=8162326_8096782&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480&vkey=B492522a7e7c126c4307ba9fa220f5be9&cug=10&t=18f4bd9b7c3ca76&rid=200000000D493571D6BC83F299CE76BB9EFE35AE00000000
- 
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",INDONESIA OPEN 2
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8162328&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=92577955917586C2BC8AB0E0DC94DA7C&ups_client_netip=180.241.47.237&ups_ts=1705978721&ups_userid=0&utid=defaultCnaLive20180425&vid=8162328_8096784&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B55413b900844d774fb18e61fd1521cf4&cug=10&t=15ba9f59c50bc06&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000   
- 
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",INDONESIA OPEN 3
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8162329&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=BD8F7CEA1C096FF87AA47ACF1653A339&ups_client_netip=180.241.47.237&ups_ts=1705977950&ups_userid=0&utid=defaultCnaLive20180425&vid=8162329_8096785&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=B5817a96e509b490840ae3651ebde1a45&cug=10&t=1236b3b000ba1eb&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
+
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
