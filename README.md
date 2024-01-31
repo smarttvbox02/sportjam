@@ -223,11 +223,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="🚩LIVE VOLY🚩",PRO LIGA
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298550
-#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="🚩LIVE VOLY🚩",VOLLY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/exp=1704291538~acl=/hls-p/ingest_206_*/*~hmac=80d432c5568acf00166510a6aedf34a9f98f52c2de6e59436f2a01a734fca235/hls-p/ingest_206_720p/index.m3u8
+
 #EXTINF: -1 tvg-id="SPOTV" group-title="🚩LIVE VOLY🚩" group-logo="https://i.postimg.cc/FRvtxQZk/6641858.png" ch-number="816" tvg-logo="group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
@@ -258,16 +254,17 @@ https://etslive-2-vidio-com.akamaized.net/exp=1704626312~acl=/hls-b/ingest_205_*
 ==========================================================================================================================================
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46117.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 2
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/61472.ts
+http://iptvaruba.com:8080/ecde51eb/222e4cad/297423
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 3
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/83532.ts
+
 =================================================================================================================================
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", INDONESIA OPEN 1
