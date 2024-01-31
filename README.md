@@ -40,84 +40,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV : Premier League" tvg-logo="https://i.ibb.co/vXM0Xbt/1644814357946.png" group-title="SPORTS",Premier League
-https://link.zozotv.xyz:443/rozila969/abc12345/482
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP 1
-https://link.zozotv.xyz:443/rozila969/abc12345/155
-#EXTINF:-1 tvg-id="" tvg-name="ASSP-B [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP 2
-https://link.zozotv.xyz:443/rozila969/abc12345/568
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2 1
-https://link.zozotv.xyz:443/rozila969/abc12345/156
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-B [Live Only]" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2
-https://link.zozotv.xyz:443/rozila969/abc12345/569
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3
-https://link.zozotv.xyz:443/rozila969/abc12345/157
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-B [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3
-https://link.zozotv.xyz:443/rozila969/abc12345/570
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SPORTS",ASSP4
-https://link.zozotv.xyz:443/rozila969/abc12345/158
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SPORTS",ASSP4
-https://link.zozotv.xyz:443/rozila969/abc12345/571
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="SPORTS",NOW SPORTS 1
-https://link.zozotv.xyz:443/rozila969/abc12345/836
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="SPORTS",NOW SPORTS 2
-https://link.zozotv.xyz:443/rozila969/abc12345/837
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="SPORTS",NOW SPORTS 3
-https://link.zozotv.xyz:443/rozila969/abc12345/838
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 4" tvg-logo="https://i.ibb.co/jfH0TyW/1684376152528.png" group-title="SPORTS",NOW SPORTS 4
-https://link.zozotv.xyz:443/rozila969/abc12345/839
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 5" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="SPORTS",NOW SPORTS 5
-https://link.zozotv.xyz:443/rozila969/abc12345/840
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SPORTS",beIN Sports 1 ID
-https://link.zozotv.xyz:443/rozila969/abc12345/162
-#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SPORTS",beIN Sports 2 ID
-https://link.zozotv.xyz:443/rozila969/abc12345/163
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SPORTS",BEIN Sport 1 (MY)
-https://link.zozotv.xyz:443/rozila969/abc12345/384
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport MAX" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SPORTS",BEIN Sport MAX
-https://link.zozotv.xyz:443/rozila969/abc12345/383
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="SPORTS",Champions 1
-http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREr6ZW3qA-P87TaqTfEroDtKHISRgHw4O5MFhZnmOmZQwztmYo0aK4gaqymIJn3mMj6I3KdFgPQU3pcGnetzRTwF1zmUxMN8LWNYgWPv5I9bqfSsW5WJeO3RwCziObNYGX8C9VVHnPFW7lyloxiX6WWZgxV6t8EYAHvziMrN_FixNABWbfImlvaaxCQoTYgol7r22OV7QpdBf1_o-LGNlwytcPqnDCqanT_CF-XQug5vFKQIOUEG_ORJYPP6QjSQcKg.m3u8?u=1705630354
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="SPORTS",Champions 2
-http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREizczTq8Lh5-zj5HkC3vlhQaVnLKamz9PqtzmrkrRlvKNgOR7R6HKLZKCySVyPX7V0m_0KKCDWN1twY30VScP_4h-Y81ImlwHV33PhoRHypu3E0biL89Xr3G2IkwnkbpMl9ZUO8ymkmaxfxhKv9SG4LzLOiVXyQ8lHznqVpbLEoGDwblyCHtX_K-Y9b4wsuLGR3LtzMi11hzeNNRW3Aez8wDfuW33gWiTi-r9D_Kqxm__I7Wa5txFcyjXq7Bw-dw3Q.m3u8?u=1705630354
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="SPORTS",BT Sport 1
-https://link.zozotv.xyz:443/rozila969/abc12345/173
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="SPORTS",BT Sport 2
-https://link.zozotv.xyz:443/rozila969/abc12345/174
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",SPOTV
-https://link.zozotv.xyz:443/rozila969/abc12345/399
-#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",Spotv 2
-https://link.zozotv.xyz:443/rozila969/abc12345/555
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",Usee Sport 1
-https://link.zozotv.xyz:443/rozila969/abc12345/360
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",Usee Sport 2
-https://link.zozotv.xyz:443/rozila969/abc12345/361
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena
-https://link.zozotv.xyz:443/rozila969/abc12345/154
-#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena 2
-https://link.zozotv.xyz:443/rozila969/abc12345/400
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS",Arena Bola (720p)
-https://link.zozotv.xyz:443/rozila969/abc12345/791
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS",Arena Bola (1080p)
-https://link.zozotv.xyz:443/rozila969/abc12345/802
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS",Arena Bola 2 (FHD)
-https://link.zozotv.xyz:443/rozila969/abc12345/792
-#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
-https://link.zozotv.xyz:443/rozila969/abc12345/153
-#EXTINF:-1 tvg-id="Golf" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="SPORTS",NBC Golf
-https://link.zozotv.xyz:443/rozila969/abc12345/166
-#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby Pass TV" tvg-logo="https://i.ibb.co/3Tggyhm/rugby.png" group-title="SPORTS",Rugby Pass TV
-https://link.zozotv.xyz:443/rozila969/abc12345/338
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SPORTS",Eurosport
-https://link.zozotv.xyz:443/rozila969/abc12345/328
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SPORTS",WWE
-https://link.zozotv.xyz:443/rozila969/abc12345/284
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS",NBA TV
-https://link.zozotv.xyz:443/rozila969/abc12345/167
-#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORTS",Fight Sport
-https://link.zozotv.xyz:443/rozila969/abc12345/168
-#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/hd3QKsk/CZXC.png" group-title="SPORTS",eGG TV
-https://link.zozotv.xyz:443/rozila969/abc12345/169
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -672,7 +595,78 @@ https://webudit.hlsjs.ru/lb/premium393/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 https://webudit.hlsjs.ru/lb/premium396/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV : Premier League" tvg-logo="https://i.ibb.co/vXM0Xbt/1644814357946.png" group-title="🔥SPORTS🔥",Premier League
+https://link.zozotv.xyz:443/rozila969/abc12345/482
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="🔥SPORTS🔥",ASSP 1
+https://link.zozotv.xyz:443/rozila969/abc12345/155
+#EXTINF:-1 tvg-id="" tvg-name="ASSP-B [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="🔥SPORTS🔥",ASSP 2
+https://link.zozotv.xyz:443/rozila969/abc12345/568
 
+
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="🔥SPORTS🔥",ASSP3
+https://link.zozotv.xyz:443/rozila969/abc12345/157
+
+
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="🔥SPORTS🔥",ASSP4
+https://link.zozotv.xyz:443/rozila969/abc12345/571
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="🔥SPORTS🔥",NOW SPORTS 1
+https://link.zozotv.xyz:443/rozila969/abc12345/836
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="🔥SPORTS🔥",NOW SPORTS 2
+https://link.zozotv.xyz:443/rozila969/abc12345/837
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="🔥SPORTS🔥",NOW SPORTS 3
+https://link.zozotv.xyz:443/rozila969/abc12345/838
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 4" tvg-logo="https://i.ibb.co/jfH0TyW/1684376152528.png" group-title="🔥SPORTS🔥",NOW SPORTS 4
+https://link.zozotv.xyz:443/rozila969/abc12345/839
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 5" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="🔥SPORTS🔥",NOW SPORTS 5
+https://link.zozotv.xyz:443/rozila969/abc12345/840
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="🔥SPORTS🔥",beIN Sports 1 ID
+https://link.zozotv.xyz:443/rozila969/abc12345/162
+#EXTINF:-1 tvg-id="beIN Sport 2" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="🔥SPORTS🔥",beIN Sports 2 ID
+https://link.zozotv.xyz:443/rozila969/abc12345/163
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 (MY)" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="🔥SPORTS🔥",BEIN Sport 1 (MY)
+https://link.zozotv.xyz:443/rozila969/abc12345/384
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport MAX" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="🔥SPORTS🔥",BEIN Sport MAX
+https://link.zozotv.xyz:443/rozila969/abc12345/383
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="🔥SPORTS🔥",BT Sport 1
+https://link.zozotv.xyz:443/rozila969/abc12345/173
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="🔥SPORTS🔥",BT Sport 2
+https://link.zozotv.xyz:443/rozila969/abc12345/174
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="🔥SPORTS🔥",SPOTV
+https://link.zozotv.xyz:443/rozila969/abc12345/399
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="🔥SPORTS🔥",Spotv 2
+https://link.zozotv.xyz:443/rozila969/abc12345/555
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="🔥SPORTS🔥",Usee Sport 1
+https://link.zozotv.xyz:443/rozila969/abc12345/360
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="🔥SPORTS🔥",Usee Sport 2
+https://link.zozotv.xyz:443/rozila969/abc12345/361
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="🔥SPORTS🔥",Arena
+https://link.zozotv.xyz:443/rozila969/abc12345/154
+#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="🔥SPORTS🔥",Arena 2
+https://link.zozotv.xyz:443/rozila969/abc12345/400
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="🔥SPORTS🔥",Arena Bola 
+https://link.zozotv.xyz:443/rozila969/abc12345/791
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="🔥SPORTS🔥",Arena Bola 
+https://link.zozotv.xyz:443/rozila969/abc12345/802
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="🔥SPORTS🔥",Arena Bola 2 
+https://link.zozotv.xyz:443/rozila969/abc12345/792
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="🔥SPORTS🔥",SUKAN RTM
+https://link.zozotv.xyz:443/rozila969/abc12345/153
+#EXTINF:-1 tvg-id="Golf" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="🔥SPORTS🔥",NBC Golf
+https://link.zozotv.xyz:443/rozila969/abc12345/166
+#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby Pass TV" tvg-logo="https://i.ibb.co/3Tggyhm/rugby.png" group-title="🔥SPORTS🔥",Rugby Pass TV
+https://link.zozotv.xyz:443/rozila969/abc12345/338
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="🔥SPORTS🔥",Eurosport
+https://link.zozotv.xyz:443/rozila969/abc12345/328
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="🔥SPORTS🔥",WWE
+https://link.zozotv.xyz:443/rozila969/abc12345/284
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="🔥SPORTS🔥",NBA TV
+https://link.zozotv.xyz:443/rozila969/abc12345/167
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="🔥SPORTS🔥",Fight Sport
+https://link.zozotv.xyz:443/rozila969/abc12345/168
+#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/hd3QKsk/CZXC.png" group-title="🔥SPORTS🔥",eGG TV
+https://link.zozotv.xyz:443/rozila969/abc12345/169
 
 #EXTINF:-1 group-title="SONY SPORTS" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
