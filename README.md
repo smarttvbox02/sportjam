@@ -85,19 +85,19 @@ https://nonton.site:8443/live/ekos/7483/36.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 
 ==========================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI🚩🇮🇩⚽️ ",LIGA BRI  1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI🚩🇮🇩⚽️ ",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI🚩🇮🇩⚽️ ",LIGA BRI 3
 https://link.zozotv.xyz:443/Rina923/390023/45
 
 
@@ -241,32 +241,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
  
 
-#EXTINF: -1 tvg-id="SPOTV" group-title="🚩LIVE VOLY🚩" group-logo="https://i.postimg.cc/FRvtxQZk/6641858.png" ch-number="816" tvg-logo="group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png",SPOTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="810" ch-number="810" tvg-name="SPOTV2" group-title="🚩LIVE VOLY🚩" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",SPOTV2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 3
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9w5Lst/Logo-Terbaru-Liga-2-Indonesia.png" group-title="🚩LIGA BRI🚩", liga pegadaian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/exp=1704626312~acl=/hls-b/ingest_205_*/*~hmac=328c73c2334768566ffb1ef65d3a9d16d1dab62de2b787973b5922491a7f598c/hls-b/ingest_205_1080p/index.m3u8
+
+
  
 ==========================================================================================================================================
  
