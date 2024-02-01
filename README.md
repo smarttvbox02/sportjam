@@ -74,13 +74,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+https://link.zozotv.xyz:443/Rina923/390023/144
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
-http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
-https://nonton.site:8443/live/ekos/7483/36.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ==========================================================================================================================================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI 🇮🇩⚽️ ",LIGA BRI  1
