@@ -668,6 +668,19 @@ https://webudit.hlsjs.ru/lb/premium393/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 https://webudit.hlsjs.ru/lb/premium396/index.m3u8
+#EXTINF:-1 ch-number="816" tvg-id="SPOTV" group-title="🔥SPORTS🔥" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",816 SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+https://tvnid1.askada.workers.dev/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1 ch-number="810" tvg-id="SPOTV2" group-title="🔥SPORTS🔥" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 SPOTV 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://tvnid1.askada.workers.dev/dash-wv/linear/5079/default_primary.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DSTV : Premier League" tvg-logo="https://i.ibb.co/vXM0Xbt/1644814357946.png" group-title="🔥SPORTS🔥",Premier League
 https://link.zozotv.xyz:443/rozila969/abc12345/482
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="🔥SPORTS🔥",ASSP 1
