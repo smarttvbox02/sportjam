@@ -1077,26 +1077,38 @@ https://webudit.hlsjs.ru/lb/premium621/index.m3u8?
 ==============================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="DAZN ELEVEN",DAZN ELEVEN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="DAZN",DAZN ELEVEN 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="DAZN ELEVEN",DAZN ELEVEN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="DAZN",DAZN ELEVEN 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="DAZN ELEVEN",DAZN ELEVEN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="DAZN",DAZN ELEVEN 3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-
+#EXTINF:-1 tvg-id="" tvg-name="DE VIP: Dazn 1 Bar HD" tvg-logo="" group-title="DAZN", Dazn 1  HD
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/74909
+#EXTINF:-1 tvg-id="" tvg-name="DE VIP: Dazn 2 Bar HD" tvg-logo="" group-title="DAZN", Dazn 2  HD
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/74908
+#EXTINF:-1 tvg-id="" tvg-name="DE VIP: Dazn Bar 1 2K DE" tvg-logo="" group-title="DAZN", Dazn 1 2K
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/74907
+#EXTINF:-1 tvg-id="" tvg-name="DE VIP: Dazn Bar 2 2K DE" tvg-logo="" group-title="DAZN", Dazn  2 2K
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/74906
+#EXTINF:-1 tvg-id="" tvg-name="IT VIP: Dazn 1 FHD" tvg-logo="" group-title="DAZN",IT VIP: Dazn 1 FHD
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/77796
+#EXTINF:-1 tvg-id="" tvg-name="IT VIP: Dazn 1 HD" tvg-logo="" group-title="DAZN",IT VIP: Dazn 1 HD
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/77795
+#EXTINF:-1 tvg-id="" tvg-name="IT VIP: Dazn 2 HD" tvg-logo="" group-title="DAZN",IT VIP: Dazn 2 HD
+http://provider-tv.xyz:8080/CostantinDragoi/zLKClIzXg3/77794
 ==============================================================================================
                                      NFL & NBA 
 ==============================================================================================
