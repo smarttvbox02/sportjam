@@ -165,9 +165,9 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 4
-http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47161
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
-http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
+http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59218
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 6
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 7
@@ -186,7 +186,7 @@ http://supersonictv.live:8080/419094/970686/86880
 http://supersonictv.live:8080/419094/970686/86882
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA
-http://clubtv.pro-ott.com:25443/live/davidcostardol1/CF271VUN8R/139281.ts
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47162
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,6 +195,7 @@ https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 3
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47164
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/274347
