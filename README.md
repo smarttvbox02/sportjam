@@ -10,7 +10,7 @@ https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-In
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SIA SIA MENGHARAP CINTAMU
 https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=fuf2rfnce1ex3ew4pew9y5ly1&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SANTRI PEKOK
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/tJF07Jx/Logo-of-You-Tube.gif" group-title="✅ YOUTUBE✅",SANTRI PEKOK
 https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
 
