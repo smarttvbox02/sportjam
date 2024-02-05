@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT AVA MAX
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/XJ1Gbkc/youtube.webp" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT AVA MAX
 https://www.dropbox.com/scl/fi/p6erl39fu4j3gkwlo2ml5/Alan-Walker-Ava-Max-Alone-Pt-II_720p.mp4?rlkey=mpwk58l3uulolaksbxwopntji&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT EMMA
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/XJ1Gbkc/youtube.webp" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT EMMA
 https://www.dropbox.com/scl/fi/22zuqn3x0te2mpzrscy9m/Alan-Walker-x-Emma-Steinbakken-Not-You-Live-Performance_1080p.mp4?rlkey=l2o369n0zbiliy0ruin56nevw&dl=1
 
 
