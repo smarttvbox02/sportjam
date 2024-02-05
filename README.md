@@ -1,9 +1,17 @@
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT AVA MAX
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT AVA MAX
 https://www.dropbox.com/scl/fi/p6erl39fu4j3gkwlo2ml5/Alan-Walker-Ava-Max-Alone-Pt-II_720p.mp4?rlkey=mpwk58l3uulolaksbxwopntji&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="🇮🇩 YOUTUBE 🇮🇩",ALAN WALKER FT EMMA
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT EMMA
 https://www.dropbox.com/scl/fi/22zuqn3x0te2mpzrscy9m/Alan-Walker-x-Emma-Steinbakken-Not-You-Live-Performance_1080p.mp4?rlkey=l2o369n0zbiliy0ruin56nevw&dl=1
 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SATU RASA CINTA
+https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SIA SIA MENGHARAP CINTAMU
+https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=fuf2rfnce1ex3ew4pew9y5ly1&dl=1
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SANTRI PEKOK
+https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
 
 
