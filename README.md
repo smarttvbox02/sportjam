@@ -804,54 +804,20 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenSports1.be.png",Eleven Sports 1 BE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/ElevenProLeague1FR.be.png",Eleven Pro League 1 BE (French language)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-050/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports1.be.png",Play Sports 1 BE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports2.be.png",Play Sports 2 BE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Belgium/PlaySports3.be.png",Play Sports 3 BE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.1.pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS1.pt.png",Eleven Sports 1 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.2..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS2.pt.png",Eleven Sports 2 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.3..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS3.pt.png",Eleven Sports 3 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.4..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS4.pt.png",Eleven Sports 4 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.5..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS5.pt.png",Eleven Sports 5 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",Eleven Sports 6 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
+
+
+#EXTINF:-1 tvg-id="ELEVEN.1.pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS1.pt.png",Eleven Sports 1 
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47161
+#EXTINF:-1 tvg-id="ELEVEN.2..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS2.pt.png",Eleven Sports 2
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47162
+#EXTINF:-1 tvg-id="ELEVEN.3..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS3.pt.png",Eleven Sports 3
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47163
+#EXTINF:-1 tvg-id="ELEVEN.4..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS4.pt.png",Eleven Sports 4 
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47164
+#EXTINF:-1 tvg-id="ELEVEN.5..pt" group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS5.pt.png",Eleven Sports 5 
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47165
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS", True Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://oneplayer.online/
