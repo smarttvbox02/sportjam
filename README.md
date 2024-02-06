@@ -457,7 +457,11 @@ https://edge1.laotv.la/live/TrueSport2/index.m3u8
 https://edge1.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="▶️SPORTS◀️",TRUE SPORT 7
 https://edge1.laotv.la/live/THD7/index.m3u8
- 
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" ,K+ SPORTS 1
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
+
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" ,K+ SPORTS 2
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8 
 #EXTINF:-1 group-title="▶️SPORTS◀️",tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,MY| ASTRO ARENA HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191853
 #EXTINF:-1 group-title="▶️SPORTS◀️", tvg-logo="https://lo1.in/MALAY/astroarn2.png" ,MY| ASTRO ARENA 2 HD
