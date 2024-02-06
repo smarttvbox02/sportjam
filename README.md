@@ -14,16 +14,32 @@ https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-D
 https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
 
-
+#EXTINF:-1 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo" group-title="🇮🇩 NASIONAL 🇮🇩",Indosiar HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/8z0i" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="🇮🇩 NASIONAL 🇮🇩",Moji HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="mentaritv.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/3jyj",Mentari TV 
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
