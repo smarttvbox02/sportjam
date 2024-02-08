@@ -12,6 +12,7 @@ https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-D
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK
 https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
+
 ============================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypBSKVv/music.jpg" group-title="🔊💠📣Music🔊💠📣",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
