@@ -44,9 +44,12 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="🔊💠📣Music🔊💠📣", Citra Dangdut
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="🔊💠📣Music🔊💠📣",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.ibb.co/ypBSKVv/music.jpg" group-title="🔊💠📣Music🔊💠📣",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/01/26/lX0ojz.png" group-title="🔊💠📣Music🔊💠📣",CHANNEL V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 
 
 
@@ -55,7 +58,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
-
+============================================================================================================================
 
 
 #EXTINF:-1 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo" group-title="🇮🇩 NASIONAL 🇮🇩",Indosiar HD
