@@ -52,7 +52,8 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="🔊💠📣Music🔊💠📣",MEGASWARA TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 
 
 
@@ -205,37 +206,10 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
 https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
  
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",PIALA ASIA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
-https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 3
-https://link.zozotv.xyz:443/rozila969/abc12345/791
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",SSC SPORT
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422120&extension=ts&play_token=kRgSkpTZuH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422124&extension=ts&play_token=4oQLjHkfLN
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://ott.the-afc.com/image/1920x1080/1cca4085-eb30-415a-9b34-01e128fd9e51.jpg?v=20230510155921" group-title="🏆PIALA ASIA🏆", AFC Asian Cup 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
- 
- 
-#EXTINF:-1 tvg-logo="https://ott.the-afc.com/image/1920x1080/1cca4085-eb30-415a-9b34-01e128fd9e51.jpg?v=20230510155921" group-title="🏆PIALA ASIA🏆",  AFC Asian Cup 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 
+=========================================================================================================================================================================
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
@@ -425,6 +399,24 @@ http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 2
 http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREizczTq8Lh5-zj5HkC3vlhQaVnLKamz9PqtzmrkrRlvKNgOR7R6HKLZKCySVyPX7V0m_0KKCDWN1twY30VScP_4h-Y81ImlwHV33PhoRHypu3E0biL89Xr3G2IkwnkbpMl9ZUO8ymkmaxfxhKv9SG4LzLOiVXyQ8lHznqVpbLEoGDwblyCHtX_K-Y9b4wsuLGR3LtzMi11hzeNNRW3Aez8wDfuW33gWiTi-r9D_Kqxm__I7Wa5txFcyjXq7Bw-dw3Q.m3u8?u=1705630354
 
+=-========================================================================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="PEACOCK", PEACOCK PL
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="PEACOCK", PEACOCK 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="PEACOCK", PEACOCK 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032455&extension=ts&play_token=Y03rpkUlFR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="PEACOCK", PEACOCK 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extension=ts&play_token=Y03rpkUlFR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="PEACOCK", PEACOCK 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032453&extension=ts&play_token=Y03rpkUlFR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="PEACOCK", PEACOCK 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032452&extension=ts&play_token=Y03rpkUlFR
+
+
+===========================================================================================================================================================================
 
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
