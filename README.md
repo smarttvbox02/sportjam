@@ -278,20 +278,14 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://207.148.120.199:8088/api/results.php?keyid=3a165f923cd49e616f173fc6c341cc56&key=4cb96186d69f1a63c40218812a6f6910
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
- 
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592 
 
 
 
