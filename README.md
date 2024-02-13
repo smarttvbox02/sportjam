@@ -322,8 +322,10 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension
 
 
 =================================================================================================================================
- 
-
+ #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf  court 2    
+ https://adem-tv.000webhostapp.com/buluterbang/court2.m3u8?court2=stream
+#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",  bwf court3
+https://adem-tv.000webhostapp.com/buluterbang/court3.m3u8?court3=stream  
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
