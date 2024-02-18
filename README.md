@@ -624,6 +624,20 @@ https://at.live12.ir/hls2/beinsport6.m3u8
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="https://www.fifplay.com/img/public/afc-asian-cup-2023-logo.png" group-title="▶️SPORTS◀️",BEIN  2 HD
 https://edge1.laotv.la/live/Bsport2/index.m3u8 
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="http://203.80.165.14/imagecache/937" group-title="▶️SPORTS◀️",Skynet Sports 1
+http://203.80.165.14/stream/channelid/1175144244?profile=pass
+
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="http://203.80.165.14/imagecache/938" group-title="▶️SPORTS◀️",Skynet Sports 2
+http://203.80.165.14/stream/channelid/146758025?profile=pass
+
+
+EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="http://203.80.165.14/imagecache/936" group-title="▶️SPORTS◀️",SkyNet Soprts 3
+http://203.80.165.14/stream/channelid/1724180353?profile=pass
+
+
+
  
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="▶️SPORTS◀️",ASTRO SUPERSPORT 1 
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
