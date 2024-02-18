@@ -398,10 +398,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension
 
 
 =================================================================================================================================
- #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf  court 2    
- https://adem-tv.000webhostapp.com/buluterbang/court2.m3u8?court2=stream
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",  bwf court3
-https://adem-tv.000webhostapp.com/buluterbang/court3.m3u8?court3=stream  
+ #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", BATC COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://etslive-2-vidio-com.akamaized.net/exp=1708263442~acl=/hls-p/ingest_17072_*/*~hmac=bd6556ef3df814b54809ce9ed6969328b0a69da7335eab29833b236ff1e6bfea/hls-p/ingest_17072_1080p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
