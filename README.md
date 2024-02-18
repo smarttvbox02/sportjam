@@ -627,15 +627,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png" group-title="▶️SPORTS◀️",Skynet Sports 1
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/dBhrYs7/skynet.png" group-title="▶️SPORTS◀️",Skynet Sports 1
 http://203.80.165.14/stream/channelid/1175144244?profile=pass
-
-
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png" group-title="▶️SPORTS◀️",Skynet Sports 2
+ 
+ 
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/dBhrYs7/skynet.png" group-title="▶️SPORTS◀️",Skynet Sports 2
 http://203.80.165.14/stream/channelid/146758025?profile=pass
-
-
-EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png" group-title="▶️SPORTS◀️",SkyNet Soprts 3
+ 
+ 
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/dBhrYs7/skynet.png" group-title="▶️SPORTS◀️",SkyNet Soprts 3
 http://203.80.165.14/stream/channelid/1724180353?profile=pass
 
 
