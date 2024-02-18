@@ -293,79 +293,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592 
 ==================================================================================================================================================================
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 01
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111867
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 02
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111868
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 03
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111869
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 04
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111870
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 05
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111871
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 06
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111872
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 07
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111873
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 1 Preminum
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111874
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 2 Premium
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111875
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 3 Premium
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111876
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 1 English
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111877
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 2 English
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111878
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 3 English
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111879
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111883
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", Bein Sports 02
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111887
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", Bein Sports 03
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111888
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports MAX 04
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111889
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports MAX 08
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111893
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports MAX 09
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111894
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports MAX 10
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111895
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 02
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111897
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111900
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 01
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111903
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 02
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111904
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 03
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111905
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 04
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111906
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",	beIN Sports en Espanol
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111898
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports LaLiga
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111907
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111908
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", BeinSpORTS 04
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111909
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 05
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111910
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 06
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111911
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 07
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111912
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png", beIN Sports 08
-http://ourlink.vip:7777/ARJ11/CBWUDTS/111913
 
 
 
