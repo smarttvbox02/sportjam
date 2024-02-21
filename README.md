@@ -396,6 +396,35 @@ http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0
 http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREizczTq8Lh5-zj5HkC3vlhQaVnLKamz9PqtzmrkrRlvKNgOR7R6HKLZKCySVyPX7V0m_0KKCDWN1twY30VScP_4h-Y81ImlwHV33PhoRHypu3E0biL89Xr3G2IkwnkbpMl9ZUO8ymkmaxfxhKv9SG4LzLOiVXyQ8lHznqVpbLEoGDwblyCHtX_K-Y9b4wsuLGR3LtzMi11hzeNNRW3Aez8wDfuW33gWiTi-r9D_Kqxm__I7Wa5txFcyjXq7Bw-dw3Q.m3u8?u=1705630354
 
 =-========================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", group-title="✅BEINSPORTS✅",Bein 1 AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", group-title="✅BEINSPORTS✅",Bein 2 AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", group-title="✅BEINSPORTS✅",BEIN AIS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", group-title="✅BEINSPORTS✅",BEIN AIS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", group-title="✅BEINSPORTS✅",BEIN AIS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
 
 #EXTINF:-1 group-title="✅BEINSPORTS✅" tvg-id="beinsports3en.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports English 3 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
