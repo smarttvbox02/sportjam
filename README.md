@@ -1534,7 +1534,6 @@ https://webudit.hlsjs.ru/lb/premium375/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium316/index.m3u8
 
-==============================================================================================
                                      TSN 
 ==============================================================================================
 
