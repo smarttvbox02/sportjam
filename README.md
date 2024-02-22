@@ -197,8 +197,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI 🇮🇩⚽️ ",LIGA BRI 3
 https://link.zozotv.xyz:443/Rina923/390023/45
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="⚾️VOLY⚾️",voly korea
-https://bintangstreaming.my.id/sbssport/S02.m3u8
+
 ===========================================================================================================================================================================
 
 
