@@ -178,7 +178,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 =========================================================================================================================================================================
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",PSIS VS MADURA
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI 🇮🇩⚽️ ",PSIS VS MADURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://etslive-2-vidio-com.akamaized.net/exp=1708691110~acl=/hls-b/ingest_13561_*/*~hmac=97b95b5e677f22699cba79d3e26d500fc79836a4b32d086c8b87bc8f51414f7b/hls-b/ingest_13561_1080p/index.m3u8
 
