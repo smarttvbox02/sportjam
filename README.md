@@ -564,7 +564,27 @@ https://sport.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
-
+==================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 1 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 1 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63492
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 2 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 2 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63493
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 3 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 3 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63494
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 4 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 4 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63495
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 5 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 5 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63496
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 6 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 6 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63497
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 7 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 7 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63498
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 8 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 8 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63499
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 9 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 9 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63500
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 10 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 10 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63501
 
 
 
@@ -1574,3 +1594,55 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extens
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="🔥SPORTS🔥" tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%204.png",ORANGE SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="" group-title="DAZN SPORT",ZONA DAZN HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63985
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63989
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63992
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63995
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63998
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64001
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64004
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64007
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64010
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64013
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64016
+#EXTINF:-1 tvg-id="" tvg-name="===== DAZN SERIE B =====" tvg-logo="" group-title="DAZN SPORT",===== DAZN SERIE B =====
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/60975
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Dazn Serie B" tvg-logo="" group-title="DAZN SPORT",Vetrina Dazn Serie B
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64018
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64227
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64020
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64022
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64228
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64024
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64025
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64026
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64027
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64028
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 SERIEB HD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64029
+
+
+
+
+
