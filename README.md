@@ -169,11 +169,9 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etslive-2-vidio-com.akamaized.net/exp=1708966635~acl=/hls-p/ingest_13797_*/*~hmac=fbb6ccce8a2eadd6b91bfd3f8eec24577ac7a4cced79d7de0427e3ced9c8cd50/hls-p/ingest_13797_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI 🇮🇩⚽️ ",LIGA BRI  1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
