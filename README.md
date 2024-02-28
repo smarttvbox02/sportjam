@@ -503,7 +503,7 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/3645
 ===========================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="🌐PREMIERE🌐",NOW SPORTS 1
-http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/200230
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246323
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="🌐PREMIERE🌐",NOW SPORTS 2
 http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246324
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="🌐PREMIERE🌐",NOW SPORTS 3
