@@ -720,8 +720,45 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/756
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/757
 
 ==========================================================================================================================================================================
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 1
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290686
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 10
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295566
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 11
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295567
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 12" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 12
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295568
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 13" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 13
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295569
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 14" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 14
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295570
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 15" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 15
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295571
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 16" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 16
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295572
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 17" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 17
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/295573
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 18
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297337
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 2
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290687
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 20" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 20
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297325
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 3
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/281748
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 4
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290688
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 5
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290689
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 6
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290690
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 7
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/281749
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 8
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290691
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 9
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290692
+========================================================================================================================================================================
 
 
 
