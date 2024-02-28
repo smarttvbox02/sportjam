@@ -59,8 +59,35 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="🔊💠📣Music🔊💠📣",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
-
-
+=======================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME HORROR HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81033
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME JACKIE CHAN HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81034
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME JASON STATHAM HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81035
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME JEAN CLAUDE VAN DAMME HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81036
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME KURT RUSSELL HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81037
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME LEONARDO DICAPRIO HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81038
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME MARVEL HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81039
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME MITTELERDE HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81040
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME RUSSELL CROWE HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81041
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME STAR WARS HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81042
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME SYLVESTER STALLONE HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81043
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME THE FAST AND THE FURIOUS HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81044
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME TOM CRUISE HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81045
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title=" 📺FILM📺 ",CINEDOME TOMMY LEE JONES HD+
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/81046
 
 
 
