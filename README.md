@@ -1622,7 +1622,66 @@ http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64028
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SERIEB HD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 SERIEB HD
 http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64029
 
-
+#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV FHD" group-title="FORMULA 1 + MOTO GP",F1| F1 TV FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV GERMANY" group-title="FORMULA 1 + MOTO GP",F1| F1 TV GERMANY
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920205&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV MAIN ENGLISH" group-title="FORMULA 1 + MOTO GP",F1| F1 TV MAIN ENGLISH
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920203&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV MAIN FRANCE" group-title="FORMULA 1 + MOTO GP",F1| F1 TV MAIN FRANCE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920204&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| F1 TV SPANISH" group-title="FORMULA 1 + MOTO GP",F1| F1 TV SPANISH
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920206&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| MOVISTAR F1" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR F1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317783&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| MOVISTAR FORMULA 1 HD" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR FORMULA 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317784&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORT F1 IT" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORT F1 IT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317778&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317781&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 FHD" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317779&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317782&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD DE" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD DE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317780&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS FORMULA 1 HD IT" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS FORMULA 1 HD IT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=317777&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| VIAPLAY 1 FHD" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920209&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| VIAPLAY 2 FHD" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 2 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://tv.greatstar.me:80/play/live.php?mac=00:1B:79:00:02:97&stream=920210&extension=ts
 
 
 
