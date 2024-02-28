@@ -565,8 +565,57 @@ http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63499
 http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63500
 #EXTINF:-1 tvg-id="" tvg-name="Blue Sport 10 HD" tvg-logo="" group-title="🌐BLUE SPORT🌐",Blue Sport 10 HD
 http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63501
-
-
+==================================================================================================================================================================
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK:* TNT Sports 1 FHD" tvg-logo="http://kb007.xyz/picons/tntsports1.png" group-title=" ♻️VIP SPORT ♻️",UK:* TNT Sports 1 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7963
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT Sports 1 FHD2" tvg-logo="http://kb007.xyz/picons/tntsports1.png" group-title" ♻️VIP SPORT ♻️",TNT Sports 1 FHD2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/305246
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT Sports 1" tvg-logo="http://kb007.xyz/picons/tntsports1.png" group-title=" ♻️VIP SPORT ♻️",TNT Sports 1
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/2638
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK:* TNT Sports 2 FHD" tvg-logo="http://kb007.xyz/picons/tntsports2.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 2 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7962
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT Sports 2 FHD2" tvg-logo="http://kb007.xyz/picons/tntsports2.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 2 FHD2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7415
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT Sports 2" tvg-logo="http://kb007.xyz/picons/tntsports2.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/2635
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK:* TNT Sports 3 FHD" tvg-logo="http://kb007.xyz/picons/tntsports3.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 3 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7961
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT Sports 3 FHD2" tvg-logo="http://kb007.xyz/picons/tntsports3.png" group-title=" ♻️VIP SPORT ♻️",TNT Sports 3 FHD2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7416
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT Sports 3" tvg-logo="http://kb007.xyz/picons/tntsports3.png" group-title=" ♻️VIP SPORT ♻️",TNT Sports 3
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/5878
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK:* TNT Sports 4 FHD" tvg-logo="http://kb007.xyz/picons/tntsports4.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 4 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/29806
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sports 4 FHD2" tvg-logo="http://kb007.xyz/picons/tntsports4.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 4 FHD2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7417
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sports 4" tvg-logo="http://kb007.xyz/picons/tntsports4.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports 4
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/2640
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="UK: TNT Sports Ulitmate 4K UHD" tvg-logo="http://kb007.xyz/picons/tntsportsultimate.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports Ulitmate 4K UHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/304355
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="UK: TNT Sports Ultimate FHD" tvg-logo="http://kb007.xyz/picons/tntsportsultimate.png" group-title=" ♻️VIP SPORT ♻️", TNT Sports Ultimate FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/5860
+#EXTINF:-1 tvg-id="Viaplay1.uk" tvg-name="UK: Viaplay Sports 1 HD" tvg-logo="http://kb007.xyz/picons/viaplayinfo.png" group-title=" ♻️VIP SPORT ♻️", Viaplay Sports 1 HD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/304070
+#EXTINF:-1 tvg-id="Viaplay2.uk" tvg-name="UK: Viaplay Sports 2 HD" tvg-logo="http://kb007.xyz/picons/viaplayinfo.png" group-title=" ♻️VIP SPORT ♻️", Viaplay Sports 2 HD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/304071
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports Xtra FHD" tvg-logo="http://kb007.xyz/picons/viaplayinfo.png" group-title=" ♻️VIP SPORT ♻️", Viaplay Sports Xtra FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/5859
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports 1 FHD" tvg-logo="http://kb007.xyz/picons/premiersports.png" group-title=" ♻️VIP SPORT ♻️", Premier Sports 1 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/9636
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK:* Premier Sports 2 FHD" tvg-logo="http://kb007.xyz/picons/premiersports.png" group-title=" ♻️VIP SPORT ♻️",Premier Sports 2 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/90555
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK:* Eurosport 1 FHD" tvg-logo="http://kb007.xyz/picons/eurosport1.png" group-title=" ♻️VIP SPORT ♻️", Eurosport 1 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/8676
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: Eurosport 1" tvg-logo="http://kb007.xyz/picons/eurosport1.png" group-title=" ♻️VIP SPORT ♻️", Eurosport 1
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/1219
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK:* Eurosport 2 FHD" tvg-logo="http://kb007.xyz/picons/eurosport2.png" group-title=" ♻️VIP SPORT ♻️", Eurosport 2 FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/8677
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="http://kb007.xyz/picons/eurosport2.png" group-title=" ♻️VIP SPORT ♻️", Eurosport 2
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/2665
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK:* Racing TV FHD" tvg-logo="http://kb007.xyz/picons/racingtv.png" group-title=" ♻️VIP SPORT ♻️", Racing TV FHD
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/7984
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV" tvg-logo="http://kb007.xyz/picons/racingtv.png" group-title=" ♻️VIP SPORT ♻️", Racing TV
+http://clientbox.tv:80/7iwMfmg0ai/e2QICE17Of/2609
 
 ===========================================================================================================================================================================
 
