@@ -502,6 +502,20 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/3645
 
 ===========================================================================================================================================================================
 
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="🌐PREMIERE🌐",NOW SPORTS 1
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/200230
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="🌐PREMIERE🌐",NOW SPORTS 2
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246324
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="🌐PREMIERE🌐",NOW SPORTS 3
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/200228
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 4" tvg-logo="https://i.ibb.co/jfH0TyW/1684376152528.png" group-title="🌐PREMIERE🌐",NOW SPORTS 4
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246325
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 5" tvg-logo="https://i.ibb.co/KFSpRmt/1684376197363.png" group-title="🌐PREMIERE🌐",NOW SPORTS 5
+http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246326
+
+==============================================================================================================================================================================
+
+
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
  
