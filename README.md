@@ -194,6 +194,12 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592 
 ==================================================================================================================================================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="F1 | Sky Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | Sky Sports
+http://eucable.net:80/0099887766/1122334455/405096
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportMotorsport.za" tvg-name="F1 | SuperSports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | SuperSports
+http://eucable.net:80/0099887766/1122334455/405097
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="F1 | Astro Supersports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | Astro Supersports
+http://eucable.net:80/0099887766/1122334455/405098
 
 
 
@@ -626,7 +632,15 @@ http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45800
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv   
  
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="SG | Hub Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="▶️SPORTS◀️",SG | Hub Sports 3
+http://eucable.net:80/0099887766/1122334455/625475
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.sg" tvg-name="SG | beIN Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="▶️SPORTS◀️",SG | beIN Sports 1
+http://eucable.net:80/0099887766/1122334455/625423
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SG (SH) beIN SPORTS 2 (D)" tvg-name="SG | beIN Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="▶️SPORTS◀️",SG | beIN Sports 2
+http://eucable.net:80/0099887766/1122334455/625424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SG (SH) beIN Sports 3 (D)" tvg-name="SG | beIN Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="▶️SPORTS◀️",SG | beIN Sports 3
+http://eucable.net:80/0099887766/1122334455/625422
  
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="▶️SPORTS◀️", HUB SPORT PREMIER 1
@@ -775,7 +789,44 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290691
 #EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="✌MAGENTA✌",Magenta Sport 9
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/290692
 ========================================================================================================================================================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro Cricket HD " tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroCricket.png" group-title="🔰MALAY SPORTS🔰",MY | Astro Cricket HD 
+http://eucable.net:80/0099887766/1122334455/709264
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 1 FHD " tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 1 FHD 
+http://eucable.net:80/0099887766/1122334455/709263
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport.my" tvg-name="MYS | Astro SuperSport 1 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" group-title="🔰MALAY SPORTS🔰",MYS | Astro SuperSport 1 FHD
+http://eucable.net:80/0099887766/1122334455/57500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 1 " tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 1 
+http://eucable.net:80/0099887766/1122334455/709262
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 2 FHD
+http://eucable.net:80/0099887766/1122334455/709261
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport2.my" tvg-name="MYS | Astro SuperSport 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" group-title="🔰MALAY SPORTS🔰",MYS | Astro SuperSport 2 FHD
+http://eucable.net:80/0099887766/1122334455/57501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 2 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 2 HD
+http://eucable.net:80/0099887766/1122334455/709260
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 3 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 3 FHD
+http://eucable.net:80/0099887766/1122334455/709259
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport3.my" tvg-name="MYS | Astro SuperSport 3 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" group-title="🔰MALAY SPORTS🔰",MYS | Astro SuperSport 3 FHD
+http://eucable.net:80/0099887766/1122334455/57502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 3 HD " tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 3 HD 
+http://eucable.net:80/0099887766/1122334455/709258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 4 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 4 FHD
+http://eucable.net:80/0099887766/1122334455/709257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport4.my" tvg-name="MYS | Astro SuperSport 4 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" group-title="🔰MALAY SPORTS🔰",MYS | Astro SuperSport 4 FHD
+http://eucable.net:80/0099887766/1122334455/57503
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | Astro SuperSport 4 HD " tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" group-title="🔰MALAY SPORTS🔰",MY | Astro SuperSport 4 HD 
+http://eucable.net:80/0099887766/1122334455/709256
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport5.my" tvg-name="MYS | W-Sport FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/W-Sports.png" group-title="🔰MALAY SPORTS🔰",MYS | W-Sport FHD
+http://eucable.net:80/0099887766/1122334455/57510
+9
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | SkyNet Golf HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="🔰MALAY SPORTS🔰",MY | SkyNet Golf HD
+http://eucable.net:80/0099887766/1122334455/709249
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FS1HD" tvg-name="MYS | Astro Fox Sports 1 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/FoxSports.png" group-title="🔰MALAY SPORTS🔰",MYS | Astro Fox Sports 1 FHD
+http://eucable.net:80/0099887766/1122334455/57512
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY | GNIX Sports HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="🔰MALAY SPORTS🔰",MY | GNIX Sports HD
+http://eucable.net:80/0099887766/1122334455/709253
 
 
 ==============================================================================================================================================================================
@@ -1452,6 +1503,38 @@ http://imedia.click:7777/MrPanic88/XVDV/111102
 #EXTINF:-1 tvg-id="OPTUS SPORT 13" tvg-name="OPTUS SPORTS 13" tvg-logo="" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 13
 http://imedia.click:7777/MrPanic88/XVDV/111106
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US (PC) Peacock Eevnt 2 (D)" tvg-name="US (PC) Peacock Eevnt 2 (D)" tvg-logo="" group-title="🔹EVENTS ONLY🔹", Peacock Eevnt 2 
+http://eucable.net:80/0099887766/1122334455/620578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US (PC) Peacock Eevnt 3 (D)" tvg-name="US (PC) Peacock Eevnt 3 (D)" tvg-logo="" group-title="🔹EVENTS ONLY🔹", Peacock Eevnt 3 
+http://eucable.net:80/0099887766/1122334455/620579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Peacock_1" tvg-name="Peacock 01" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="🔹EVENTS ONLY🔹",Peacock 01
+http://eucable.net:80/0099887766/1122334455/400971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Peacock_2" tvg-name="Peacock 02" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="🔹EVENTS ONLY🔹",Peacock 02
+http://eucable.net:80/0099887766/1122334455/400972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Peacock_3" tvg-name="Peacock 03" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="🔹EVENTS ONLY🔹",Peacock 03
+http://eucable.net:80/0099887766/1122334455/400973
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="English - Now Sports 4K 616" tvg-name="EPL | Now Sports 4K" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="🔹EVENTS ONLY🔹"EPL  Now Sports 4K
+http://eucable.net:80/0099887766/1122334455/174942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK | Now Sports 4K HDR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="🔹EVENTS ONLY🔹", Now Sports 4K HDR
+http://eucable.net:80/0099887766/1122334455/699625
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1En.hk" tvg-name="HK | Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="🔹EVENTS ONLY🔹",Now HK Premier Sports 1
+http://eucable.net:80/0099887766/1122334455/35915
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK | Now HK Premier Sports 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-TV.png" group-title="🔹EVENTS ONLY🔹", Now HK Premier Sports 8
+http://eucable.net:80/0099887766/1122334455/35908
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="English - beIN – Now Sports 2" tvg-name="HK | Now Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="🔹EVENTS ONLY🔹",Now Sports 2
+http://eucable.net:80/0099887766/1122334455/697702
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="English - Now Sports 3" tvg-name="HK | Now Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="🔹EVENTS ONLY🔹",Now Sports 3
+http://eucable.net:80/0099887766/1122334455/697703
+
+
+
+
+
+
 
 
 
@@ -1475,7 +1558,7 @@ http://imedia.click:7777/MrPanic88/XVDV/148401
 http://imedia.click:7777/MrPanic88/XVDV/148402
 #EXTINF:-1 tvg-id="vidio10" tvg-name="VIDIO 10" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 10
 http://imedia.click:7777/MrPanic88/XVDV/148403
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 11" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title=""🔹EVENTS ONLY🔹"",VIDIO 11
+#EXTINF:-1 tvg-id="" tvg-name="VIDIO 11" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title=""🔹EVENTS ONLY🔹",VIDIO 11
 http://imedia.click:7777/MrPanic88/XVDV/148404
 #EXTINF:-1 tvg-id="" tvg-name="VIDIO 12" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title="🔹EVENTS ONLY🔹",VIDIO 12
 http://imedia.click:7777/MrPanic88/XVDV/148405
@@ -1496,8 +1579,47 @@ http://imedia.click:7777/MrPanic88/XVDV/148412
 #EXTINF:-1 tvg-id="" tvg-name="VIDIO 20" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 20
 http://imedia.click:7777/MrPanic88/XVDV/148413
 
+=================================================================================================================================
+http://eucable.net:80/0099887766/1122334455/35805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="UK-Eurosport 1 HD" tvg-logo="http://b1g.us/logos/eurosport1hd.png" group-title="🌐UK SPORTS🌐",UK-Eurosport 1 HD
+http://eucable.net:80/0099887766/1122334455/11988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="UK-Eurosport 1 FHD*" tvg-logo="http://b1g.us/logos/eurosport1hd.png" group-title="🌐UK SPORTS🌐",UK-Eurosport 1 FHD*
+http://eucable.net:80/0099887766/1122334455/20162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="UK-Eurosport 2 HD" tvg-logo="http://b1g.us/logos/eurosport2.png" group-title="🌐UK SPORTS🌐",UK-Eurosport 2 HD
+http://eucable.net:80/0099887766/1122334455/11987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="UK-Eurosport 2 FHD*" tvg-logo="http://b1g.us/logos/eurosport2hd.png" group-title="🌐UK SPORTS🌐",UK-Eurosport 2 FHD*
+http://eucable.net:80/0099887766/1122334455/20163
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports1.uk" tvg-name="UK-VIaPlay Sports 1 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/ViaPlay-Sports-1.jpg" group-title="🌐UK SPORTS🌐",UK-VIaPlay Sports 1 FHD
+http://eucable.net:80/0099887766/1122334455/15268
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports1.uk" tvg-name="UK-ViaPlay Sports 1 SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/ViaPlay-Sports-1.jpg" group-title="🌐UK SPORTS🌐",UK-ViaPlay Sports 1 SD
+http://eucable.net:80/0099887766/1122334455/168692
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports2.uk" tvg-name="UK-ViaPlay Sports 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/ViaPlay-Sports-2-copy.jpg" group-title="🌐UK SPORTS🌐",UK-ViaPlay Sports 2 FHD
+http://eucable.net:80/0099887766/1122334455/11973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports2.uk" tvg-name="UK-ViaPlay Sports 2 SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/ViaPlay-Sports-2-copy.jpg" group-title="🌐UK SPORTS🌐",UK-ViaPlay Sports 2 SD
+http://eucable.net:80/0099887766/1122334455/12000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplayXtra.uk" tvg-name="UK-ViaPlay Sports Xtra FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/ViaPlay-Xtra.jpg" group-title="🌐UK SPORTS🌐",UK-ViaPlay Sports Xtra FHD
+http://eucable.net:80/0099887766/1122334455/164501
 
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NatGeoPlus1.uk" tvg-name="UK-Premier Sport 1 FHD*" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PremierSports.png" group-title="🌐UK SPORTS🌐",UK-Premier Sport 1 FHD*
+http://eucable.net:80/0099887766/1122334455/13840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UK-Premier Sport 2 FHD*" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PremierSports2.png" group-title="🌐UK SPORTS🌐",UK-Premier Sport 2 FHD*
+http://eucable.net:80/0099887766/1122334455/11972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK-Racing TV FHD" tvg-logo="http://b1g.us/logos/racingukhd.png" group-title="🌐UK SPORTS🌐",UK-Racing TV FHD
+http://eucable.net:80/0099887766/1122334455/94058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK-Racing HD*" tvg-logo="http://b1g.us/logos/racingukhd.png" group-title="🌐UK SPORTS🌐",UK-Racing HD*
+http://eucable.net:80/0099887766/1122334455/11974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="UK-La Liga TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/La-Liga-TV.jpg" group-title="🌐UK SPORTS🌐",UK-La Liga TV FHD
+http://eucable.net:80/0099887766/1122334455/22153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="UK-La Liga TV HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/La-Liga-TV.jpg" group-title="🌐UK SPORTS🌐",UK-La Liga TV HD
+http://eucable.net:80/0099887766/1122334455/22152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK-LFC TV FHD*" tvg-logo="http://webo.asia/logos/liverpoolfctv.png" group-title="🌐UK SPORTS🌐",UK-LFC TV FHD*
+http://eucable.net:80/0099887766/1122334455/20157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK-LFC TV SD*" tvg-logo="http://webo.asia/logos/liverpoolfctv.png" group-title="🌐UK SPORTS🌐",UK-LFC TV SD*
+http://eucable.net:80/0099887766/1122334455/14049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK-MUTV FHD*" tvg-logo="http://webo.asia/logos/mutvhd.png" group-title="🌐UK SPORTS🌐",UK-MUTV FHD*
+http://eucable.net:80/0099887766/1122334455/21037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK-MUTV HD*" tvg-logo="http://b1g.us/logos/mutv.png" group-title="🌐UK SPORTS🌐",UK-MUTV HD*
+http://eucable.net:80/0099887766/1122334455/11969
 
 
 
