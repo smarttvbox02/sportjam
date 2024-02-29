@@ -690,14 +690,16 @@ https://webudit.hlsjs.ru/lb/premium396/index.m3u8
 =========================================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 1
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/270
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 10
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/283203
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 2
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/273
+https://catowrap.live/mrgamingbtsport2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 3
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/271
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 4
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298471
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 7" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 7
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/279255
@@ -705,7 +707,8 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/279255
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/7435
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 9
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/7438
-
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="❌TNT❌",TNT Sports 10
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/283203
 ===========================================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="❇USA SPORT❇",ESPN
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/747
