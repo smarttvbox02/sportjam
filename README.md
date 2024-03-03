@@ -1486,22 +1486,7 @@ http://imedia.click:7777/MrPanic88/XVDV/111096
 http://imedia.click:7777/MrPanic88/XVDV/111097
 #EXTINF:-1 tvg-id="OPTUS SPORT 5" tvg-name="OPTUS SPORTS 05" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_5.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 05
 http://imedia.click:7777/MrPanic88/XVDV/111098
-#EXTINF:-1 tvg-id="OPTUS SPORT 6" tvg-name="OPTUS SPORTS 06" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_6.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 06
-http://imedia.click:7777/MrPanic88/XVDV/111099
-#EXTINF:-1 tvg-id="OPTUS SPORT 7" tvg-name="OPTUS SPORTS 07" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_7.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 07
-http://imedia.click:7777/MrPanic88/XVDV/111100
-#EXTINF:-1 tvg-id="OPTUS SPORT 8" tvg-name="OPTUS SPORTS 08" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_8.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 08
-http://imedia.click:7777/MrPanic88/XVDV/111101
-#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="OPTUS SPORTS 09" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_9.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 09
-http://imedia.click:7777/MrPanic88/XVDV/111104
-#EXTINF:-1 tvg-id="OPTUS SPORT 10" tvg-name="OPTUS SPORTS 10" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_10.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 10
-http://imedia.click:7777/MrPanic88/XVDV/111103
-#EXTINF:-1 tvg-id="OPTUS SPORT 11" tvg-name="OPTUS SPORTS 11" tvg-logo="https://www.gameonlivesports.com.au/ChannelLogos_200/op_11.png" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 11
-http://imedia.click:7777/MrPanic88/XVDV/111105
-#EXTINF:-1 tvg-id="OPTUS SPORT 12" tvg-name="OPTUS SPORTS 12" tvg-logo="" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 12
-http://imedia.click:7777/MrPanic88/XVDV/111102
-#EXTINF:-1 tvg-id="OPTUS SPORT 13" tvg-name="OPTUS SPORTS 13" tvg-logo="" group-title="🔹EVENTS ONLY🔹",OPTUS SPORTS 13
-http://imedia.click:7777/MrPanic88/XVDV/111106
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US (PC) Peacock Eevnt 2 (D)" tvg-name="US (PC) Peacock Eevnt 2 (D)" tvg-logo="" group-title="🔹EVENTS ONLY🔹", Peacock Eevnt 2 
 http://eucable.net:80/0099887766/1122334455/620578
@@ -1548,36 +1533,7 @@ http://imedia.click:7777/MrPanic88/XVDV/148396
 http://imedia.click:7777/MrPanic88/XVDV/148397
 #EXTINF:-1 tvg-id="vidio05" tvg-name="VIDIO 05" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 05
 http://imedia.click:7777/MrPanic88/XVDV/148398
-#EXTINF:-1 tvg-id="vidio06" tvg-name="VIDIO 06" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 06
-http://imedia.click:7777/MrPanic88/XVDV/148399
-#EXTINF:-1 tvg-id="vidio07" tvg-name="VIDIO 07" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 07
-http://imedia.click:7777/MrPanic88/XVDV/148400
-#EXTINF:-1 tvg-id="vidio08" tvg-name="VIDIO 08" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 08
-http://imedia.click:7777/MrPanic88/XVDV/148401
-#EXTINF:-1 tvg-id="vidio09" tvg-name="VIDIO 09" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 09
-http://imedia.click:7777/MrPanic88/XVDV/148402
-#EXTINF:-1 tvg-id="vidio10" tvg-name="VIDIO 10" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 10
-http://imedia.click:7777/MrPanic88/XVDV/148403
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 11" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title=""🔹EVENTS ONLY🔹",VIDIO 11
-http://imedia.click:7777/MrPanic88/XVDV/148404
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 12" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title="🔹EVENTS ONLY🔹",VIDIO 12
-http://imedia.click:7777/MrPanic88/XVDV/148405
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 13" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title="🔹EVENTS ONLY🔹",VIDIO 13
-http://imedia.click:7777/MrPanic88/XVDV/148406
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 14" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title="🔹EVENTS ONLY🔹",VIDIO 14
-http://imedia.click:7777/MrPanic88/XVDV/148407
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 15" tvg-logo="https://i.imgur.com/SNvaL8k.png.png" group-title="🔹EVENTS ONLY🔹",VIDIO 15
-http://imedia.click:7777/MrPanic88/XVDV/148408
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 16" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 16
-http://imedia.click:7777/MrPanic88/XVDV/148409
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 17" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 17
-http://imedia.click:7777/MrPanic88/XVDV/148410
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 18" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 18
-http://imedia.click:7777/MrPanic88/XVDV/148411
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 19" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 19
-http://imedia.click:7777/MrPanic88/XVDV/148412
-#EXTINF:-1 tvg-id="" tvg-name="VIDIO 20" tvg-logo="https://i.imgur.com/SNvaL8k.png" group-title="🔹EVENTS ONLY🔹",VIDIO 20
-http://imedia.click:7777/MrPanic88/XVDV/148413
+
 
 =================================================================================================================================
 http://eucable.net:80/0099887766/1122334455/35805
