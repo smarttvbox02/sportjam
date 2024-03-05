@@ -93,7 +93,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
-https://link.zozotv.xyz:443/Rina923/390023/144
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
