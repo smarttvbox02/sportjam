@@ -506,7 +506,7 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/3644
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="🌐ELEVEN🌐",ELEVEN SPORTS 4
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/3645
 
-===========================================================================================================================================================================
+===================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="🌐PREMIERE🌐",NOW SPORTS 1
 http://clientbox.tv:80/whEVXXth4Q/QWnHarBICN/246323
