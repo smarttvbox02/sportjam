@@ -194,12 +194,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592 
 ==================================================================================================================================================================
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="F1 | Sky Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | Sky Sports
-http://eucable.net:80/0099887766/1122334455/405096
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportMotorsport.za" tvg-name="F1 | SuperSports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | SuperSports
-http://eucable.net:80/0099887766/1122334455/405097
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="F1 | Astro Supersports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/F1Logo.png" group-title="LIVE F1 / MotoGP",F1 | Astro Supersports
-http://eucable.net:80/0099887766/1122334455/405098
 
 
 
