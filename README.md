@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg"
-#KODIPROP:http-reconnect=true
-#EXTINF:-1 tvg-id="NET.IPTV" tvg-name="NET.IPTV" group-title="Lokal FTA" tvg-logo="https://assets.iptvsystem.my.id/img/net.png",NET.
-https://iptvsystem.my.id/index.m3u8?cid=netinsights&provider=yt&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal FTA" tvg-logo="https://assets.iptvsystem.my.id/img/indosiar.png",INDOSIAR
 https://iptvsystem.my.id/index.m3u8?cid=indosiar&provider=fta&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="Lokal FTA" tvg-logo="https://assets.iptvsystem.my.id/img/sctv.png",SCTV
