@@ -95,7 +95,7 @@ https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzAxODQ1NjciLCJyZWZyZXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America", Copa America USA 2024 Preview
-https://cors.ruangputih.xyz/ichigosan/linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mp
+https://cors.ruangputih.xyz/ichigosan/linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/5
