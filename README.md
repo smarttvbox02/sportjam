@@ -94,25 +94,33 @@ https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzAxODQ1NjciLCJyZWZyZXN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America", Copa America USA 2024 Preview
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America", Copa America USA 2024 Preview
 https://cors.ruangputih.xyz/ichigosan/linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/5
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America",SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America", TSN 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America",TV3
+
+#EXTINF:0 group-title="Copa America" tvg-id="3553" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" tvg-rec="3",PREMIER SPORTS UK
+http://rhsbjv7k.tvclub.xyz/iptv/UAWZS54EW64RZB/6555/index.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",TV3
 http://vipkely.xyz:8080/VIP013169192691012/01691926910/3745
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPwnL8T/Copa-America-2024.jpg" group-title="Copa America",TUDN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",TUDN
 http://vipkely.xyz:8080/VIP013169192691012/01691926910/5097
 
 
 
-
+https://i.ibb.co/Dky6hSN/copa-amerika.jpg
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
