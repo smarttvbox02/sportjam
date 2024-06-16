@@ -4397,27 +4397,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="🇯🇵 J Sports 🇯🇵" tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🇯🇵 J Sports 🇯🇵" tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🇯🇵 J Sports 🇯🇵"" tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🇯🇵 J Sports 🇯🇵" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
 
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 1
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 2
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 3
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 4
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
 
 /////////////////////////////////////////////////////Dubai Sport
 
@@ -5480,15 +5462,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 
 
 
-///////////////////////////////SCHEDULE EPL//////////////////////////////////////////////////////////////////////
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CEwzVMQst2m_uV_nn1HYpB9QwHFvXs3SoWQFpXxDOl_GsSqbco6mQqhAD1M&s" group-title="English Premier League (EPL)", EPL - 21.00 WIB Peacock Schedule (Jadwal EPL)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-///////////////////////PEACOCKTV-LIVE-EPL////////////////////////////////////////////////////////////////////////////////
+/
 
 
 
@@ -5527,26 +5501,6 @@ https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 
 
 
----------------------------------end of peacock live---------------------------------------
-#EXTINF:-1  tvg-id="TruePremierFootball1.th" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png" group-title="🇹🇭 True Premier Football 🇹🇭",Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1  tvg-id="TruePremierFootball2.th" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png" group-title="🇹🇭 True Premier Football 🇹🇭",Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1  tvg-id="TruePremierFootball3.th" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png" group-title="🇹🇭 True Premier Football 🇹🇭",Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1  tvg-id="TruePremierFootball4.th" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png" group-title="🇹🇭 True Premier Football 🇹🇭",Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1  tvg-id="TruePremierFootball5.th" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png" group-title="🇹🇭 True Premier Football 🇹🇭",Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 
