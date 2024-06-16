@@ -104,23 +104,20 @@ http://103.127.137.190:80/Sugeng/msY9yqKyrR/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America", TSN 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+http://tv.soccerplus.link:8000/JessicaVelez/Jessica2962/92495
 
 
-#EXTINF:0 group-title="Copa America" tvg-id="3553" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" tvg-rec="3",PREMIER SPORTS UK
-http://rhsbjv7k.tvclub.xyz/iptv/UAWZS54EW64RZB/6555/index.m3u
+#EXTINF:0 group-title="Copa America" tvg-id="3553" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" tvg-rec="3",fox sport
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3645
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",TV3
-http://vipkely.xyz:8080/VIP013169192691012/01691926910/3745
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",viaplay
+http://mohdtv.com:8880/ALLChannels681def00c044/33809186/31522
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",TUDN
 http://vipkely.xyz:8080/VIP013169192691012/01691926910/5097
 
 
 
-https://i.ibb.co/Dky6hSN/copa-amerika.jpg
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
