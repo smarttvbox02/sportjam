@@ -104,7 +104,8 @@ http://103.127.137.190:80/Sugeng/msY9yqKyrR/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America", TSN 1 
-http://tv.soccerplus.link:8000/JessicaVelez/Jessica2962/92495
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
 
 #EXTINF:0 group-title="Copa America" tvg-id="3553" tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" tvg-rec="3",fox sport
