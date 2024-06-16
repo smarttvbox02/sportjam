@@ -114,8 +114,6 @@ http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3645
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",viaplay
 http://mohdtv.com:8880/ALLChannels681def00c044/33809186/31522
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dky6hSN/copa-amerika.jpg" group-title="Copa America",TUDN
-http://vipkely.xyz:8080/VIP013169192691012/01691926910/5097
 
 
 
