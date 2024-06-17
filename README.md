@@ -1,94 +1,25 @@
-#EXTINF:-1 tvg-name="SG: Stadia2" tvg-id="Stadia2.sg" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV 1
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODEwNzM5NjQiLCJyZWZyZXNoX3Rva2VuIjoiR1hma3l5WkxOSWZZTk1hYUdpc1FiZnhlcGZFWmtHXC8wZXZhUHByaXQyWEJvMG95bW1YV0F1em9BTXBVSUhUdWVlbDc0d0JFTFZKRDF3b1lrVjZkQzQ1bURHZWlwQXdNREJYRENFYlFpRXZydDZYSkdPd004NGZcL1luWXlyRUFSZ1QzZkQxV1E0NjVsR1hIY0JBYTc4dDF0M2E1Nit4TDVEcFlWK2Znd1RWb0Ntdk9MTGNJSGZBcWlBTmlYUGxkVzZ5SjYrcHdXcGRcL0t5bWJsNUZQU1ladTZjXC9HR2VPOWUxcHBSOEx3XC8zSkpOcGJaWm5RdXBKOHNoSHN2M2lxMjZjMXhoVGdPdCtROENJZlBYN2VNQ085YU5qc09xWmpQUFB5OXVqTjRVSjduRDY2YzNuZGMrdFQ1bzFjWGRIZnNTZCJ9
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODUxMDI5MzYiLCJyZWZyZXNoX3Rva2VuIjoiQWVGWHU4MVBRZ29JVmFOV2d4anIrcWQ0bnR1b3preGxcL2ZPKzQrWFVCY0ZaeTltRkpVWCtcLzlXXC81cGM1clpDSGR5ZWorbURXdWtSKzg0dkpXQjlKYWpnTHVFd2pOT1FUWDVNUUhWcW5tMnlnTWF4M2tBT3JIYXZkUVR1bFlLeXlEMFQyUk1sYkY4YmkxVDhBcm5tQTF4cWtSYnJteWYyVGdkRmRXN1wvTlJ2Q1hyTVlKaUdEdGtmQytRQ3FYQmdlTVhCMnZ2WURHajZvSUk0VjY4czVmR2lXZVdcL3ltbjNSWjNzYTNBeGwyY2gwekpkZDBZMW1EUzFGWDRFZ2pXdjlYWXNuTVdsNHh1MnJ5YWgrZWdNRFcxeVBsNGE4dlc4dWJhM1BTaFlSQWNnaTZTNUt2WHplOFwvR3pNa2M0TTNxWVBneGxXU2k2WXVuK1pmcll4Tis5SlVCTHZJeWc3a1YyRTY2OXE5MVJvczZtVHJSWk9qMFZjWjZlWllVNU9QWkM0XC9xdGV4QU04UXBRMUtWSlE3QmJPQjhQdHUzaUFVenpSOGVYTTN4d2NqeFk9In0=
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL |  UEFA 2024",EURO 2024 - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
-#EXTINF:-1 tvg-name="SG: Stadia2" tvg-id="Stadia2.sg" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV 2
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzkyMTg0MzYiLCJyZWZyZXNoX3Rva2VuIjoibTdjRStNYUFhWmZ5S2Q4cWV6b2RYR3A3UERGUUVEUloxRldoTHpwbWdaVnNnMEtCV29VeStpbkJBTE9VdGFEdmh6aWw3VVRhSW1Ob25hN01XRHdFcXdaK2hLWnN4NU5oMmYxR2RQb0NTZER1SGU2XC9ua1M4SFRcL00wMzQzejlHN2Zpd1dzTGFBMTIzQ25GU0ZZYXhHeVhiRFdIWlU5MCsrOFhNc1NzcnlRc0ZUTzc1Wm4zNmVlTnBEQXlibXBtcExDamRBVmFFdllieCtEZ1IrcFhWdU81R0FMdG1rR2tCVWFoR2FSZlQ2TXZENEJpZGcwOG8zWmNmXC9wTCs0dEg2cXN6SDA1S2FGR2NNN0h5WW1QXC9NVllsWmhkOHNTdEJGK3E2czQ2UEdUamN5dEVHNERcL3FOXC95UWxWNkx3UHRjYkEifQ==
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjE0ODM3MjUiLCJyZWZyZXNoX3Rva2VuIjoiRGhkajJnaEFleDZubnZZK2lpbUdtYW1GS0kwSmVwNkRRXC9qRWRCSW11cnpEdTN4dEd0bXFua0E0RjgwOTZ4R1JjU3VHaGtDUzgxU0NYVnU4QUJjQUFJdWU1XC9pQjVUdFl3QTdcL1p3aXc4MjNCRnZYa1BkV1U4dE8wTGIwbXUzTGM4RVMrZnU2MXpNM1FpOEg3R3A2NzFmVnJtR1FzdEhmejBCRWdNSTM0YTNFaFBcL1dBV0doQXNGRWNOXC9wT2tiSXp6Qm9cL1JFVmFwS3RRT1dSK0tmTnIwT2ZMZXFBRU9TVUp4NlgxVTZ1SkR1ZHZldmQrdXZ1VEs3R1h2YW1QRGVUS2FvbEFTNlBhMzEwckR2djVkWnFzb3E5NFFtdEZPODJGanpiTWgzOUo2UkdnMW5iaFJMXC9cL2cwS1BvMDB0U2lsdTRsM1RIVXY5N1BCKzE4bFhRbFQrc0s3NU1aZDJNc1wvYUo2SjBtSnc5WlVwRTFNZE9PRFNHaFlWdUxja3ozM0pra1hZWlllOVVKTXBGa0RDWnI0azdSaHYzaHJqZXRRTXMzRDF1MnM5R2JoQT0ifQ==
-
-#EXTINF:-1 tvg-name="AU: Optus Sports 2" tvg-id="OptusSports2.au" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",OPTUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=101.127.198.35
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzE0OTUwODMiLCJyZWZyZXNoX3Rva2VuIjoiekpuaitTOWVrdlljdHlnaEJ6bjBLRTh4SUJMZ0ZJRVBtVnZBME1BRGtwS3hxMHEyOEt6TThjK0NRSkFpK0xtTVwvWHYxRVBNU2cwWXJLV1ZteG5xaGNMeGgrM0wyS1ZRWHlLK3JhNWZ5ajdpV3ZLU3VaWmxYenNSVnhHNXNHM1B3RVEwME1YaFwvNFpWZis3bW8wcW1VcWpHY0xqblJsZXJxTVBrSE5TTXA3MTF1UmdWa0ZteHBIc3d6anBRQnhnVHRwQnZlUlkrbXJWeExLaUJSbHpPVmhvWWNHUTloZTduaElYemFIamxiaFpPd0VqY3dpK0ozT1QxbG5tXC9vOHJlSVppbmhcLzZUR0xmRzV3UVJMU3B4S3ZDZVBrQjNLZ1FZOTJ1UXRqc2RKVzdRaTNYMmpkOWpGUThzdStmc2R1a0F0In0=
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTQ2MzkxMjAiLCJyZWZyZXNoX3Rva2VuIjoiV2dwWmZvemNnSWdRUHROXC9oNENFQVZ5ZW9iRno2RFlxeVVuV3F0YzBuMDg0NVQ2b1V6eExDTXk3K1hxK0R5QWhxeGFSZWV2SVMzUXFmZHpwOXVWKzF6cmxlbVZIdmJTVFFaNURXemZzVU94K2k0TGRXVmZTWFljcTZoanpnUEZWKzlBR3Z1THQrR0d1a3Qra2tZNGliXC91dWMwQ2hqMXRielBRTERidnRzaTdSY2lBNlBCSjhCaGZCRjRBTG5ZQzh6NSsrQnFGbWhheXR6dXErTG9taWY1XC9KdWxEXC9LYUZcL0hJdE10WlwvVDVqWE9EaUNrWXVnQ011V3pDOURCN0ZVOEtlZkppOVNVSTB2TlFXTU1HQVZTOHBwOVJxT1wvb1wvcUxFVmhWR2VtOVwvT3Y2VVwvTHVHTFEycVpqN1RrdStZRUN0STZYSUNUejJIclN0MG5jRzIrbURDZHBsZUVtXC93dzBBWnliblo3c1RWbVBiK1wvXC9VRU43VU00SDF5ZmFYdkxKT0ZTaFlqUERkc09aVGZZQm5ZQkRsdkZCeW9vM3BmeUhiSU9WNlwvRjd0aHFcL3NiT1ZpUEtGZmp4VFFJNExieHhMdSJ9
-
-
-
-#EXTINF:-1 tvg-name="SG: Stadia2" tvg-id="Stadia2.sg" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzU2MjkzMDEiLCJyZWZyZXNoX3Rva2VuIjoiYzhLdTBlZHBpazlZNis2M2VuTXJqZnBicUdpc0ZabmJGMVcyOW5wUWtya2ZjMU5JaG1DckZhT3d1TXJzdzlFWmh4b2tHMjZXWWwrWjdwUUwzNFZSeW5pQndUc3ZSQWdnZk1LVkpBbW5kR3FtYkhBcmlvYUZSUkpsXC9QMGN2VVRodG52RXY0RVVkbGNacG16R0tieTVGXC92bU0wUVFHQTg5XC9WUmpHZzAySFNhRzhNcnIzdnNpY3VFbEwwMkhQV3dqb3hZRWo2Smg2WU1XbWZCNmI5c3FxbEFVZWJ3b3JGQVpjWktiajlrOHA1R0cycEtQZ21QaGtcL1dmblwvQml1MFVzZ2RcL1NRWE9FTUloQ0R1WWN5K2llNFNDR1wvWFR1UTNqRUJhVFhhWmsxdHhJVUpvdE53ZnpReldYM0xJUFVBS25lIn0=
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTkxMzQ4MDYiLCJyZWZyZXNoX3Rva2VuIjoiekRqZnZmOStIZ0dHaEx6Q1h2RVJiK3JlRE1JSDhzYUJsM2JJR3ZYZFhLRER1eGhCemw1YlFoZ2xvWGdjdE4wZG1hTGxKUmphN1doRHBZQW9lZWJXQ05NYXNsWFZzVnk3NzhudHJFYjQrbEh2UFRyOXNoZ1cxeVk0TCsyQ0trM24wSkpWbkZPYUlkYjlZKzQxRkdocmQ3c1wvR25rMHVHODIrcGMrXC9PUkg3SXY5XC9GZUk0UEg1aDdPMVA3ZEp4cjV6azBSK0lVQmJBeURhRE1odFc4Q2xoSkVXbFlQemFPRmZ5dUFZVGdGeFwvbHRMUFJmUlRyU3lQWUxVSEtmd21nT0NtYVpwZHpyN1NYTkowdWxzWjlDXC80RkVxUGdlWDFSK1h0OGdhOUl1WnQyU1U3ZWxkVGlDSlVxejMzQWRKVDBBMDA5Vmx5N01VS0d6bnpsQWRZcjE3RHFodmw5aG41M3UyaVhTMmZKUStDSzZIcDFaMGg4YnR6YW9HMFNXWnhsSjlcL3FNWHIxSHMwcHBodzJrTm14ZEJ1N2VrVEVLN0p2elhoVGwzTHkwRWE3ND0ifQ==
-
-
-#EXTINF:-1 tvg-id="68050" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024",SPORTSTAR 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzQ5MzU2MjAiLCJyZWZyZXNoX3Rva2VuIjoieGJQdUd0NVwvSVJaWkd2Um96N2VcL1VpUXUxRlR2ZlIrK29LR3NcL3NZMlYwb1hZSkM5QlhoWGVPeXB0eUlOcVRRZ2VsZzJtRlFxRmtHZGJybWFqc3MrV1RralZ1b1VReVwvQnVtMGZcL0VTVG9kbGtVUTNEMVJtWGtnTjRPU1phdmdKaG5EMUl3R28wOFB6bWl1REczSTZZdE9zSlRac3lzVFZaTTRUVUxnakFsVXZjeTF0M0pIQW9sWDcxbnllYURHSitjNG05VEgxRDdzWTVhaHpEM25ra1pyMER4eG9TQTRjQ0Uyb2JidFhOVE5oVGE5QXNSU1haUEJmYmpCYTJkNStzNTZZXC9kTmZVWEZlUStpZUdMXC9VaW1Idk5IZUNnNjFvYTQyMFUrZ3dZZGluamlEXC9wYVlBdnRRQWtLQjZKXC9xSFAzWXR4UXVJc2RvbjV2UXRNMWUzbzhcLzE4dlZTOE5wUE1QU0huZENleGtcLzZza0RrcVdmdHBLdzBoXC9NNXhQcm1ZV2NwZ1hGcituUlM3U3Bnam1IbWtZQT09In0=
-
-
-
-
-
-#EXTINF:-1 tvg-id="68046" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024",SPORTSTAR 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjMwNTcxODIiLCJyZWZyZXNoX3Rva2VuIjoiT2FYSTRXMWM4RjFPZ1lZY0pmWjA5NStIemN5czFyZEJoRXFSUmFuK2Q2ZWRlTlN5d0tFdTgwK0RQNjNNVWUyeU1mYzBzRktFXC90cVFtN0p5N1I2djVwTlV6MktvNGx6dTRBdllIOW5WNzNcL0ZZN0lPR1haTGwzVmdvYlExUUw5MXJyM0NLdkVlQ0xyczdEZzZhRlNjYlFLVkR5MXNYU3ZhYmdXdVVRT29ESEdxdTFOVzdTUSs1UytcL2tkMXFZOG1YMFp4VkxGZUhQXC9sNzlkR2lpUWVCUGtDTFwvaHY2RlwvdFFleHZzZ2lsVW1LMWhBbmJvYmdcL2pMVUlaOHlUdWFnY1h2MFF4eFNITCt0U3QxSU83U1ZmalwvU3cySVBhQXpSSUYwRFhBWFB3cSs4RjR4VzYxMlJ5Q2VyTnZQUHJWYWN1REFnWTV2czZwRXRcL3Rta1N2WGxJS3l0SUlXdTV3aENSVTliOEJ6VUhxY2U0dVwvRE44S2ZnbXl1bjRQUUczXC9cL2REVzlodkpacWtzVjRGWHFtZ3pnYkp4QT09In0=
-
-#EXTINF:-1 tvg-id="68031" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTY4MDM0NTciLCJyZWZyZXNoX3Rva2VuIjoiXC9hZUtXcThHVm9VRnBlV2pPMjQ0TXhTQ2lRSU9FdzVuSEFFQVhIdjFHbVg2cXVVY3AzRTZ3bDFwcTBtc1ZaTkJidXdZeG03b01HVUhJbVRrUWZyN0liQk9ESGVYTHZGQ0JOTUdXM1ZFUkhZTnhcLzRZSGRSWWRSbW9mWThjbHFSWklmaUFKNHhSY0lSYW1hbmdxNFlwSTd2U1wvcE9QOFQ0Z3hJaGgxYTJEcVlnQkdSQ3JGaFE0NnZ0cWdwSVBSZjhjc2pZcGdpcFhNK3B0OWVQUVRlSWtSbnczN3JBM1wvRDFqSm1BVXJRUDBVUGlSUk4wY1NNK0hZMGJJd2owODYrRGl4cTg2TFwvM0F3VEN2eWtBSkl1enNaaHcwdk9vaCttaEZyWE13YU05UlFzRVlhVFBEZlNjeGcwOTcrckN6NVhCclFTdVFOSVZnSWNyZUhMVmFocGxiOXlRSGwweVBqT28xaVNpTUp5TEwyeXZDRzA1NjJGdDdHOTVUemxVNUdVMjJcLzhGSDNEbGxWK3VPMmJFQ3dLY09VZz09In0=
-
-#EXTINF:-1 tvg-id="68030" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024",SPORTSATR 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTI2NzgwMzUiLCJyZWZyZXNoX3Rva2VuIjoidVBmcVN2RUtCT2Vid3pcL1NvQjFVWGMxY2tqZ2JGZlltZExIajFJODJKNDFxV1o3SGZMZ3I2NUVcLzlTZUpDUHJZM3g3ek5LMUZsZkZYV1VxSnNiWGthMEFNMlI1Y1hkRm9aem5cL2d4UkF5WGp2MUl3UFJuYWdnODFNSmtZd0hSazdEayttSyt5RWVsZFRXZVZXbm1ES2w1ZDF4TWxsZUpKN0tNZjZtdHhuYTl3a1RqWG9VSmpjdzJhMTZONU05VUFhUVZhRXhUYm5VcFhSdkVoTHpZSGF3MUU1VTd4MUQrNmRJWGdGR0ZvbW14MEpsWjV2Q0tFUmdDMVhvZGlcL2pXTE9mZ1Z0NWZQeTEwUGI3TTk3RDRvMmc0ZEdLaXFucld4M25rM013WHZJbVNFOUo0RXRSOWJtd1QwT1BRYkpYOUhBMFNEcmhKejZ2OWd0Y0hjbTF2dkdLSTBPaVwvbWxmZ3JVcWFNc3hLQlZiSmdrQ0FzOUZuT2NIV1NKZGdSbWRpRndrOWVLbWcrSjY2VDcrT1Z1R0JsNE53PT0ifQ==
-
-
-
-#EXTINF:-1 tvg-id="EURO 1" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024", EURO 15 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGMwM2E5NmUtMGJiNC0zOTkyLWI0MWUtY2IxOTViMDA4NWEy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzQzMjE5NjgiLCJyZWZyZXNoX3Rva2VuIjoidDBXdXRcL1JQT2pISlMwc3lPZG5KNk4xUW44N2JnUUNHbWhaTWcrenF6Y1dpN1BlQ25GNG90UklNUzhqMFJxUHFRVTlib2hQdlZLVWllUnNUQkd3R0w2QjJXeUR4bG1RVmtEemg3Y0RXbnVlWW9wZlU5a0NCQ200MWxqUFwvYWpcLzNkTmJacjd0TEhycUxNZGRhM3pOMFwvanEwaVRqVWJQK3o2SmpqQzVxbXZaWGxSZ3Y4SEhNdG5rTXBKNks5bkRVcndJeXgrTWoxeU1ISmtDUWhrTEFoMThsalo4d212TVJlZGlGS0lpb080enc4NlA1NUhKSjFqTzVUTDBGdlB5ZjBYcVoxelpobDY2S0MxK1BuZnZMdk5RYjdEbFlNWDh2TnFtQ2FWMWRja0lUM3JNc2VuMGRZMzQxWXJpYlFZQXFtRGdlSTd4dGFlaEFSNVFudzZnUDFtNCtpMThVZmp5enVoN3JLWlR5b1wvS1RXVUU2RER4MUhlbmFBOXFNa1pSKzNvOW1UdjRZZ210ZWU1MkpzSzNQS2ZlOG1vV3ZsVG5CQnlzeEd4RThNMGRMcDZqKzNWNE8rMXNvMVFIdkZtVXdON0gzdzRVTDN1cXZDdFQ1amc0YVdIem9sOEpVZFYybWJMeTJocGFxV2VjVT0ifQ==
-
-#EXTINF:-1 tvg-id="EURO 2" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423" group-title="EURO 2024", EURO 16 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGMwM2E5NmUtMGJiNC0zOTkyLWI0MWUtY2IxOTViMDA4NWEy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDk4NTA3MzYiLCJyZWZyZXNoX3Rva2VuIjoiWFpWdkRJV3J2eVRKZ0xTQThCVUNzaWx3N3l1eDlvU21lTTY2NjBtQkdldnN5dWlzY0xud3VSNE1rU3FjQlwvU1BRNnI1cVNBd2hWa2VieDhVT0FVWFBzdVF0OWNYYW0wOHJvVkFNOXdLaXFJNVNqdEZGcUR4dUhiV3pwMUNpUE8rbHo1OTZxRDRobk54cjFYYjFWYytFSkY0NThVOU53b3BVbVpScjd1V2ZzSzdtUGVvOXliUWMySEdLZW1VWHlPSUkySkVTb3FYRlBiQ2RPUlwvZDY1ZUt2N0VrQXBIWkpmRDhxcnBtNHk5d0NpVWVzTlwvQWgxRjU1OE9oQ3dYWE1cL212WVRtTk5uZnVqREpqZ25NSHUxR2lGam8xN05hWXo2ZE5XQXR2b2RhdHBaVGdCY2lmakVsb2xETE1YMnZycTl3ZzA0UkNUa2IzZjJuRnpBVWZjOTNOS2JXZjE3WXlSWmtwZ3E2UXpCK2dROUN1ZmZtNkl5d0g5TlpJY3ljbzNZQmZMVGJLVVVUQmkyaE9XR2pQM3kwZndnUERCMzg0c28yK0pLSDZXWEI4a3owSGVHR2dVU0pkTU5TZDhYak1nK0xhUUMwYkZ2RHhzRnI5TjJ2NHBJR2VDUkIrajVZOWFhVnoyMzJmZW1IRndjPSJ9
-
-
-#EXTINF:-1 tvg-name="SG: Stadia" tvg-id="Stadia.sg" group-title="EURO 2024 " tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV STADIA 1
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=otto-aplikasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDkwMjE3ODMiLCJyZWZyZXNoX3Rva2VuIjoiRHd6dHEzd0ZWaUx3ZGFWbkdub0U4OVBSdmFHYVVnK0pwd1lTNE9jNGtyUzArUHdkMkd1YmVLeGV0TXg5OGt2QUxqR0IxT3NMOHRkYnBoSFFtM2t1bTEzdFZPVVl5Q3FBTGNDVlhQYU80NlBObHVQb0lUeFJjNHJKSFBZd2x2WDNNQXFIM3dZQUxiU3BvaW9BZFVlYlNLN2xUMlhwMHpSNkNZdE5RNlczSHNkczFFSTBncjV4SWRPK1FCNFhUSXpCMUpaUWlSdFdzbXhXUFhKV2NXRHI3a0dqdE1SYXh6RnJ2b1ZrTUdLZk1RM0lvWVVtOThXaGNmMFpCZTUwTFVYbEtLM1U1azRYeGpqVjNLTmpvS1JrMGNnVFZYZkR1eTNxTHBubE1WM01oZkdhWE96RXlnYzV2Z3JhXC9aODJRN0VZIn0=
-https://omega.toda.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiNTYyODQ3MDEiLCJyZWZyZXNoX3Rva2VuIjoiMGorTyt2em5BUzduZDNNQktDV0RNXC9BUjhNSjVXdzdiSzkwWmFlK3hNOHpmenNcL2ZHUGVjaVphNHZycFdEOHNrWlN6RzZ0b21qZGxrSmp5elNXZkkya1FvWTdYZytNTnZVSDYweG9kTTdVcVwvVk14aHVXeTU1QUx3TmxyNnNuQzlFTHczM3RqN3RGUHhhMUpPeUIwSUtHYUlDVUhCK0pzU084eWZRWlZ2QTJZUDB2WFBqUFFkU3FyNXQ5aktRVGNQY0lDSENQd3cyUXlZeTNKOFZRdDVNZ2xjR3hwQ3N6UDNycWtld01IdzF4RjZ3NGVHTHdJdkpseVF1YTFLMlhJNExGUUZkbFViNmVTTEFYNWJZTHU1UXVcL3BLbE5DZlhjOXZ5QmluOWNLK0ppZkI1ZXZOYlwvc0NybEVLZDJDaE9mZFh6TU16RlpGanNCTWJhMUVrbklmR2RjbTN2Mm94Z0tvM1NZbkpVUHdFQWhBMUFpc0dYckxDMm0wZWp0WWV2NVpQc0dzeXR0RHNcL3ZhRVpRN2doUXNhUHFYbTZCNTJSUzV2S1ZlK0NLT1kzbmpsZjNcL0Y1c1A2SVkwSTNpdHRDeWwifQ==
-
-#EXTINF:-1 tvg-name="SG: Stadia2" tvg-id="Stadia2.sg" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV STADIA 2
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=otto-aplikasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTE3ODUzNDYiLCJyZWZyZXNoX3Rva2VuIjoiZ1pwN3JjTFBhT1h5RGlNQ1luZzJQRzBveXJHMm9aVUpvZko5dGxPMTU2ekVrdzRjSzhYa3I0RU00TGhYdkx0cTFHdm9XWlBUdm1HdTVsWURNWU5vZ0JJYUM2TlNOS1ZucTEyZm8yUTZaMmNLSkN5enRyS3lqN2RJMUJHQmFPZkUzenp6czdzSkhKRHNGRUFEWldhWjVOTXRTS0lSWkthNHNJVmt1cjRUeVNjeVJ2K1I1SXVMNDJzdm8xazNkTlRyTWplZzJqbHlDaU0xMjBoVllwK1N1K2lmMEJoUlRoZ0M4VlNxVDF0OGRzNkNOQmdjR1RrS1IxSUFjN1Rwb3p1YVI2Nlc0dm53RnBhN1J6OHRRVmpwcXVMbUlWTlpMc0JaQzh0K1ZhWEcxbnZIbms1b3RacHNGaUFFMWErc2lHQlUifQ==
-https://omega.toda.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiMDc0NjM4MjkiLCJyZWZyZXNoX3Rva2VuIjoidEhxa1VKUDdjU1wvN0F1MXJzOW1FTTY3V09nQ0hcL21STHBaXC9jUzUwZ0VqOWFpTnNsZFcrcXBsV2xSa2c3QVlVQ0dkWVRWenJsd3poXC9icndhTHFHVjBScjgyem9ENzRhSDF0WjJ4Wkk0N3dMQ1wvc2NDSTYrQ1QrTkpxaGtVQkFcL3hrT0R1MnBkMmxJaUFlMGJwK0FQczNRWFJMMml5T1lIdmhoakRQQlBKR0RaSGM0NXorQzhJdDIrekNDalNUTnNUcytoVHdGMVY3NjkwaXh4Q1wvcjVcL2duN2RuMUdWS2RZTnNiclwvZnpWQ3llS2N0TlQweVBoOEFlWXpKN3orMThJZnlaOFwveW1KUDU5REtNcUdpbHhPTnBGZU9vWm1iNnRDUUVhRE5iYWZZWFwvSUFMWHhzUGFDTHBwcnRMTlwvTXJSOGVJVmcyVDNFYzU0Wkd6ZER5OHdwU2tub25sN3RSQ0lrQ0M3XC9cLzE4RVZDNGMzZUVmNU14K3RaeDNFM1ZYZmdzNXRkZTZpMGRXSjl1eFMxcXFsa2FHa3IrNzZEYWM5aVJuUm00V1UwMEtjMXM3VGVETFdwZURSUVVcL2VycFkwZGREdSJ9
-
-#EXTINF:-1 tvg-name="SG: Stadia2" tvg-id="Stadia2.sg" group-title="EURO 2024" tvg-logo="https://asset.indosport.com/article/image/q/80/366220/logo_euro_2024_3-169.jpg?w=750&h=423",SPOTV STADIA 3
-#EXTHTTP:{"X-Forwarded-For":"101.127.198.35"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamio.my.id/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDI2MzgxNDUiLCJyZWZyZXNoX3Rva2VuIjoiSUttTnFkNmIzUHpcL2FvYXphNDQ5NytqNDN2YnFGTVh6QlNEWTZrVWFFRFhlWlNlSVFNUGlhYjFrbnlSdnI1K0ZGU0RINitZTjVicmR0ZVl4bzUyTzQ5ZDRoUHg4TXNMdFJkcjFTUHZzOHJZV3hFK0d2d1lSSW9xVEd4V05JaVViUEVoalE1VzZMVnhhcmUwbWM1aGdjMk52clgwUlpKcDV6S2R4dGJFU09LMHUyb0RUUnhjMXhwc3R1WldnZ0ZtUDNoWDhKb0wzdEk0WWpQdTJQUUV6U09iNGdCdThSTlAxMkVFeFhvTHVSWVhzTjVmK2ZXbUNtdVhwU3hSRTdLcFNBTjVuREhDWjNzTVcyY1dVUWJKMVh5Vlhwb3J1bG1TY1MwOHB0Zk4rR3ROaU5cL25LV0ZiMnNzRStUZjd2KzJpeSJ9
-https://omega.toda.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzAxODQ1NjciLCJyZWZyZXNoX3Rva2VuIjoiSGdybWpoS2JTd3lBd1dnK1NCSEh0ZU5PZXRYVUFIWUlvRXlnQWR0SXNoenlrS0R5blFTaFwvSkoxNE1QeUU4REo2T0Z2XC9SNEgzV1NQeTRPY2thdFZMdHRlMGRtekdTWG1uZ3RodmZLc2xjRGpFRWRYWEFRNFdYY0xrNEszYmdOU3pqWlEwd09qczRnTE9rbEFlT3JzZDBqdzl0UGRtbURcL0tvdEt1VSszMEhueWtYUmRXeEhHUGZwOFE1XC8xRnViUVBoVnRRdVJMQjJYY09qZ2REQnJhTDE2YVR6TE5hVDZjNWdyd1VFWm9JUnMzbHp0U0NaWnV6Qk9USXp3cVwvanpibkJJckJzb2dWeUI4T1FCOUNXSnJ6TW90eDJ5YmM5YThOQUpiQXJ6QU9NU3c5cThRQ2k0V2dvcFwvTWFUNERvaFd2dFpFcFpYWFFHMmsyRTN6WWJOY0tkUEFldFFJZ2E1MXV6TkFnN0JWZnFZeWdUZVREMDk3ZTFoY3g1cytzSUc2NkU0WThObFFyTyt2blptb2RZZ21kZGk1K3lZdVFwYmJ6cXh2YmcreW9uWT0ifQ==
 
 =============================================================================================================
 
