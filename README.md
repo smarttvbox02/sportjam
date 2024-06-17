@@ -22,9 +22,43 @@ https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
 
 =============================================================================================================
+#EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://budtv-ultra.com/posters/1713315679454.png" group-title="COPA AMERICA 2024",TV Max Canal 9
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",TE Y C Sports 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://budtv-ultra.com/posters/1715047731266.png" group-title="COPA AMERICA 2024",Teletica 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11(HN)(R)" tvg-logo="https://budtv-ultra.com/posters/1711993939477.png" group-title="COPA AMERICA 2024",Canal 11
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314422417.png" group-title="COPA AMERICA 2024",CANAL 13 HD 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sp 2 (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",DTV Sp 2 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162374.m3u8
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",T SPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",TUDN US
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/3283
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",SPORT TV 1
+http://dns.maxptv.net:2052/C383/121341/48
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",SPORT TV 2
+http://dns.maxptv.net:2052/C383/121341/46
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",SPORT TV 3
+http://dns.maxptv.net:2052/C383/121341/44
+
+=====================================================================================================================
 
 
 
