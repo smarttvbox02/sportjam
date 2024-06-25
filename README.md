@@ -2484,367 +2484,12 @@ https://alfa.toda.biz.id/dens/123/058062195373512684980442
 
 
 
-======================= The Emirates FA CUP ==========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1T_zvX5JUmAOWLQ90YhpUzJyI3SHo9YwBAhkE-Yaxeo09YP6ISsalKQ&s=10" group-title="The Emirates FA CUP",Live 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1T_zvX5JUmAOWLQ90YhpUzJyI3SHo9YwBAhkE-Yaxeo09YP6ISsalKQ&s=10" group-title="The Emirates FA CUP",Live 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd|X-Forwarded-For=49.231.37.237
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1T_zvX5JUmAOWLQ90YhpUzJyI3SHo9YwBAhkE-Yaxeo09YP6ISsalKQ&s=10" group-title="The Emirates FA CUP",Live 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
-//////////////////////BUNDES LIGA////////////////////////////////////////////////////
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 7
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd|X-Forwarded-For=49.231.37.237
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd|X-Forwarded-For=49.231.37.237
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd|X-Forwarded-For=49.231.37.237
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 5
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 6
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/t32pkWH/bundes.png" group-title="Bundes Liga", Live 1
-https://ott-navigator.my.id/maestro/sony/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-////////////////Italy - Serie A//////////////////////////////
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/gw8KngP/seri-A.png" group-title="Liga Serie A", Live 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/gw8KngP/seri-A.png" group-title="Liga Serie A", Live 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/gw8KngP/seri-A.png" group-title="Liga Serie A", Live 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/gw8KngP/seri-A.png" group-title="Liga Serie A", Live 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-
-//////////////Portugal - Primeira Liga/////////////////////////////////
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/bL74fkp/portugal.png" group-title="Liga Portugal", Live 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/bL74fkp/portugal.png" group-title="Liga Portugal", Live 2
-#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrunns.onlinehdhls.ru/lb/premium74/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/bL74fkp/portugal.png" group-title="Liga Portugal", Live 3
-#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrunns.onlinehdhls.ru/lb/premium49/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/bL74fkp/portugal.png" group-title="Liga Portugal", Live 4
-#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrunns.onlinehdhls.ru/lb/premium74/index.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/bL74fkp/portugal.png" group-title="Liga Portugal", Live 5
-#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrunns.onlinehdhls.ru/lb/premium49/index.m3u8
-
-
-//////////////////France - Ligue 1/////////////////////////////
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/RDjbWDG/perancis.png" group-title="Liga Perancis", Live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/RDjbWDG/perancis.png" group-title="Liga Perancis", Live 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/RDjbWDG/perancis.png" group-title="Liga Perancis", Live 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-===========================================================================================================================
-
-////////////////////Netherlands - Eredivisie///////////////////////////////////////////////
-
-#EXTINF:-1 tvg-id="TVRISports.id" tvg-name="ID: TVRI Sport" tvg-logo="https://i.ibb.co/Zg9W2SB/belanda.png" group-title="Liga Eredivisie", Live 1
-#EXTVLCOPT:http-user-agent=YouTV/1.5.12-prod.release+142d92f (Linux;Android 5.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch105.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/Zg9W2SB/belanda.png" group-title="Liga Eredivisie", Live 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/Zg9W2SB/belanda.png" group-title="Liga Eredivisie", Live 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/Zg9W2SB/belanda.png" group-title="Liga Eredivisie", Live 4
-#EXTHTTP:{"Origin": "https://lewblivehdplay.ru", "Referer": "https://claplivehdplay.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
-https://webhdrunns.onlinehdhls.ru/lb/premium1631/index.m3u8
-
-
-
-===========================================================================================================================
-///////////////Spain - Copa del Rey
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tq8hFiSqmNmh9W-9YDjoT36RV0WF47hmc-ws1aF_Gg&s" group-title="Liga Copa del Rey", LIve 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tq8hFiSqmNmh9W-9YDjoT36RV0WF47hmc-ws1aF_Gg&s" group-title="Liga Copa del Rey", LIve 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-===========================================================================================================================
-
-//////////////LIGA CHAMPION UCL/////////////////////////////////////////////////////////
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Borussia Dortmund vs Real Madrid
-https://manifest-redirect.streamamg.com/ssai/event/QZzDrSgDRCqG5W-kAKDgyw/master.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 1
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6d3b3c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19bc515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":"4ed8c640ecb709df5ed136e016695e45"}
-https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
-https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 11
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 12
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 15
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 17
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 18
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/portalberau.online/wp-content/uploads/2024/04/Liga-Champions.jpeg?resize=750%2C375&ssl=1" group-title="Liga Champions UEFA (UCL)", Live 19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
-
-
-
-
-
-
-/////////////////////////////LA LIGA /////////////////////////////////////////////////////////
-
-
-
-#EXTINF:-1  group-title="LA LIGA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/220px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-043/stream.mpd?p=web 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LA LIGA Sports", LA LIGA 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
-https://malay.datodaniotto.workers.dev/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LA LIGA Sports", LA LIGA 3 
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
-https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LA LIGA Sports", LA LIGA 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://malay.datodaniotto.workers.dev/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LA LIGA Sports", LA LIGA 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LA LIGA Sports", LA LIGA 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
 
@@ -4200,6 +3845,546 @@ https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTUyNDM3NjkiLCJyZWZyZX
 #EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 4
 https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTM3MjA2OTgiLCJyZWZyZXNoX3Rva2VuIjoiZTUrQVwvaWRwN3hHMUw3SUtxc2NsMWY3cXI4MGFxQ1lYNU9VVXpYR2oyU0RjOTNZRzFOS0IxeWR4RWRcL3Z2bGdacEY5RTBjMHpFZ1F2Q25DOG56N05vSjdxSHhUWnhvQUZXdlhOeU1WZEhCOCtlSkF1c0ZpT2xlN2dNSThnWksyVkEwdXlyWUwwM1E5eDF6QVJSd1lxOFI3ZU5cL0lHcmFCOW45d3lFSWs4cEl0Y3pvT2NEVTFFeTVUQmNUK1BzRWx4TlMzc3Fab2M0NFNNdWd2aUwxZ3Z2TEpkeFE3OHpCTCtRcDRYMzgrSDh2VzdxXC9hZmZDSmlpRHRZWG55NjJ4a1BUcjlNOFRzcWdhTnhpRFNPSVpGUHRMZXNncXJtYWN4UzQ4bEFhbFQrXC9ZQ0NsMWpoamhRM1BVbTE0OTcwblJ5OHlET1gxYmxPTUF2emJMd2luVFZVaWxQVnE5TlEwS0tFVm42aDQ0cUM0ZGxrSldrMit2XC9ObURYSkZpOXhGaGR4NkF1XC9xZGh5TDFxUzJcL09cL1FPKzNYZzdQUThlbFUwNG9ESFZcL0UwbTlxaEtzODAxU1lvNEdkbXdrUHhmOTNDVGkifQ==
 
+#EXTINF:-1,IN | 18 SPORTS HD
+http://filex.tv:8080/maazqamar/002450/52077
+#EXTINF:-1,PK | GEO SUPER HD
+http://filex.tv:8080/maazqamar/002450/52080
+#EXTINF:-1,IN | SONY TEN 1 HD
+http://filex.tv:8080/maazqamar/002450/52083
+#EXTINF:-1,IN | SONY TEN 2 HD
+http://filex.tv:8080/maazqamar/002450/52085
+#EXTINF:-1,IN | SONY TEN 3 HD
+http://filex.tv:8080/maazqamar/002450/52086
+#EXTINF:-1,IN | STAR SPORTS 1 HD
+http://filex.tv:8080/maazqamar/002450/52094
+#EXTINF:-1,IN | STAR SPORTS 2 HD
+http://filex.tv:8080/maazqamar/002450/52096
+#EXTINF:-1,IN | STAR SPORTS SELECT 1 HD
+http://filex.tv:8080/maazqamar/002450/52098
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
+http://filex.tv:8080/maazqamar/002450/52100
+#EXTINF:-1,IN | TEN SPORTS HD
+http://filex.tv:8080/maazqamar/002450/52106
+#EXTINF:-1,IN | DD SPORTS
+http://filex.tv:8080/maazqamar/002450/52107
+#EXTINF:-1,IN | WILLOW CRICKET HD
+http://filex.tv:8080/maazqamar/002450/52109
+#EXTINF:-1,PK | ARY SPORTS HD
+http://filex.tv:8080/maazqamar/002450/62393
+#EXTINF:-1,IN | STAR SPORTS 1 HINDI FHD 
+http://filex.tv:8080/maazqamar/002450/90342
+#EXTINF:-1,BD | T SPORTS
+http://filex.tv:8080/maazqamar/002450/111409
+#EXTINF:-1,IN | FAST SPORTS 
+http://filex.tv:8080/maazqamar/002450/277207
+#EXTINF:-1,NZ | SKY SPORTS CRICKET FHD
+http://filex.tv:8080/maazqamar/002450/250199
+#EXTINF:-1,AF | SUPER SPORTS CRICKET 
+http://filex.tv:8080/maazqamar/002450/53044
+#EXTINF:-1,TEN CRICKET HD
+http://filex.tv:8080/maazqamar/002450/99833
+#EXTINF:-1,ASTRO CRICKET
+http://filex.tv:8080/maazqamar/002450/297577
+#EXTINF:-1,DK: V Sport Golf
+http://filex.tv:8080/maazqamar/002450/333168
+#EXTINF:-1,SE: V Sport Golf
+http://filex.tv:8080/maazqamar/002450/333100
+#EXTINF:-1,CZ: Golf Channel
+http://filex.tv:8080/maazqamar/002450/332957
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://filex.tv:8080/maazqamar/002450/303691
+#EXTINF:-1,PL: Golf Channel
+http://filex.tv:8080/maazqamar/002450/316237
+#EXTINF:-1,LA: Golf Channel
+http://filex.tv:8080/maazqamar/002450/303346
+#EXTINF:-1,EX-YU: Sport Klub Golf
+http://filex.tv:8080/maazqamar/002450/303042
+#EXTINF:-1,FR: GOLF+
+http://filex.tv:8080/maazqamar/002450/301901
+#EXTINF:-1,FR: Golf Channel
+http://filex.tv:8080/maazqamar/002450/301900
+#EXTINF:-1,DE: Sky Sport Golf
+http://filex.tv:8080/maazqamar/002450/293494
+#EXTINF:-1,US: Bally Sports Arizona Plus
+http://filex.tv:8080/maazqamar/002450/291561
+#EXTINF:-1,US: Bally Sports Detroit
+http://filex.tv:8080/maazqamar/002450/291562
+#EXTINF:-1,US: Bally Sports Detroit Plus
+http://filex.tv:8080/maazqamar/002450/291563
+#EXTINF:-1,US: Bally Sports Florida
+http://filex.tv:8080/maazqamar/002450/291564
+#EXTINF:-1,US: Bally Sports Florida Alternate
+http://filex.tv:8080/maazqamar/002450/291565
+#EXTINF:-1,US: Bally Sports Florida Plus
+http://filex.tv:8080/maazqamar/002450/291566
+#EXTINF:-1,US: Bally Sports Great Lakes
+http://filex.tv:8080/maazqamar/002450/291567
+#EXTINF:-1,US: Bally Sports Indiana
+http://filex.tv:8080/maazqamar/002450/291568
+#EXTINF:-1,US: Bally Sports Kansas City
+http://filex.tv:8080/maazqamar/002450/291569
+#EXTINF:-1,US: Bally Sports Midwest
+http://filex.tv:8080/maazqamar/002450/291570
+#EXTINF:-1,US: Bally Sports Midwest Alternate
+http://filex.tv:8080/maazqamar/002450/291571
+#EXTINF:-1,US: Bally Sports Midwest Plus
+http://filex.tv:8080/maazqamar/002450/291572
+#EXTINF:-1,US: Bally Sports New Orleans
+http://filex.tv:8080/maazqamar/002450/291573
+#EXTINF:-1,US: Bally Sports North
+http://filex.tv:8080/maazqamar/002450/291574
+#EXTINF:-1,US: Bally Sports Ohio
+http://filex.tv:8080/maazqamar/002450/291575
+#EXTINF:-1,US: Bally Sports Ohio Cincinnati Plus
+http://filex.tv:8080/maazqamar/002450/291576
+#EXTINF:-1,US: Bally Sports Ohio Cleveland
+http://filex.tv:8080/maazqamar/002450/291577
+#EXTINF:-1,US: Bally Sports Oklahoma
+http://filex.tv:8080/maazqamar/002450/291578
+#EXTINF:-1,US: Bally Sports San Diego
+http://filex.tv:8080/maazqamar/002450/291579
+#EXTINF:-1,US: Bally Sports San Diego Plus
+http://filex.tv:8080/maazqamar/002450/291580
+#EXTINF:-1,US: Bally Sports SoCal Plus
+http://filex.tv:8080/maazqamar/002450/291581
+#EXTINF:-1,US: Bally Sports South
+http://filex.tv:8080/maazqamar/002450/291582
+#EXTINF:-1,US: Bally Sports Southeast
+http://filex.tv:8080/maazqamar/002450/291583
+#EXTINF:-1,US: Bally Sports Southwest
+http://filex.tv:8080/maazqamar/002450/291584
+#EXTINF:-1,US: Bally Sports Southwest Alternate
+http://filex.tv:8080/maazqamar/002450/291585
+#EXTINF:-1,US: Bally Sports Southwest Plus
+http://filex.tv:8080/maazqamar/002450/291586
+#EXTINF:-1,US: Bally Sports Sun
+http://filex.tv:8080/maazqamar/002450/291587
+#EXTINF:-1,US: Bally Sports West
+http://filex.tv:8080/maazqamar/002450/291588
+#EXTINF:-1,US: Bally Sports West Plus
+http://filex.tv:8080/maazqamar/002450/291589
+#EXTINF:-1,US: Bally Sports Wisconsin
+http://filex.tv:8080/maazqamar/002450/291590
+#EXTINF:-1,US: Bally Sports Wisconsin Plus
+http://filex.tv:8080/maazqamar/002450/291591
+#EXTINF:-1,US: beIN Sports
+http://filex.tv:8080/maazqamar/002450/291592
+#EXTINF:-1,US: beIN Sports 2
+http://filex.tv:8080/maazqamar/002450/291593
+#EXTINF:-1,US: beIN Sports 3
+http://filex.tv:8080/maazqamar/002450/291594
+#EXTINF:-1,US: beIN Sports 4
+http://filex.tv:8080/maazqamar/002450/291595
+#EXTINF:-1,US: beIN Sports 5
+http://filex.tv:8080/maazqamar/002450/291596
+#EXTINF:-1,US: beIN Sports 6
+http://filex.tv:8080/maazqamar/002450/291597
+#EXTINF:-1,US: beIN Sports 7
+http://filex.tv:8080/maazqamar/002450/291598
+#EXTINF:-1,US: beIN Sports USA
+http://filex.tv:8080/maazqamar/002450/291599
+#EXTINF:-1,US: CBS Sports Network
+http://filex.tv:8080/maazqamar/002450/291601
+#EXTINF:-1,US: Eleven Sports
+http://filex.tv:8080/maazqamar/002450/291602
+#EXTINF:-1,US: ESPN
+http://filex.tv:8080/maazqamar/002450/291603
+#EXTINF:-1,US: ESPN 2
+http://filex.tv:8080/maazqamar/002450/291604
+#EXTINF:-1,US: ESPN 3
+http://filex.tv:8080/maazqamar/002450/291605
+#EXTINF:-1,US: ESPN News
+http://filex.tv:8080/maazqamar/002450/291606
+#EXTINF:-1,US: ESPNU
+http://filex.tv:8080/maazqamar/002450/291607
+#EXTINF:-1,US: FIGHT BOX
+http://filex.tv:8080/maazqamar/002450/291608
+#EXTINF:-1,US: FIGHT Sports
+http://filex.tv:8080/maazqamar/002450/291609
+#EXTINF:-1,US: Fox Soccer Plus
+http://filex.tv:8080/maazqamar/002450/291610
+#EXTINF:-1,US: FOX SPORTS 506
+http://filex.tv:8080/maazqamar/002450/291611
+#EXTINF:-1,US: FOX SPORTS Racing
+http://filex.tv:8080/maazqamar/002450/291612
+#EXTINF:-1,US: FS1
+http://filex.tv:8080/maazqamar/002450/291613
+#EXTINF:-1,US: FS2
+http://filex.tv:8080/maazqamar/002450/291614
+#EXTINF:-1,US: Fubo Sports Network
+http://filex.tv:8080/maazqamar/002450/291615
+#EXTINF:-1,DE: DAZN 1
+http://filex.tv:8080/maazqamar/002450/293459
+#EXTINF:-1,DE: DAZN 2
+http://filex.tv:8080/maazqamar/002450/293460
+#EXTINF:-1,DE: Edge Sport
+http://filex.tv:8080/maazqamar/002450/293461
+#EXTINF:-1,DE: ESports 1
+http://filex.tv:8080/maazqamar/002450/293462
+#EXTINF:-1,DE: Eurosport 1
+http://filex.tv:8080/maazqamar/002450/293463
+#EXTINF:-1,DE: Eurosport 2
+http://filex.tv:8080/maazqamar/002450/293464
+#EXTINF:-1,DE: Magenta Sport 1
+http://filex.tv:8080/maazqamar/002450/293465
+#EXTINF:-1,DE: Magenta Sport 2
+http://filex.tv:8080/maazqamar/002450/293466
+#EXTINF:-1,DE: Magenta Sport 3
+http://filex.tv:8080/maazqamar/002450/293467
+#EXTINF:-1,DE: Magenta Sport 4
+http://filex.tv:8080/maazqamar/002450/293468
+#EXTINF:-1,DE: Magenta Sport 5
+http://filex.tv:8080/maazqamar/002450/293469
+#EXTINF:-1,DE: Magenta Sport 6
+http://filex.tv:8080/maazqamar/002450/293470
+#EXTINF:-1,DE: Magenta Sport 7
+http://filex.tv:8080/maazqamar/002450/293471
+#EXTINF:-1,DE: Magenta Sport 9
+http://filex.tv:8080/maazqamar/002450/293472
+#EXTINF:-1,DE: Magenta Sport 10
+http://filex.tv:8080/maazqamar/002450/293473
+#EXTINF:-1,DE: Magenta Sport 11
+http://filex.tv:8080/maazqamar/002450/293474
+#EXTINF:-1,DE: Magenta Sport 12
+http://filex.tv:8080/maazqamar/002450/293475
+#EXTINF:-1,DE: Magenta Sport 13
+http://filex.tv:8080/maazqamar/002450/293476
+#EXTINF:-1,DE: Magenta Sport 14
+http://filex.tv:8080/maazqamar/002450/293477
+#EXTINF:-1,DE: Magenta Sport 15
+http://filex.tv:8080/maazqamar/002450/293478
+#EXTINF:-1,DE: Magenta Sport 16
+http://filex.tv:8080/maazqamar/002450/293479
+#EXTINF:-1,DE: Magenta Sport 17
+http://filex.tv:8080/maazqamar/002450/293480
+#EXTINF:-1,DE: Magenta Sport 18
+http://filex.tv:8080/maazqamar/002450/293481
+#EXTINF:-1,DE: Servus MotorSport
+http://filex.tv:8080/maazqamar/002450/293483
+#EXTINF:-1,DE: Sky Sport 1
+http://filex.tv:8080/maazqamar/002450/293484
+#EXTINF:-1,DE: Sky Sport 2
+http://filex.tv:8080/maazqamar/002450/293485
+#EXTINF:-1,DE: Sky Sport 3
+http://filex.tv:8080/maazqamar/002450/293486
+#EXTINF:-1,DE: Sky Sport 4
+http://filex.tv:8080/maazqamar/002450/293487
+#EXTINF:-1,DE: Sky Sport 5
+http://filex.tv:8080/maazqamar/002450/293488
+#EXTINF:-1,DE: Sky Sport 6
+http://filex.tv:8080/maazqamar/002450/293489
+#EXTINF:-1,DE: Sky Sport 7
+http://filex.tv:8080/maazqamar/002450/293490
+#EXTINF:-1,DE: Sky Sport 8
+http://filex.tv:8080/maazqamar/002450/293491
+#EXTINF:-1,DE: Sky Sport 9
+http://filex.tv:8080/maazqamar/002450/293492
+#EXTINF:-1,DE: Sky Sport 10
+http://filex.tv:8080/maazqamar/002450/293493
+#EXTINF:-1,DE: Sky Sport Mix
+http://filex.tv:8080/maazqamar/002450/293495
+#EXTINF:-1,DE: Sky Sport Tennis
+http://filex.tv:8080/maazqamar/002450/293496
+#EXTINF:-1,DE: Sky Sport Top Event
+http://filex.tv:8080/maazqamar/002450/293497
+#EXTINF:-1,DE: Sport 1
+http://filex.tv:8080/maazqamar/002450/293498
+#EXTINF:-1,DE: Sport 1+
+http://filex.tv:8080/maazqamar/002450/293499
+#EXTINF:-1,CA: SportsNet 360
+http://filex.tv:8080/maazqamar/002450/290725
+#EXTINF:-1,CA: SportsNet East
+http://filex.tv:8080/maazqamar/002450/290726
+#EXTINF:-1,CA: SportsNet New York
+http://filex.tv:8080/maazqamar/002450/290727
+#EXTINF:-1,CA: SportsNet One
+http://filex.tv:8080/maazqamar/002450/290728
+#EXTINF:-1,CA: SportsNet Ontario
+http://filex.tv:8080/maazqamar/002450/290729
+#EXTINF:-1,CA: SportsNet Pacific
+http://filex.tv:8080/maazqamar/002450/290730
+#EXTINF:-1,CA: SportsNet Spectrum
+http://filex.tv:8080/maazqamar/002450/290731
+#EXTINF:-1,CA: SportsNet West
+http://filex.tv:8080/maazqamar/002450/290732
+#EXTINF:-1,CA: SportsNet World
+http://filex.tv:8080/maazqamar/002450/290733
+#EXTINF:-1,CA: TSN 1
+http://filex.tv:8080/maazqamar/002450/290734
+#EXTINF:-1,CA: TSN 2
+http://filex.tv:8080/maazqamar/002450/290735
+#EXTINF:-1,CA: TSN 3
+http://filex.tv:8080/maazqamar/002450/290736
+#EXTINF:-1,CA: TSN 4
+http://filex.tv:8080/maazqamar/002450/290737
+#EXTINF:-1,CA: TSN 5
+http://filex.tv:8080/maazqamar/002450/290738
+#EXTINF:-1,CA: TVA Sports
+http://filex.tv:8080/maazqamar/002450/290739
+#EXTINF:-1,CA: TVA Sports 2
+http://filex.tv:8080/maazqamar/002450/290740
+#EXTINF:-1,FR: MultiSports 1
+http://filex.tv:8080/maazqamar/002450/301905
+#EXTINF:-1,FR: MultiSports 2
+http://filex.tv:8080/maazqamar/002450/301906
+#EXTINF:-1,FR: MultiSports 3
+http://filex.tv:8080/maazqamar/002450/301907
+#EXTINF:-1,FR: MultiSports 4
+http://filex.tv:8080/maazqamar/002450/301908
+#EXTINF:-1,FR: MultiSports 5
+http://filex.tv:8080/maazqamar/002450/301909
+#EXTINF:-1,FR: MultiSports 6
+http://filex.tv:8080/maazqamar/002450/301910
+#EXTINF:-1,FR: Olympia TV
+http://filex.tv:8080/maazqamar/002450/301911
+#EXTINF:-1,FR: RMC SPORT 1
+http://filex.tv:8080/maazqamar/002450/301912
+#EXTINF:-1,FR: RMC SPORT 2
+http://filex.tv:8080/maazqamar/002450/301913
+#EXTINF:-1,FR: RMC SPORT 3
+http://filex.tv:8080/maazqamar/002450/301914
+#EXTINF:-1,FR: RMC SPORT 4
+http://filex.tv:8080/maazqamar/002450/301915
+#EXTINF:-1,FR: RMC SPORT 5
+http://filex.tv:8080/maazqamar/002450/301916
+#EXTINF:-1,FR: RMC SPORT 7
+http://filex.tv:8080/maazqamar/002450/301917
+#EXTINF:-1,FR: RMC SPORT 8
+http://filex.tv:8080/maazqamar/002450/301918
+#EXTINF:-1,FR: RMC SPORT 9
+http://filex.tv:8080/maazqamar/002450/301919
+#EXTINF:-1,FR: RMC SPORT 10
+http://filex.tv:8080/maazqamar/002450/301920
+#EXTINF:-1,FR: RMC SPORT 12
+http://filex.tv:8080/maazqamar/002450/301921
+#EXTINF:-1,FR: RMC SPORT 13
+http://filex.tv:8080/maazqamar/002450/301922
+#EXTINF:-1,FR: TRACE Sport Stars
+http://filex.tv:8080/maazqamar/002450/301923
+#EXTINF:-1,FR: RTS 1
+http://filex.tv:8080/maazqamar/002450/302148
+#EXTINF:-1,UK: TNT Sports 1
+http://filex.tv:8080/maazqamar/002450/290425
+#EXTINF:-1,UK: TNT Sports 2
+http://filex.tv:8080/maazqamar/002450/290426
+#EXTINF:-1,UK: TNT Sports 3
+http://filex.tv:8080/maazqamar/002450/290427
+#EXTINF:-1,UK: TNT Sports 4
+http://filex.tv:8080/maazqamar/002450/290428
+#EXTINF:-1,UK: TNT Sports 5
+http://filex.tv:8080/maazqamar/002450/290429
+#EXTINF:-1,UK: UFC Fight Pass
+http://filex.tv:8080/maazqamar/002450/290430
+#EXTINF:-1,TH: MCOT HD
+http://filex.tv:8080/maazqamar/002450/302721
+#EXTINF:-1,TH: PPTV HD 36
+http://filex.tv:8080/maazqamar/002450/302726
+#EXTINF:-1,TH: Thairath TV 32
+http://filex.tv:8080/maazqamar/002450/302732
+#EXTINF:-1,TH: True Premiere Football 1
+http://filex.tv:8080/maazqamar/002450/302733
+#EXTINF:-1,TH: True Premiere Football 2
+http://filex.tv:8080/maazqamar/002450/302734
+#EXTINF:-1,TH: True Sport 3
+http://filex.tv:8080/maazqamar/002450/302735
+#EXTINF:-1,TH: True Sport 4
+http://filex.tv:8080/maazqamar/002450/302736
+#EXTINF:-1,TH: TrueVisions
+http://filex.tv:8080/maazqamar/002450/302737
+#EXTINF:-1,CO: ESPN
+http://filex.tv:8080/maazqamar/002450/302919
+#EXTINF:-1,CO: ESPN 2
+http://filex.tv:8080/maazqamar/002450/302920
+#EXTINF:-1,CO: ESPN 3
+http://filex.tv:8080/maazqamar/002450/302921
+#EXTINF:-1,CO: ESPN 4
+http://filex.tv:8080/maazqamar/002450/302922
+#EXTINF:-1,CO: ESPN 5
+http://filex.tv:8080/maazqamar/002450/302923
+#EXTINF:-1,CO: ESPN 6
+http://filex.tv:8080/maazqamar/002450/302924
+#EXTINF:-1,CO: ESPN 7
+http://filex.tv:8080/maazqamar/002450/302925
+#EXTINF:-1,CO: Fox Sports 2
+http://filex.tv:8080/maazqamar/002450/302927
+#EXTINF:-1,CO: FOX Sports 3
+http://filex.tv:8080/maazqamar/002450/302928
+#EXTINF:-1,MY: Astro SuperSport
+http://filex.tv:8080/maazqamar/002450/303503
+#EXTINF:-1,MY: Astro SuperSport 2
+http://filex.tv:8080/maazqamar/002450/303504
+#EXTINF:-1,MY: Astro SuperSport 3
+http://filex.tv:8080/maazqamar/002450/303505
+#EXTINF:-1,MY: Astro SuperSport 4
+http://filex.tv:8080/maazqamar/002450/303506
+#EXTINF:-1,QA: beIN Sports
+http://filex.tv:8080/maazqamar/002450/332931
+#EXTINF:-1,QA: beIN Sports 1
+http://filex.tv:8080/maazqamar/002450/332932
+#EXTINF:-1,QA: beIN Sports 2
+http://filex.tv:8080/maazqamar/002450/332933
+#EXTINF:-1,QA: beIN Sports 3
+http://filex.tv:8080/maazqamar/002450/332934
+#EXTINF:-1,QA: beIN Sports 4
+http://filex.tv:8080/maazqamar/002450/332935
+#EXTINF:-1,QA: beIN Sports 5
+http://filex.tv:8080/maazqamar/002450/332936
+#EXTINF:-1,QA: beIN Sports 6
+http://filex.tv:8080/maazqamar/002450/332937
+#EXTINF:-1,QA: beIN Sports 7
+http://filex.tv:8080/maazqamar/002450/332938
+#EXTINF:-1,QA: beIN Sports 8
+http://filex.tv:8080/maazqamar/002450/332939
+#EXTINF:-1,QA: beIN Sports 9
+http://filex.tv:8080/maazqamar/002450/332940
+#EXTINF:-1,QA: beIN Sports English 1
+http://filex.tv:8080/maazqamar/002450/332941
+#EXTINF:-1,QA: beIN Sports English 2
+http://filex.tv:8080/maazqamar/002450/332942
+#EXTINF:-1,QA: beIN Sports English 3
+http://filex.tv:8080/maazqamar/002450/332943
+#EXTINF:-1,QA: beIN Sports Global
+http://filex.tv:8080/maazqamar/002450/332944
+#EXTINF:-1,QA: beIN Sports News
+http://filex.tv:8080/maazqamar/002450/332945
+#EXTINF:-1,QA: beIN Sports Premium 1
+http://filex.tv:8080/maazqamar/002450/332946
+#EXTINF:-1,QA: beIN Sports Xtra 1
+http://filex.tv:8080/maazqamar/002450/332947
+#EXTINF:-1,QA: beIN Sports Xtra 2
+http://filex.tv:8080/maazqamar/002450/332948
+#EXTINF:-1,RS: Arena Esport
+http://filex.tv:8080/maazqamar/002450/317464
+#EXTINF:-1,RS: Arena Fight
+http://filex.tv:8080/maazqamar/002450/317465
+#EXTINF:-1,RS: Arena Premium 1
+http://filex.tv:8080/maazqamar/002450/317466
+#EXTINF:-1,RS: Arena Premium 2
+http://filex.tv:8080/maazqamar/002450/317467
+#EXTINF:-1,RS: Arena Premium 3
+http://filex.tv:8080/maazqamar/002450/317468
+#EXTINF:-1,RS: Arena Sport 1
+http://filex.tv:8080/maazqamar/002450/317469
+#EXTINF:-1,RS: Arena Sport 2
+http://filex.tv:8080/maazqamar/002450/317470
+#EXTINF:-1,RS: Arena Sport 3
+http://filex.tv:8080/maazqamar/002450/317471
+#EXTINF:-1,RS: Arena Sport 3 Premium
+http://filex.tv:8080/maazqamar/002450/317472
+#EXTINF:-1,RS: Arena Sport 4
+http://filex.tv:8080/maazqamar/002450/317473
+#EXTINF:-1,RS: Arena Sport 5
+http://filex.tv:8080/maazqamar/002450/317474
+#EXTINF:-1,RS: Arena Sport 6
+http://filex.tv:8080/maazqamar/002450/317475
+#EXTINF:-1,RS: Arena Sport 7
+http://filex.tv:8080/maazqamar/002450/317476
+#EXTINF:-1,RS: Arena Sport 8
+http://filex.tv:8080/maazqamar/002450/317477
+#EXTINF:-1,RS: Arena Sport 9
+http://filex.tv:8080/maazqamar/002450/317478
+#EXTINF:-1,RS: Arena Sport 1x2
+http://filex.tv:8080/maazqamar/002450/317479
+#EXTINF:-1,RS: Eurosport 1
+http://filex.tv:8080/maazqamar/002450/317480
+#EXTINF:-1,RS: Eurosport 2
+http://filex.tv:8080/maazqamar/002450/317481
+#EXTINF:-1,RS: Nova Sport
+http://filex.tv:8080/maazqamar/002450/317482
+#EXTINF:-1,RS: Sport Klub 2
+http://filex.tv:8080/maazqamar/002450/317483
+#EXTINF:-1,RS: Sport Klub 3
+http://filex.tv:8080/maazqamar/002450/317484
+#EXTINF:-1,RS: Sport Klub 4
+http://filex.tv:8080/maazqamar/002450/317485
+#EXTINF:-1,RS: Sport Klub 5
+http://filex.tv:8080/maazqamar/002450/317486
+#EXTINF:-1,RS: RTS 1
+http://filex.tv:8080/maazqamar/002450/317577
+#EXTINF:-1,HR: Arena Sport 1
+http://filex.tv:8080/maazqamar/002450/317325
+#EXTINF:-1,HR: Arena Sport 2
+http://filex.tv:8080/maazqamar/002450/317326
+#EXTINF:-1,HR: Arena Sport 3
+http://filex.tv:8080/maazqamar/002450/317327
+#EXTINF:-1,HR: Arena Sport 4
+http://filex.tv:8080/maazqamar/002450/317328
+#EXTINF:-1,HR: Arena Sport 5
+http://filex.tv:8080/maazqamar/002450/317329
+#EXTINF:-1,HR: Arena Sport 6
+http://filex.tv:8080/maazqamar/002450/317330
+#EXTINF:-1,HR: Arena Sport 10
+http://filex.tv:8080/maazqamar/002450/317331
+#EXTINF:-1,HR: Max Sport 1
+http://filex.tv:8080/maazqamar/002450/317332
+#EXTINF:-1,HR: Max Sport 2
+http://filex.tv:8080/maazqamar/002450/317333
+#EXTINF:-1,HR: Sport Klub 1
+http://filex.tv:8080/maazqamar/002450/317334
+#EXTINF:-1,HR: Sport Klub 2
+http://filex.tv:8080/maazqamar/002450/317335
+#EXTINF:-1,HR: Sport Klub 3
+http://filex.tv:8080/maazqamar/002450/317336
+#EXTINF:-1,HR: Sport Klub 4
+http://filex.tv:8080/maazqamar/002450/317337
+#EXTINF:-1,HR: Sport Klub 5
+http://filex.tv:8080/maazqamar/002450/317338
+#EXTINF:-1,AL: Arena Sport 1
+http://filex.tv:8080/maazqamar/002450/303997
+#EXTINF:-1,AL: Arena Sport 2
+http://filex.tv:8080/maazqamar/002450/303998
+#EXTINF:-1,AL: Arena Sport 4
+http://filex.tv:8080/maazqamar/002450/303999
+#EXTINF:-1,AL: Arena Sport 5
+http://filex.tv:8080/maazqamar/002450/304000
+#EXTINF:-1,AL: ART Sport 1
+http://filex.tv:8080/maazqamar/002450/304001
+#EXTINF:-1,AL: ART Sport 2
+http://filex.tv:8080/maazqamar/002450/304002
+#EXTINF:-1,AL: ART Sport 3
+http://filex.tv:8080/maazqamar/002450/304003
+#EXTINF:-1,AL: ART Sport 4
+http://filex.tv:8080/maazqamar/002450/304004
+#EXTINF:-1,AL: ART Sport 5
+http://filex.tv:8080/maazqamar/002450/304005
+#EXTINF:-1,AL: Eurosport 1
+http://filex.tv:8080/maazqamar/002450/304006
+#EXTINF:-1,AL: Eurosport 2
+http://filex.tv:8080/maazqamar/002450/304007
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://filex.tv:8080/maazqamar/002450/304008
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://filex.tv:8080/maazqamar/002450/304009
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://filex.tv:8080/maazqamar/002450/304010
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://filex.tv:8080/maazqamar/002450/304011
+#EXTINF:-1,AL: RTSH Sport
+http://filex.tv:8080/maazqamar/002450/304012
+#EXTINF:-1,AL: SuperSport 1
+http://filex.tv:8080/maazqamar/002450/304013
+#EXTINF:-1,AL: SuperSport 2
+http://filex.tv:8080/maazqamar/002450/304014
+#EXTINF:-1,AL: SuperSport 3
+http://filex.tv:8080/maazqamar/002450/304015
+#EXTINF:-1,AL: SuperSport 4
+http://filex.tv:8080/maazqamar/002450/304016
+#EXTINF:-1,AL: SuperSport 5
+http://filex.tv:8080/maazqamar/002450/304017
+#EXTINF:-1,AL: SuperSport 6
+http://filex.tv:8080/maazqamar/002450/304018
+#EXTINF:-1,AL: SuperSport 7
+http://filex.tv:8080/maazqamar/002450/304019
+#EXTINF:-1,AL: SuperSport News
+http://filex.tv:8080/maazqamar/002450/304020
+#EXTINF:-1,AL: Tring Sport 1
+http://filex.tv:8080/maazqamar/002450/304021
+#EXTINF:-1,AL: Tring Sport 2
+http://filex.tv:8080/maazqamar/002450/304022
+#EXTINF:-1,AL: Tring Sport 3
+http://filex.tv:8080/maazqamar/002450/304023
+#EXTINF:-1,AL: Tring Sport 4
+http://filex.tv:8080/maazqamar/002450/304024
 
 
 
@@ -4209,24 +4394,4 @@ https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTM3MjA2OTgiLCJyZWZyZX
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5Rzphj8/meatball-magnet-1024x1024-modified.png" group-title="Knowledge",Nasa
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png" group-title="News",CNBC Indonesia  (OTT)
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-
-
-#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="News",CNN Indonesia (OTT)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1474622992_b384000_sleng.m3u8
-
-
-
-///////////////////////Lifestyle
-
-
-
-#EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png" group-title="Lifestyle",FashionTV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png" group-title="Lifestyle",Fashion TV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
