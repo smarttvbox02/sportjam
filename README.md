@@ -2717,70 +2717,7 @@ http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146062
 http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146121
 #EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-4K.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FR ⁴ᴷ
 http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146129
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
-https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
-https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
-https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
-https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
-#EXTINF: -1 tvg-logo="https://images.squarespace-cdn.com/content/v1/63f5e1e3556ce912f155e6c4/2b28f962-16fa-4bb1-9457-58b6e5f23b3a/live-football-24-06-14-EURO+2024-Germany+vs+Scotland_01.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Germany Vs Scotland
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070295
-#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Hungary_Vs_Switzerland.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Hungary Vs Switzerland
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070326
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Spain Vs Croatia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070450
-#EXTINF: -1 tvg-logo="https://www.bestbettingsites.co.uk/wp-content/uploads/2024/06/r1-italy-vs-albania.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Italy Vs Albania
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070451
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/OoObQJNJBik/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Poland Vs Netherlands
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070452
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/Egmt5XefMSs/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Slovenia Vs Denmark
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070453
-#EXTINF: -1 tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/499/499284-serbiavsengland-1.jpg?q=75&w=634" group-title="BEIN EURO CUP 2024 REPLAY", Serbia Vs England
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070454
-#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0j2v7qr.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Romania Vs Ukraine
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070513
-#EXTINF: -1 tvg-logo="https://clutchpoints.com/_next/image?url=https%3A%2F%2Fwp.clutchpoints.com%2Fwp-content%2Fuploads%2F2024%2F06%2FBelgium-vs.-Slovakia-2024-Euros-prediction-odds-pick-1.jpg&w=1200&q=75" group-title="BEIN EURO CUP 2024 REPLAY", Belgium Vs Slovakia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070514
-#EXTINF: -1 tvg-logo="https://static.tnn.in/thumb/msid-111065585,thumbsize-67930,width-1280,height-720,resizemode-75/111065585.jpg" group-title="BEIN EURO CUP 2024 REPLAY", France Vs Austria
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070515
-#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Tu%CC%88rkiye_Vs_Georgia.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Turkiye Vs Georgia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070516
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/U08MnyreKg4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpsCNixgXda8IEpNbvRHCe3Xv29A" group-title="BEIN EURO CUP 2024 REPLAY", Portugal Vs Czechia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070517
-#EXTINF: -1 tvg-logo="https://www.bettingodds.com/media/images/admin/euro-2024-bo-uk/croatia-vs-albania-predictions.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Croatia Vs Albania
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070518
-#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0j3gqlw.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Germany Vs Hungary
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070520
-#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0j3gw33.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Scotland Vs Switzerland
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070573
-#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Slovenia_Vs_Serbia.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Slovenia Vs Serbia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071020
-#EXTINF: -1 tvg-logo="https://www.bestbettingsites.co.uk/wp-content/uploads/2024/06/r2-denmark-vs-england.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Denmark Vs England
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071106
-#EXTINF: -1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/full/1718867395-0639.jpg?im=FeatureCrop,size=(826,465)" group-title="BEIN EURO CUP 2024 REPLAY", Spain Vs Italy
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071216
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Poland Vs Austria
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071602
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Slovakia Vs Ukraine
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071600
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Netherlands Vs France
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072090
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Georgia Vs Czechia
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072432
-#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Turkiye Vs Portugal
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072585
-#EXTINF: -1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9kXteUE29DWJGyxoQgPrLwHaE7&pid=Api&P=0&h=180" group-title="BEIN EURO CUP 2024 REPLAY", Belgium Vs Romania
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072624
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/TYnQNKyLMEo/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Switzerland Vs Germany
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072793
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ESzvbdRzLZ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDGVGuZn1CsmOBvh01BVz5ESRjq_Q" group-title="BEIN EURO CUP 2024 REPLAY", Scotland Vs Hungary
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072794
-#EXTINF: -1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN EURO CUP 2024 REPLAY", beIN SPORTS MAX 1 REPLAY
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1069974
-#EXTINF: -1 tvg-logo="https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png" group-title="BEIN EURO CUP 2024 REPLAY", beIN SPORTS MAX 2 REPLAY
-http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1069975
+
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", https://t.me/iptv7778
 https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", https://t.me/iptv7778
@@ -3621,10 +3558,8 @@ http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295688
 http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295689
 #EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 20
 http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295690
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="https://t.me/iptv7778", https://t.me/iptv7778
-https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="https://t.me/iptv7778", https://t.me/iptv7778
-https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
+4
+
 
 
 
