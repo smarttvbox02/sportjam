@@ -2673,1720 +2673,958 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122760
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jx9LQWw/tennis-channel-modified.png" tvg-id="otto" tvg-name="Supersport" group-title="Sports",Tennis Channel (SMS)
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-/////https://ott-navigator.my.id/bang_otto_ganteng/s4msung/master.m3u8?id=tennis
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png", PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://ott-navigator.my.id/bang_otto_ganteng/thailandong/pptv.m3u8
-
-
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://i.ibb.co/zxvTqGK/download-5-modified-1.png" group-title="Sports",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Sports",MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUZlMdM19x65pLwDvE0EmInAogaJkSoZXb2O81fOOxtWpG-zBYqvr3UYEkno&s" group-title="Sports",Real Madrid TV
-#EXTVLCOPT:http-referrer=https://www.realmadrid.com/
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
-==================================== J SPORTS ================================================
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
-
-
-
-/////////////////////////////////////////////////////Dubai Sport
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 2 FHD
-https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-
-
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 3 FHD
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 1 FHD
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 1 FHD
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8
-
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
-
-
-#EXTINF:-1  group-title="Dubai Sports" tvg-logo="https://i.imgur.com/KDHJryj.png",Dubai Sports 3 FHD
-https://dmitwlfr.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
-//////////////////////////ESPN
-
-
-#EXTINF:-1  group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
-https://cors-proxy.elfsight.com/https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd
-////https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
-
-#EXTINF:-1  group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
-https://cors-proxy.elfsight.com/https://tvfuego.cdn.rcs.net.ar/mnp/espn2/output.mpd
-///////https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
-
-#EXTINF:-1  group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b645185cd62d881fa91fd92170690ea:e5f759e256c768c6349deb9cc446cabe
-https://cors-proxy.elfsight.com/https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
-///////https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN3)/master.mpd
-
-#EXTINF:-1 g group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN PREMIUM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-////////https://cdn.cvattv.com.ar//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-  
-#EXTINF:-1  group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://cors-proxy.elfsight.com/https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-/////////https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
-
-
-
-#EXTINF:-1  group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN PREMIUM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-/////////https://cdn.cvattv.com.ar//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-  
-  
-  
-#EXTINF:-1   group-title="ESPN Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-//////////////////https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
-
-
-//////////////////KSA
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="KSA Sports",KSA Sports 1 HD
-//////https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="KSA Sports",KSA Sports 2 HD
-////////https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="KSA Sports",KSA Sports 3 HD
-///////////https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="KSA Sports",KSA Sports 4 HD
-/////////https://edge.taghtia.com/sa/17.m3u8
-
-
-
-
-///////////////////ABUDABHI
-
-#EXTINF:-1 group-title="Sports" tvg-id="ABU DHABI SPORTS 1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png",ABU DHABI SPORTS 1
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
-#EXTINF:-1 group-title="Sports" tvg-id="ABU DHABI SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png",ABU DHABI SPORTS 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-
-
-
-
-
-
-#EXTINF:-1   group-title="FOX Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png",FOX SPORTS 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
-
-#EXTINF:-1  group-title="FOX Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1024px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd
-
-#EXTINF:-1  group-title="FOX Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png",FOX SPORTS 3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  channel-id="samsung-USBB2900003O3" tvg-id="USBB2900003O3" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/98/USBB2900003O3_20211230T073104.png" group-title="Samsung TV",Heartland
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-https://d76toswjmqqzm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Heartland-prod/playlist.m3u8
-
-#EXTINF:-1  channel-id="samsung-USAJ1700008H6" tvg-id="USAJ1700008H6" tvg-chno="1001" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USAJ1700008H6_20211230T073031.png" group-title="Samsung TV",Bon Appétit
-https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8
-
-#EXTINF:-1  channel-id="samsung-USBA300030Q8" tvg-id="USBA300030Q8" tvg-chno="1002" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20211230T073028.png" group-title="Samsung TV",BUZZR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1  channel-id="samsung-USBB1000002TK" tvg-id="USBB1000002TK" tvg-chno="1003" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20211230T073108.png" group-title="Samsung TV",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-
-#EXTINF:-1  channel-id="samsung-USBB36000040M" tvg-id="USBB36000040M" tvg-chno="1004" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/85/USBB36000040M_20211230T073034.png" group-title="Samsung TV",Crime Zone
-https://d2y1yluexgb8kp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb36000040m-prod/amgcrime/playlist.m3u8
-
-#EXTINF:-1  channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-chno="1005" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="Samsung TV",CBS News
-https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
-
-#EXTINF:-1  channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20210720T084138.png" group-title="Samsung TV",LiveNOW from FOX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2200014DK" tvg-id="USBB2200014DK" tvg-chno="1008" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USBB2200014DK_20210727T132359.png" group-title="Samsung TV",NBC News NOW
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-chno="1015" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/USAJ3400011A820200730102745.png" group-title="Samsung TV",Bloomberg TV+ UHD
-https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504714A" tvg-id="USAJ3504714A" tvg-chno="1016" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/95/USAJ3504714A_20210413T065435.png" group-title="Samsung TV",Cheddar News
-https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300005PJ" tvg-id="USAJ4300005PJ" tvg-chno="1017" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="Samsung TV",Yahoo Finance
-https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000251N" tvg-id="USBB32000251N" tvg-chno="1019" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/31/USBB32000251N_20210824T091345.png" group-title="Samsung TV",TODAY All Day
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400018M0" tvg-id="USAJ3400018M0" tvg-chno="1020" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/USAJ3400018M0_20211012T230717.png" group-title="Samsung TV",Newsy
-https://1775a4feddb54d49b6e03fa9254b613a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-1/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000041W" tvg-id="USAJ30000041W" tvg-chno="1021" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" group-title="Samsung TV",Bloomberg Quicktake
-https://46fdaf6b6c654641a17df270a2ac8443.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1500001GD" tvg-id="USBB1500001GD" tvg-chno="1023" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB1500001GD_20210622T090612.png" group-title="Samsung TV",USA Today
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA340000107" tvg-id="USBA340000107" tvg-chno="1024" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210512T004108.png" group-title="Samsung TV",BNC GO
-https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8PP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBA300028QU" tvg-id="USBA300028QU" tvg-chno="1027" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV",Newsmax TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-chno="1029" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="Samsung TV",Real America's Voice
-https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u
-
-#EXTINF:-1 channel-id="samsung-USBA30002142" tvg-id="USBA30002142" tvg-chno="1032" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="Samsung TV",TYT Network
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB40000028E" tvg-id="USBB40000028E" tvg-chno="1034" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBB40000028E_20211027T003953.png" group-title="Samsung TV",NBCLX
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400001QA" tvg-id="USBB4400001QA" tvg-chno="1037" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/98/USBB4400001QA_20211117T100426.png" group-title="Samsung TV",WeatherNation
-https://d2yncmyfd5a535.cloudfront.net/dmachannel/weathernationPP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBA3400002IE" tvg-id="USBA3400002IE" tvg-chno="1041" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/30/USBA3400002IE_20210923T005620.png" group-title="Samsung TV",Local News 1
-https://redirect.tvplus.media/localchannel/news_1PP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USAJ3400010RS" tvg-id="USAJ3400010RS" tvg-chno="1052" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" group-title="Samsung TV",Stories by AMC
-https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500002FL" tvg-id="USBB3500002FL" tvg-chno="1055" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/USBB3500002FL_20211027T003958.png" group-title="Samsung TV",TV Land Drama
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ26000015Y" tvg-id="USAJ26000015Y" tvg-chno="1060" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USAJ26000015Y_20201007T012253.png" group-title="Samsung TV",Drama Life
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400001FM" tvg-id="USAJ3400001FM" tvg-chno="1061" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/37/USAJ3400001FM_20211012T230719.png" group-title="Samsung TV",Bounce XL
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200014K9" tvg-id="USAJ2200014K9" tvg-chno="1062" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/USAJ2200014K9_20201208T081550.png" group-title="Samsung TV",ION Plus
-https://ea2f4b54cd2d457290e6c34468dffb10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_IonPlus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-chno="1063" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USBA2000001BR_20210525T051449.png" group-title="Samsung TV",Baywatch
-https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000100K" tvg-id="USAJ30000100K" tvg-chno="1065" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/USAJ30000100K_20210428T104242.png" group-title="Samsung TV",The Walking Dead Universe
-https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB320000397" tvg-id="USBB320000397" tvg-chno="1066" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USBB320000397_20210923T005628.png" group-title="Samsung TV",21 Jump Street
-https://dpu24vd0o32rf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400016XC" tvg-id="USAJ3400016XC" tvg-chno="1067" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/52/USAJ3400016XC_20210323T125502.png" group-title="Samsung TV",Degrassi
-https://ba2f915d57b64d17ba95f092b16b8d58.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Degrassi/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000044BJ" tvg-id="USBA3000044BJ" tvg-chno="1068" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-title="Samsung TV",Lucky Dog
-https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8PP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USBA300029RP" tvg-id="USBA300029RP" tvg-chno="1069" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20210525T051509.png" group-title="Samsung TV",The Bob Ross Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800005NI" tvg-id="USBA3800005NI" tvg-chno="1070" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Samsung TV",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8PP_NAME%7D
-
-#EXTINF:-1 channel-id="samsung-USAJ3504708A" tvg-id="USAJ3504708A" tvg-chno="1072" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/USAJ3504708A_20200910T024247.png" group-title="Samsung TV",Danger TV
-https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-chno="1073" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/96/USAJ340000677_20210126T072617.png" group-title="Samsung TV",Magellan TV Now
-https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000022E" tvg-id="USAJ34000022E" tvg-chno="1078" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E20200730102745.png" group-title="Samsung TV",Nosey
-https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200001MG" tvg-id="USBB3200001MG" tvg-chno="1080" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/52/USBB3200001MG_20211012T230722.png" group-title="Samsung TV",REELZ
-https://d3serb1fmh623s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Reelz-prod/playlist.m3
-
-#EXTINF:-1 channel-id="samsung-USBA300035FV" tvg-id="USBA300035FV" tvg-chno="1082" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/24/USBA300035FV_20210622T090625.png" group-title="Samsung TV",Circle
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB600001QD" tvg-id="USBB600001QD" tvg-chno="1085" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USBB600001QD_20211027T003737.png" group-title="Samsung TV",Fuse Backstage
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/fuseaaaaa-fuse-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1900006NY" tvg-id="USBB1900006NY" tvg-chno="1086" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/13/USBB1900006NY_20210622T090615.png" group-title="Samsung TV",VICE
-https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800003VP" tvg-id="USBA3800003VP" tvg-chno="1089" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/71/USBA3800003VP_20210525T051455.png" group-title="Samsung TV",Revry
-https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Revry2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508715A" tvg-id="USAK3508715A" tvg-chno="1090" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/USAK3508715A20200730102745.png" group-title="Samsung TV",Shout! Factory
-https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300010Y0" tvg-id="USAJ4300010Y0" tvg-chno="1091" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USAJ4300010Y020200730102745.png" group-title="Samsung TV",Dove Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-dovenowxumo/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ22000130U" tvg-id="USAJ22000130U" tvg-chno="1096" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/00/USAJ22000130U_20200819T020336.png" group-title="Samsung TV",MHz Now
-https://f8f59665a66d47ab9f9e8c2b7e6881e1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MHz/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200021NW" tvg-id="USAJ2200021NW" tvg-chno="1101" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USAJ2200021NW_20211012T230724.png" group-title="Samsung TV",Brat TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3700002JF" tvg-id="USBA3700002JF" tvg-chno="1103" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="Samsung TV",ET Live
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300032J7" tvg-id="USBA300032J7" tvg-chno="1104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/90/USBA300032J7_20200819T020252.png" group-title="Samsung TV",FOX SOUL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-soul-samsung/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200022RM" tvg-id="USAJ2200022RM" tvg-chno="1105" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM20200730102745.png" group-title="Samsung TV",People TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-peopletv-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200030CG" tvg-id="USBB3200030CG" tvg-chno="1106" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB3200030CG_20210909T003507.png" group-title="Samsung TV",The Rotten Tomatoes Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoes-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 channel-id="samsung-USAK3508719A" tvg-id="USAK3508719A" tvg-chno="1107" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USAK3508719A_20211215T023444.png" group-title="Samsung TV",Hollywire
-https://65ffe583074441adbfb111714c7b4e8b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hollywire/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508703A" tvg-id="USAK3508703A" tvg-chno="1126" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/94/USAK3508703A_20210609T003434.png" group-title="Samsung TV",Crime 360
-https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200004X3" tvg-id="USBB3200004X3" tvg-chno="1128" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/USBB3200004X3_20210824T091330.png" group-title="Samsung TV",Dr. G: Medical Examiner
-https://d2j25awujlvs9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/DrGMedicalExaminer-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200017MY" tvg-id="USBB3200017MY" tvg-chno="1131" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/USBB3200017MY_20210824T091342.png" group-title="Samsung TV",Forensic Files
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_forensicfiles_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508710A" tvg-id="USAK3508710A" tvg-chno="1132" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USAK3508710A_20210525T051616.png" group-title="Samsung TV",Law & Crime
-https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8
-
-
-#EXTINF:-1 channel-id="samsung-USBA34000049Z" tvg-id="USBA34000049Z" tvg-chno="1133" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USBA34000049Z_20210525T051457.png" group-title="Samsung TV",Court TV
-https://d11ns1fzxv6gfs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CourtTV-prod/index.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200018Q6" tvg-id="USBB3200018Q6" tvg-chno="1135" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png" group-title="Samsung TV",Unsolved Mysteries
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504547A" tvg-id="USAJ3504547A" tvg-chno="1136" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/07/USAJ3504547A_20210525T051557.png" group-title="Samsung TV",The New Detectives
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400012FA" tvg-id="USAJ3400012FA" tvg-chno="1141" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA_20210525T051618.png" group-title="Samsung TV",Game Show Central
-https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504712A" tvg-id="USAJ3504712A" tvg-chno="1143" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Samsung TV",Deal or No Deal
-https://ed171e536a1c40559db9cbd2ea300bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DealOrNoDeal/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2300002Q6" tvg-id="USBB2300002Q6" tvg-chno="1144" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB2300002Q6_20210727T132407.png" group-title="Samsung TV",Fear Factor
-https://d1hndhnbnjd9e5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/FearFactor-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508728A" tvg-id="USAK3508728A" tvg-chno="1145" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/USAK3508728A_20210525T051622.png" group-title="Samsung TV",Wipeout Xtra
-https://c2b5dda37eac42d18c8250cd9fec7d70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WipeoutXtra/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000100X" tvg-id="USBA3000100X" tvg-chno="1147" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/USBA3000100X_20210525T051559.png" group-title="Samsung TV",Wild 'N Out
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-chno="1155" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/USBB400000145_20211117T100428.png" group-title="Samsung TV",GOLFPASS
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300001Q7" tvg-id="USAJ4300001Q7" tvg-chno="1157" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/USAJ4300001Q7_20210909T003513.png" group-title="Samsung TV",beIN SPORTS XTRA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bein-xtra-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504705A" tvg-id="USAJ3504705A" tvg-chno="1159" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/USAJ3504705A_20210525T051625.png" group-title="Samsung TV",Stadium
-https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-chno="1160" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBA300031OT_20210525T051532.png" group-title="Samsung TV",SportsGrid
-https://sportsgrid-samsungus.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-samsung-us/CDN/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300034DB" tvg-id="USBA300034DB" tvg-chno="1161" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="Samsung TV",Pac-12 Insider
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300002WD" tvg-id="USAJ4300002WD" tvg-chno="1163" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/72/USAJ4300002WD_20211027T003656.png" group-title="Samsung TV",Origin Sports
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-originsports-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000001XP" tvg-id="USBB1000001XP" tvg-chno="1164" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USBB1000001XP_20210720T084144.png" group-title="Samsung TV",IMPACT Wrestling
-https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000380A" tvg-id="USBA3000380A" tvg-chno="1166" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/73/USBA3000380A_20210525T051536.png" group-title="Samsung TV",PlayersTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-playerstv-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504716A" tvg-id="USAJ3504716A" tvg-chno="1167" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/USAJ3504716A_20211012T230727.png" group-title="Samsung TV",FTF
-https://9fb55cfc0a1e430fb1e209c3b50576b6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FTFNextUS/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300039YG" tvg-id="USBA300039YG" tvg-chno="1169" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/51/USBA300039YG_20210525T051538.png" group-title="Samsung TV",EDGEsport
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB10000058A" tvg-id="USBB10000058A" tvg-chno="1173" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB10000058A_20210525T094606.png" group-title="Samsung TV",SURF NOW TV
-https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-chno="1176" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/USBA300022JX_20210525T051540.png" group-title="Samsung TV",Insight TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504707A" tvg-id="USAJ3504707A" tvg-chno="1178" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png" group-title="Samsung TV",Outside TV+
-https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508711A" tvg-id="USAK3508711A" tvg-chno="1179" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="Samsung TV",FUEL TV
-https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA5000001XM" tvg-id="USBA5000001XM" tvg-chno="1180" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/76/USBA5000001XM_20210525T051542.png" group-title="Samsung TV",Whistle TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/whistletv-whistletv-samsung-us/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400015BY" tvg-id="USAJ3400015BY" tvg-chno="1181" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ3400015BY_20210525T051634.png" group-title="Samsung TV",People Are Awesome
-https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508729A" tvg-id="USAK3508729A" tvg-chno="1182" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAK3508729A_20210525T051635.png" group-title="Samsung TV",Outdoor America
-https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508718A" tvg-id="USAK3508718A" tvg-chno="1184" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAK3508718A_20210525T051638.png" group-title="Samsung TV",Waypoint TV
-https://e7666845351445288d09adb21bf2765b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WaypointTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200012RN" tvg-id="USAJ2200012RN" tvg-chno="1185" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USAJ2200012RN_20210525T051639.png" group-title="Samsung TV",Pursuit UP
-https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504718A" tvg-id="USAJ3504718A" tvg-chno="1187" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png" group-title="Samsung TV",World Poker Tour
-https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000090D" tvg-id="USAJ34000090D" tvg-chno="1190" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ34000090D_20210525T051644.png" group-title="Samsung TV",MAVTV Select
-https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504717A" tvg-id="USAJ3504717A" tvg-chno="1191" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/USAJ3504717A_20210525T051646.png" group-title="Samsung TV",PowerNation
-https://d756a78688054e35ae814dd9c1e899f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_RTMTVChannel/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4000004ZT" tvg-id="USAJ4000004ZT" tvg-chno="1194" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/60/USAJ4000004ZT_20210525T051725.png" group-title="Samsung TV",MOTORVISION.TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_motorvisiontv_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504545A" tvg-id="USAJ3504545A" tvg-chno="1195" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/USAJ3504545A_20210525T051600.png" group-title="Samsung TV",Cars
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000267V" tvg-id="USBB32000267V" tvg-chno="1201" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/73/USBB32000267V_20211027T003700.png" group-title="Samsung TV",Tastemade
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tm-freetv16-samsungus/playlist.m3u8?
-
-#EXTINF:-1 channel-id="samsung-USAK3508724A" tvg-id="USAK3508724A" tvg-chno="1203" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/52/USAK3508724A_20210525T051651.png" group-title="Samsung TV",Gusto TV
-https://9e02865ea2934243bfca5b6d7f74aa01.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GustoTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800002KI" tvg-id="USBA3800002KI" tvg-chno="1204" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/USBA3800002KI_20210525T051727.png" group-title="Samsung TV",America's Test Kitchen
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_americastestkitchen_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200009C2" tvg-id="USAJ2200009C2" tvg-chno="1206" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USAJ2200009C2_20210525T051654.png" group-title="Samsung TV",Hungry
-https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200027WU" tvg-id="USBB3200027WU" tvg-chno="1207" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/37/USBB3200027WU_20211215T023428.png" group-title="Samsung TV",Tastemade Travel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemadeinc-tastemadetravel-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000003HL" tvg-id="USBB1000003HL" tvg-chno="1208" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Samsung TV",Journy
-https://d3lzjtrf5mvf3p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Journy-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200024V5" tvg-id="USBB3200024V5" tvg-chno="1210" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/41/USBB3200024V5_20211117T100432.png" group-title="Samsung TV",Million Dollar Listing
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_milliondollarlisting_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400020KC" tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="Samsung TV",Tiny House Nation
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508701A" tvg-id="USAK3508701A" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="Samsung TV",This Old House
-https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400005BA" tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="Samsung TV",The Design Network
-https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-chno="1219" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/10/USBA3800004EL_20211230T073056.png" group-title="Samsung TV",Fireplace 4K
-https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508723A" tvg-id="USAK3508723A" tvg-chno="1223" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/USAK3508723A_20210525T051702.png" group-title="Samsung TV",QVC
-https://qvc.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504700A" tvg-id="USAJ3504700A" tvg-chno="1224" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ3504700A_20210525T051704.png" group-title="Samsung TV",HSN
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000006X5" tvg-id="USAJ3000006X5" tvg-chno="1235" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/USAJ3000006X5_20210609T003440.png" group-title="Samsung TV",Lively Place
-https://7692a37649e54bef83adeea10f21aef0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LivelyPlace/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508706A" tvg-id="USAK3508706A" tvg-chno="1236" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USAK3508706A_20210609T003445.png" group-title="Samsung TV",Skills + Thrills
-https://f2886f2b044a4d2d91d501260e0ba14c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SkillsAndThrills/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2900002Z7" tvg-id="USBB2900002Z7" tvg-chno="1240" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB2900002Z7_20210727T132411.png" group-title="Samsung TV",Hell's Kitchen
-https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-chno="1241" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Samsung TV",Kitchen Nightmares
-https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500004RC" tvg-id="USBB3500004RC" tvg-chno="1243" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USBB3500004RC_20210923T005632.png" group-title="Samsung TV",Project Runway
-https://d1inivznn1dsuk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ProjectRunway-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-chno="1245" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/38/USBA3000093U_20210525T051604.png" group-title="Samsung TV",MTV Pluto TV
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-chno="1246" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/54/USBA300020WC_20210525T051607.png" group-title="Samsung TV",Love & Hip Hop
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500001O6" tvg-id="USBB3500001O6" tvg-chno="1247" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/USBB3500001O6_20211027T003703.png" group-title="Samsung TV",The Challenge
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-chno="1248" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USBA300004TE_20210525T051609.png" group-title="Samsung TV",Dallas Cowboys Cheer
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20211117T100433.png" group-title="Samsung TV",Telemundo Al Día
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300040WR" tvg-id="USBA300040WR" tvg-chno="1255" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20201007T012224.png" group-title="Samsung TV",Estrella TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200020N4" tvg-id="USAJ2200020N4" tvg-chno="1256" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20201208T081615.png" group-title="Samsung TV",Estrella News
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-chno="1259" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/USAJ3504719A_20201007T010339.png" group-title="Samsung TV",Sony Canal Competencias
-https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-chno="1260" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/72/USAJ22000057N_20201007T012227.png" group-title="Samsung TV",Sony Canal Comedias
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-chno="1261" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/43/USAJ3000002OC_20201007T012234.png" group-title="Samsung TV",Sony Canal Novelas
-https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB44000088K" tvg-id="USBB44000088K" tvg-chno="1264" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB44000088K_20211117T100435.png" group-title="Samsung TV",PrendeTV Lo mejor de Liga MX
-https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB44000099N" tvg-id="USBB44000099N" tvg-chno="1265" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/97/USBB44000099N_20211117T100444.png" group-title="Samsung TV",PrendeTV Novelas de romance
-https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB440001089" tvg-id="USBB440001089" tvg-chno="1266" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB440001089_20211117T100446.png" group-title="Samsung TV",PrendeTV Novelas en familia
-https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-chno="1270" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="Samsung TV",Tu Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508704A" tvg-id="USAK3508704A" tvg-chno="1272" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/USAK3508704A_20210224T013301.png" group-title="Samsung TV",Canela.TV
-https://1757bd85f4304a01a89e5b299efa5994.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CanelaTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ1700010HG" tvg-id="USAJ1700010HG" tvg-chno="1278" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ1700010HG_20201028T005023.png" group-title="Samsung TV",Tastemade en Español
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16us-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="1283" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20201007T012244.png" group-title="Samsung TV",Cine Romantico
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_cineromantico_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB44000118M" tvg-id="USBB44000118M" tvg-chno="1284" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB44000118M_20211117T100447.png" group-title="Samsung TV",PrendeTV Novelas de Oro
-https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-chno="1290" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USBB2900001P9_20210824T091331.png" group-title="Samsung TV",CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200008NR" tvg-id="USAJ2200008NR" tvg-chno="1293" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR20200730102745.png" group-title="Samsung TV",Asian Crush
-https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AsianCrush/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="1296" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210909T003532.png" group-title="Music",NEW KPOP
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB36000076Y" tvg-id="USBB36000076Y" tvg-chno="1322" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/94/USBB36000076Y_20211117T100449.png" group-title="Samsung TV",That Girl
-https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u13xw4rr8a4op-prod/amgthatgirl/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500003D6" tvg-id="USBB3500003D6" tvg-chno="1324" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB3500003D6_20211027T003706.png" group-title="Samsung TV",Family Ties
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300019WF" tvg-id="USBA300019WF" tvg-chno="1326" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300019WF_20210909T003502.png" group-title="Samsung TV",TV Land Sitcoms
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000198F" tvg-id="USAJ34000198F" tvg-chno="1327" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/USAJ34000198F_20210824T091338.png" group-title="Samsung TV",Portlandia
-https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1500002TZ" tvg-id="USBB1500002TZ" tvg-chno="1328" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/USBB1500002TZ_20210824T091336.png" group-title="Samsung TV",Are We There Yet?
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504704A" tvg-id="USAJ3504704A" tvg-chno="1329" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/06/USAJ3504704A_20210323T125648.png" group-title="Samsung TV",The Pet Collective
-https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePetCollective/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504702A" tvg-id="USAJ3504702A" tvg-chno="1330" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ3504702A_20210720T084148.png" group-title="Samsung TV",FailArmy
-https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ1700002HO" tvg-id="USAJ1700002HO" tvg-chno="1331" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/77/USAJ1700002HO_20201117T081932.png" group-title="Samsung TV",CHIVE TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_chivetv_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA1600001XM" tvg-id="USBA1600001XM" tvg-chno="1332" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USBA1600001XM_20210720T084153.png" group-title="Samsung TV",Always Funny Videos
-https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000039U" tvg-id="USAJ30000039U" tvg-chno="1334" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USAJ30000039U20200730102745.png" group-title="Samsung TV",Dry Bar Comedy
-https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300004PC" tvg-id="USAJ4300004PC" tvg-chno="1338" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ4300004PC20200730102745.png" group-title="Samsung TV",Comedy Dynamics
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504706A" tvg-id="USAJ3504706A" tvg-chno="1339" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/65/USAJ3504706A20200730102745.png" group-title="Samsung TV",RiffTrax
-https://5534f4bba48d427a9cb347656144a438.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Rifftrax/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA30003672" tvg-id="USBA30003672" tvg-chno="1351" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="Samsung TV",IGN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8
-
-
-
-#EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-chno="1385" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20201028T004919.png" group-title="Samsung TV",The LEGO Channel
-https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99%3Fads.device_did%3D%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
-
-
-#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-chno="1395" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/38/USAK3508716A_20210323T125644.png" group-title="Samsung TV",Kidoodle.TV
-https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508720A" tvg-id="USAK3508720A" tvg-chno="1398" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/16/USAK3508720A20200730102745.png" group-title="Kids",ZooMoo
-https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000043LH" tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Knowledge",Samsung Wild Life
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Knowledge",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB800001O7" tvg-id="USBB800001O7" tvg-chno="1406" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Samsung TV",PBS Digital Studios
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_pbsdigitalstudios_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA430000220" tvg-id="USBA430000220" tvg-chno="1407" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Samsung TV",Xplore
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB600003MK" tvg-id="USBB600003MK" tvg-chno="1408" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Samsung TV",The Jack Hanna Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300023G8" tvg-id="USBA300023G8" tvg-chno="1410" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20210525T051555.png" group-title="Samsung TV",InWonder
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwonder/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400014LK" tvg-id="USAJ3400014LK" tvg-chno="1412" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USAJ3400014LK_20210525T051712.png" group-title="Knowledge",WeatherSpy
-https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherSpy/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508705A" tvg-id="USAK3508705A" tvg-chno="1415" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/57/USAK3508705A_20211012T230733.png" group-title="Knowledge",Stingray Naturescape
-https://1fdcca9feb9c4e75bda1c6b0339175fe.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_StingrayNaturescape/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB10000047W" tvg-id="USBB10000047W" tvg-chno="1430" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/USBB10000047W_20210525T051506.png" group-title="Samsung TV",Unidentified
-https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-chno="1433" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/66/USAJ17000014C_20210525T051732.png" group-title="Samsung TV",The Asylum
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_theasylum_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504713A" tvg-id="USAJ3504713A" tvg-chno="1435" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/USAJ3504713A_20210525T051718.png" group-title="Samsung TV",DUST
-https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8
-
-///////////////imjh
-
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
-#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="Samsung TV" , 연합뉴스TV
-https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="Samsung TV" , YTN
-https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="Samsung TV" , MBC 무한도전
-https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="Samsung TV" , tvN 사랑의 불시착
-https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png" tvg-chno="508" group-title="Samsung TV" , MBC 나혼자산다
-https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="Samsung TV" , SBS TV 동물농장
-https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="Samsung TV" , tvN 미스터 션샤인
-https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231213T033742SQUARE.png_20231213033743.png" tvg-chno="514" group-title="Samsung TV" , PLAYY 크리스마스 특집
-https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20231213T033744SQUARE.png_20231213033745.png" tvg-chno="517" group-title="Samsung TV" , tvN 더 지니어스: 그랜드 파이널
-https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD44000025L" tvg-id="KRBD44000025L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20231206T031622SQUARE.png_20231206031623.png" tvg-chno="519" group-title="Samsung TV" , Fireplace 4K
-https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20231114T070144SQUARE.png_20231114070145.png" tvg-chno="520" group-title="Samsung TV" , MBC 나는 가수다
-https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20231114T070147SQUARE.png_20231114070148.png" tvg-chno="521" group-title="Samsung TV" , MBC 옷소매 붉은끝동
-https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png" tvg-chno="522" group-title="Samsung TV" , KBS 1박2일 시즌1
-https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="Samsung TV" , JTBC 비긴어게인
-https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC46000014A" tvg-id="KRBC46000014A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="Samsung TV" , JTBC 크라임씬
-https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD4300001RQ" tvg-id="KRBD4300001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300001RQ_20231206T031625SQUARE.png_20231206031626.png" tvg-chno="526" group-title="Samsung TV" , essential; by Bugs
-https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="Samsung TV" , Mnet 스트릿 우먼 파이터 2 HOT CLIP
-https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="Samsung TV" , tvN 유 퀴즈 온 더 블럭 HOT CLIP
-https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="Samsung TV" , Animax 반지의 비밀일기
-https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="Samsung TV" , 초록뱀미디어 K-STAR 골프
-https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="Samsung TV" , PGA Tour
-https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20231114T070115SQUARE.png_20231114070116.png" tvg-chno="540" group-title="Samsung TV" , SBS 편의점 샛별이
-https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="Samsung TV" , SBS 궁금한 이야기 Y
-https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC50000218R" tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="Samsung TV" , JTBC 톡파원25시
-https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20231206T031611SQUARE.png_20231206031612.png" tvg-chno="543" group-title="Samsung TV" , KBS 정도전
-https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="Samsung TV" , JTBC 괴물
-https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="Samsung TV" , JTBC 품위있는 그녀
-https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="Samsung TV" , SBS 나는 솔로
-https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="Samsung TV" , TV조선 미스터트롯 영웅의 탄생
-https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20231206T031613SQUARE.png_20231206031615.png" tvg-chno="552" group-title="Samsung TV" , TV조선 우리 이혼했어요
-https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="Samsung TV" , TV조선 골프왕
-https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2700007S0" tvg-id="KRBD2700007S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="Samsung TV" , PLAYY 영화
-https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="Samsung TV" , SBS 스토브리그
-https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20231114T070139SQUARE.png_20231114070140.png" tvg-chno="557" group-title="Samsung TV" , SBS 순풍산부인과
-https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="Samsung TV" , MBC 지붕뚫고 하이킥
-https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="Samsung TV" , MBC 거침없이 하이킥
-https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="Samsung TV" , MBC 심야괴담회
-https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC5000016BM" tvg-id="KRBC5000016BM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="Samsung TV" , JTBC 효리네 민박 시즌1
-https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="Samsung TV" , SBS 정글의 법칙
-https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="Samsung TV" , 맛있는 녀석들
-https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="Samsung TV" , JTBC 힘쎈여자 도봉순
-https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="Samsung TV" , 채널A 이제 만나러 갑니다
-https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="Samsung TV" , 전우치
-https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20231115T010827SQUARE.png_20231115010828.png" tvg-chno="575" group-title="Samsung TV" , 사피엔스스튜디오
-https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20231114T070154SQUARE.png_20231114070155.png" tvg-chno="577" group-title="Samsung TV" , 역사 읽어드립니다
-https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20231115T010829SQUARE.png_20231115010830.png" tvg-chno="579" group-title="Samsung TV" , 심리 읽어드립니다
-https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20231114T070152SQUARE.png_20231114070153.png" tvg-chno="580" group-title="Samsung TV" , tvN 환혼
-https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20231114T070150SQUARE.png_20231114070151.png" tvg-chno="585" group-title="Samsung TV" , tvN 대탈출3
-https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="Samsung TV" , MBN 나는 자연인이다
-https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC32000126M" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="Samsung TV" , ch.핑크퐁
-https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="Samsung TV" , SBS 그것이 알고싶다
-https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="Samsung TV" , 고독한 미식가
-https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="Samsung TV" , MBC every1 어서와 한국은 처음이지?
-https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="Samsung TV" , 채널A 나만 믿고 따라와 도시어부
-https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC35000169K" tvg-id="KRBC35000169K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="Samsung TV" , TV CHOSUN 국가가 부른다
-https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="Samsung TV" , 도라마코리아
-https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="Samsung TV" , JTBC 뉴스
-https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="Samsung TV" , Mnet 스트릿 우먼 파이터
-https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="Samsung TV" , MBN 돌싱글즈
-https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20231114T070118SQUARE.png_20231114070120.png" tvg-chno="620" group-title="Samsung TV" , SBS 펜트하우스
-https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="Samsung TV" , MBC 돈꽃
-https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="Samsung TV" , 뽀요TV
-https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="Samsung TV" , MBC 안싸우면 다행이야
-https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="Samsung TV" , SBS 빽드
-https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-title="Samsung TV" , Animax 하이큐!!
-https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="Samsung TV" , MBC every1 별순검
-https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC41000021C" tvg-id="KRBC41000021C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="Samsung TV" , 채널A 요즘 육아 금쪽같은 내새끼
-https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="Samsung TV" , SBS 런닝맨
-https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="Samsung TV" , SBS 미운 우리 새끼
-https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20231114T070134SQUARE.png_20231114070135.png" tvg-chno="631" group-title="Samsung TV" , 코코비TV
-https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="Samsung TV" , MBC 선을 넘는 녀석들
-https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="Samsung TV" , TV CHOSUN 식객 허영만의 백반기행
-https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="Samsung TV" , SBS 동상이몽2 - 너는 내 운명
-https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="Samsung TV" , SBS 백종원의 골목식당
-https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="Samsung TV" , SBS 불타는 청춘
-https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="Samsung TV" , SBS 패밀리가 떴다
-https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="Samsung TV" , 로보카폴리 TV
-https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="Samsung TV" , iHQ 돈쭐내러 왔습니다
-https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="Samsung TV" , E채널 토요일은 밥이 좋아
-https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="Samsung TV" , KBS Joy 연애의 참견
-https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="Samsung TV" , KBS Joy 무엇이든 물어보살
-https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="Samsung TV" , MBN 속풀이쇼 동치미
-https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="Samsung TV" , SBS 순간포착 세상에 이런일이
-https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="Samsung TV" , SBS 생활의 달인
-https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="Samsung TV" , MBN 휴먼다큐 사노라면
-https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20231206T031616SQUARE.png_20231206031617.png" tvg-chno="653" group-title="Samsung TV" , 현대홈쇼핑
-https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="Samsung TV" , 우리의식탁
-https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="Samsung TV" , 인포벨 홈쇼핑
-https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20231206T031608SQUARE.png_20231206031609.png" tvg-chno="700" group-title="Samsung TV" , 현대홈쇼핑+Shop
-https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="Samsung TV" , NEW MOVIES
-https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="Samsung TV" , OGN 스타리그
-https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20231114T070137SQUARE.png_20231114070138.png" tvg-chno="752" group-title="Samsung TV" , World Billiards TV
-https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD370000134" tvg-id="KRBD370000134" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20231101T012203SQUARE.png_20231101012204.png" tvg-chno="754" group-title="Samsung TV" , TED
-https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="Samsung TV" , Bloomberg TV+ UHD
-https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="Samsung TV" , Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="Samsung TV" , 글로벌 뉴스 by LeadStory
-https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="Samsung TV" , JTBC 최강야구
-https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="Samsung TV" , JTBC 골프
-https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="Samsung TV" , FIFA+
-https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="Samsung TV" , KBS 개는 훌륭하다
-https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="Samsung TV" , 씨네21+
-https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
-
-
-#EXTINF:-1 channel-id="samsung-USAJ3000011S4" tvg-id="USAJ3000011S4" tvg-chno="1445" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USAJ3000011S4_20210525T051716.png" group-title="Samsung TV",Midnight Pulp
-https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MidnightPulp-1/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000041ZP" tvg-id="USBA3000041ZP" tvg-chno="1450" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png" group-title="Samsung TV",The Movie Hub
-https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB19000017U" tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20211230T073100.png" group-title="Samsung TV",Hallmark Movies & More
-https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA43000017Q" tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="Samsung TV",MovieSphere
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?
-
-#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-chno="1459" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png" group-title="Samsung TV",FilmRise Free Movies
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8
-
-
-#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-chno="1463" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20210824T091339.png" group-title="Samsung TV",FilmRise Action
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504701A" tvg-id="USAJ3504701A" tvg-chno="1466" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USAJ3504701A_20211027T003710.png" group-title="Knowledge",Documentary+
-https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-chno="1468" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png" group-title="Samsung TV",Maverick Black Cinema
-https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508721A" tvg-id="USAK3508721A" tvg-chno="1471" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/USAK3508721A20200730102745.png" group-title="Samsung TV",Movie Mix
-https://903199661bbc4c2891427b7b03ff36ff.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MovieMix/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504703A" tvg-id="USAJ3504703A" tvg-chno="1474" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A_20211110T021318.png" group-title="Samsung TV",Gravitas Movies
-https://651944d3f0d240738e7d5fa272ac4e24.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GravitasMovies/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200015M8" tvg-id="USBB3200015M8" tvg-chno="1478" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/16/USBB3200015M8_20211215T023431.png" group-title="Samsung TV",CINEVAULT: Classics
-https://40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/playlist.m3u8
-
-
-#EXTINF:-1 channel-id="samsung-USAJ30000148W" tvg-id="USAJ30000148W" tvg-chno="1479" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Samsung TV",CINEVAULT: 80s
-https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508709A" tvg-id="USAK3508709A" tvg-chno="1482" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Samsung TV",CINEVAULT: Westerns
-https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000196O" tvg-id="USBB32000196O" tvg-chno="1488" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20210824T091341.png" group-title="Samsung TV",FilmRise Western
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisewestern_001.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000175A" tvg-id="USAJ34000175A" tvg-chno="1491" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAJ34000175A_20210323T125703.png" group-title="Samsung TV",The Preview Channel
-https://cca0faa1668740379640339007b036ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePreviewChannel/playlist.m3u8
-
-
-
-
-
-
-
-
-====================================== SPORTTV =====================================
-
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="SPORT TV",SPORT TV 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e360d008f4d34190a420c5cd2d104ee5:8c91e9c1f91c616640d083ad58e653f6
-##########http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=androids
-
-#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyrpq1470407606.png" group-title="SPORT TV",SPORT TV 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8d4df56c01042c4a9e070b105b44a9c:d698d35d58e3485577d181814d9e6230
-##########http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$152/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xysrvw1470407766.png" group-title="SPORT TV",SPORT TV 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54be740e68c247639458225e342af0c7:c5a5a6bbd8a1ff0eb9adac95f1224137
-############http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$153/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png" group-title="SPORT TV",SPORT TV 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f432f2e07149cb86db8707d135fb33:83620e9499380d706721dd66ba67020a
-###############http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$10/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vvvqxp1470408443.png" group-title="SPORT TV",SPORT TV 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0df9d6c85b0e498689eedc0a22e75689:9769f84b961d67e8e3484c1e384f1fb4
-########http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$112/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cjwfrr1659133957.png" group-title="SPORT TV",SPORT TV 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40affdcf424547989c36cc7331a3bd1e:2661876d9cdedf703d97c3f79b58c3ca
-############http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$566/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="3602" tvg-name="GEM" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="Entertainment",GEM (FMD)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 1 (SKY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_dolby.mpd
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 2 (SKY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
-
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 3 (MAC)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 4 (MAC)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 5 (UNI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
-
-
-#EXTINF:0 group-title="Live | Moto GP" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 6 (UNI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 1" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 1 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 2" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 2 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-name="SPORTSTARS 2" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 3 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-name="SPORTSTARS 2" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 4 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 7 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://badmintonworldtour.com/wp-content/uploads/2022/08/DAIHATSU-Indonesia-Masters-2023.png" group-title="Live | Badminton",BWF 8 (MAC)
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-
-=================== Jsports =========================
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 1
-https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTM5NDAyNzYiLCJyZWZyZXNoX3Rva2VuIjoiNVZYT1dDMmliYUtxMmZsYVRnWVM3QkVGcFNNMlNnaTNTNjRcL3g0d2ZEWXhIUFdLVVNTZXhKV09lVFBwSnFtZlJ3c3NpN2lYZld3K3NONlZWM0t3eUVtYWhcL2x6c1JtZ2JnaGxidEttQjhsK2ZMamhGMzlIN0JRYytlZk1rSWp2aHVOOVl0SDQrbDBBdnRCYW9rU3IyVEJKWk05RlhPcDFOS2NjV0FkaWVVdmw1QlF5Q0ZIRFwvSEFObU9NSXFuRUZrTjNDbm15K1hBZTEybkprejhXb2pENmFNUURlY3dCR0dEVVNuenQ0ZWhqckE0RGpsVkpsWkhvdk1BWUMzbk1wV1k4WG9PNTlMYTJwZ29rQ0o2RDY5REZXb1wvbENCRTA2MCtjNUs5TTJpXC9rU2d5aW92cVBZbWFncUF0bU5rM2RvR0pMWmEzdHFBNHNqSDN1R2RISzBvRVFGNTZOSFhTTjRqdHc3bHN1c1crd21ZcTlvOTVUbHNVTndscFR6UmdyUHdsTjBZRVBUSU5zUnpud2cwQkdqQTVwazJuUVkxVE55VDdcL09JNDZwYzcwM3NJdXBkcmhPM3gxMVlmWnMrS0V0QiJ9
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 2
-https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNDMxNzU4NjIiLCJyZWZyZXNoX3Rva2VuIjoiQzlBYWhVUjh0NXZGemxSdml5eld3ZmdDWFJHN0NqTGVGaXdcL0hERW1XT3VNTUZsdGxoUkZtOEhwREI3NlNIOHljWklqR3dITUZGQzk4QkFoVXFCK1owSXZEMzdsc21vTVlcL3IzQWtubHpcLzdiejFvV2hqRUdaVThVWVBPQzhYUExzcTVnSnNJZncxaTFiTWw1ODBnMnlDcHdKdjZPM0pQczhScU02dlpRSUVFQXlKM3NiczdkY1lVdHBcL3I3QTdMVEZZZEVSMTR0UVJyMVRDaU5TTng4RStMSVpncHFiTDRKU1dZWmdpeVg0UFV3Qk04bU9ZM0RITEJJRHBWMWFKbHdHY0wraHphekF5MjlUSlBlMlZ6VzdPNkdIdnNcL0twVjhLNjRnXC9tOGM5UnIwcWFSTXVvYVwvQ0tmU1JJelVrc3pndmpERmpsazF2UnhpVHByOW1YMWk4QmQ2d1BaMEM0eXZuZ3pReVZaTFRmdzBjZTN5eDRPWFQxMURcL1dGdUdJTFpwVGxnZ0ViSGI4b244N1htYVNNd0VzUnNwZ0lkR1VrSTN6clVTWFJQU2RvNG9LZTJvcE9ZS3RsSEU2djR3blJoIn0=
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 3
-https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTUyNDM3NjkiLCJyZWZyZXNoX3Rva2VuIjoiQ1lpWUdPQWY0TG5uQ3hTTGFud1hZUG9lb2VpMTRUKzhFYTR3a2pTWUUzR0NPR2pVcU9sWlJ5cXFCVHUzRmtINmtuTHFaXC9GbGh6WVpCWHVzZ3ErTTJ2dXpkNVJCemU4Sk1qNWZ2cEpFM0FObHcreVwvYlVicXdJSEtWRHVEbXYrU0JJS2lPRDAxYUxXanNCTlwvWDlTRjdBVXRoTFpkM3o3UnZmbktqU04ySDR0V2tzODAwc1Q2djQyZTJubitnVHZcL2s2Q3VuanhpeTBFcllWWjJYOEJoUXRQdjM4cGF4eUkxaUI3TTV3SkFCS1lVZTVubm9sRGM4ejQ1djgyaVBkRXFxbTlUQ21OTUZERkRsWTF2NVBzcDh3TXU1alVrNHRUVzNBYTRTckk2NERVRHNRb0tkNkw1aUlydCtEUGtha0VieVVlbXdGV0o4VExldXJUNklPUytzREp6WHB0ZU9PcnJhQ29FTzJjYmFJakRSbnBDMFVRRm5mSm12dlB0K0xRaW5tWVlXNVV0RnlOTFhyXC9HTUFIdlQ1YWptclF2NWVJWkhuUitMbXQrUEZwTTJ3cHE4K2FXZ2J0SXl5dlhKTXFtIn0=
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="🇯🇵 J Sports 🇯🇵",J Sports 4
-https://omega.toda.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTM3MjA2OTgiLCJyZWZyZXNoX3Rva2VuIjoiZTUrQVwvaWRwN3hHMUw3SUtxc2NsMWY3cXI4MGFxQ1lYNU9VVXpYR2oyU0RjOTNZRzFOS0IxeWR4RWRcL3Z2bGdacEY5RTBjMHpFZ1F2Q25DOG56N05vSjdxSHhUWnhvQUZXdlhOeU1WZEhCOCtlSkF1c0ZpT2xlN2dNSThnWksyVkEwdXlyWUwwM1E5eDF6QVJSd1lxOFI3ZU5cL0lHcmFCOW45d3lFSWs4cEl0Y3pvT2NEVTFFeTVUQmNUK1BzRWx4TlMzc3Fab2M0NFNNdWd2aUwxZ3Z2TEpkeFE3OHpCTCtRcDRYMzgrSDh2VzdxXC9hZmZDSmlpRHRZWG55NjJ4a1BUcjlNOFRzcWdhTnhpRFNPSVpGUHRMZXNncXJtYWN4UzQ4bEFhbFQrXC9ZQ0NsMWpoamhRM1BVbTE0OTcwblJ5OHlET1gxYmxPTUF2emJMd2luVFZVaWxQVnE5TlEwS0tFVm42aDQ0cUM0ZGxrSldrMit2XC9ObURYSkZpOXhGaGR4NkF1XC9xZGh5TDFxUzJcL09cL1FPKzNYZzdQUThlbFUwNG9ESFZcL0UwbTlxaEtzODAxU1lvNEdkbXdrUHhmOTNDVGkifQ==
-
-#EXTINF:-1,IN | 18 SPORTS HD
-http://filex.tv:8080/maazqamar/002450/52077
-#EXTINF:-1,PK | GEO SUPER HD
-http://filex.tv:8080/maazqamar/002450/52080
-#EXTINF:-1,IN | SONY TEN 1 HD
-http://filex.tv:8080/maazqamar/002450/52083
-#EXTINF:-1,IN | SONY TEN 2 HD
-http://filex.tv:8080/maazqamar/002450/52085
-#EXTINF:-1,IN | SONY TEN 3 HD
-http://filex.tv:8080/maazqamar/002450/52086
-#EXTINF:-1,IN | STAR SPORTS 1 HD
-http://filex.tv:8080/maazqamar/002450/52094
-#EXTINF:-1,IN | STAR SPORTS 2 HD
-http://filex.tv:8080/maazqamar/002450/52096
-#EXTINF:-1,IN | STAR SPORTS SELECT 1 HD
-http://filex.tv:8080/maazqamar/002450/52098
-#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
-http://filex.tv:8080/maazqamar/002450/52100
-#EXTINF:-1,IN | TEN SPORTS HD
-http://filex.tv:8080/maazqamar/002450/52106
-#EXTINF:-1,IN | DD SPORTS
-http://filex.tv:8080/maazqamar/002450/52107
-#EXTINF:-1,IN | WILLOW CRICKET HD
-http://filex.tv:8080/maazqamar/002450/52109
-#EXTINF:-1,PK | ARY SPORTS HD
-http://filex.tv:8080/maazqamar/002450/62393
-#EXTINF:-1,IN | STAR SPORTS 1 HINDI FHD 
-http://filex.tv:8080/maazqamar/002450/90342
-#EXTINF:-1,BD | T SPORTS
-http://filex.tv:8080/maazqamar/002450/111409
-#EXTINF:-1,IN | FAST SPORTS 
-http://filex.tv:8080/maazqamar/002450/277207
-#EXTINF:-1,NZ | SKY SPORTS CRICKET FHD
-http://filex.tv:8080/maazqamar/002450/250199
-#EXTINF:-1,AF | SUPER SPORTS CRICKET 
-http://filex.tv:8080/maazqamar/002450/53044
-#EXTINF:-1,TEN CRICKET HD
-http://filex.tv:8080/maazqamar/002450/99833
-#EXTINF:-1,ASTRO CRICKET
-http://filex.tv:8080/maazqamar/002450/297577
-#EXTINF:-1,DK: V Sport Golf
-http://filex.tv:8080/maazqamar/002450/333168
-#EXTINF:-1,SE: V Sport Golf
-http://filex.tv:8080/maazqamar/002450/333100
-#EXTINF:-1,CZ: Golf Channel
-http://filex.tv:8080/maazqamar/002450/332957
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://filex.tv:8080/maazqamar/002450/303691
-#EXTINF:-1,PL: Golf Channel
-http://filex.tv:8080/maazqamar/002450/316237
-#EXTINF:-1,LA: Golf Channel
-http://filex.tv:8080/maazqamar/002450/303346
-#EXTINF:-1,EX-YU: Sport Klub Golf
-http://filex.tv:8080/maazqamar/002450/303042
-#EXTINF:-1,FR: GOLF+
-http://filex.tv:8080/maazqamar/002450/301901
-#EXTINF:-1,FR: Golf Channel
-http://filex.tv:8080/maazqamar/002450/301900
-#EXTINF:-1,DE: Sky Sport Golf
-http://filex.tv:8080/maazqamar/002450/293494
-#EXTINF:-1,US: Bally Sports Arizona Plus
-http://filex.tv:8080/maazqamar/002450/291561
-#EXTINF:-1,US: Bally Sports Detroit
-http://filex.tv:8080/maazqamar/002450/291562
-#EXTINF:-1,US: Bally Sports Detroit Plus
-http://filex.tv:8080/maazqamar/002450/291563
-#EXTINF:-1,US: Bally Sports Florida
-http://filex.tv:8080/maazqamar/002450/291564
-#EXTINF:-1,US: Bally Sports Florida Alternate
-http://filex.tv:8080/maazqamar/002450/291565
-#EXTINF:-1,US: Bally Sports Florida Plus
-http://filex.tv:8080/maazqamar/002450/291566
-#EXTINF:-1,US: Bally Sports Great Lakes
-http://filex.tv:8080/maazqamar/002450/291567
-#EXTINF:-1,US: Bally Sports Indiana
-http://filex.tv:8080/maazqamar/002450/291568
-#EXTINF:-1,US: Bally Sports Kansas City
-http://filex.tv:8080/maazqamar/002450/291569
-#EXTINF:-1,US: Bally Sports Midwest
-http://filex.tv:8080/maazqamar/002450/291570
-#EXTINF:-1,US: Bally Sports Midwest Alternate
-http://filex.tv:8080/maazqamar/002450/291571
-#EXTINF:-1,US: Bally Sports Midwest Plus
-http://filex.tv:8080/maazqamar/002450/291572
-#EXTINF:-1,US: Bally Sports New Orleans
-http://filex.tv:8080/maazqamar/002450/291573
-#EXTINF:-1,US: Bally Sports North
-http://filex.tv:8080/maazqamar/002450/291574
-#EXTINF:-1,US: Bally Sports Ohio
-http://filex.tv:8080/maazqamar/002450/291575
-#EXTINF:-1,US: Bally Sports Ohio Cincinnati Plus
-http://filex.tv:8080/maazqamar/002450/291576
-#EXTINF:-1,US: Bally Sports Ohio Cleveland
-http://filex.tv:8080/maazqamar/002450/291577
-#EXTINF:-1,US: Bally Sports Oklahoma
-http://filex.tv:8080/maazqamar/002450/291578
-#EXTINF:-1,US: Bally Sports San Diego
-http://filex.tv:8080/maazqamar/002450/291579
-#EXTINF:-1,US: Bally Sports San Diego Plus
-http://filex.tv:8080/maazqamar/002450/291580
-#EXTINF:-1,US: Bally Sports SoCal Plus
-http://filex.tv:8080/maazqamar/002450/291581
-#EXTINF:-1,US: Bally Sports South
-http://filex.tv:8080/maazqamar/002450/291582
-#EXTINF:-1,US: Bally Sports Southeast
-http://filex.tv:8080/maazqamar/002450/291583
-#EXTINF:-1,US: Bally Sports Southwest
-http://filex.tv:8080/maazqamar/002450/291584
-#EXTINF:-1,US: Bally Sports Southwest Alternate
-http://filex.tv:8080/maazqamar/002450/291585
-#EXTINF:-1,US: Bally Sports Southwest Plus
-http://filex.tv:8080/maazqamar/002450/291586
-#EXTINF:-1,US: Bally Sports Sun
-http://filex.tv:8080/maazqamar/002450/291587
-#EXTINF:-1,US: Bally Sports West
-http://filex.tv:8080/maazqamar/002450/291588
-#EXTINF:-1,US: Bally Sports West Plus
-http://filex.tv:8080/maazqamar/002450/291589
-#EXTINF:-1,US: Bally Sports Wisconsin
-http://filex.tv:8080/maazqamar/002450/291590
-#EXTINF:-1,US: Bally Sports Wisconsin Plus
-http://filex.tv:8080/maazqamar/002450/291591
-#EXTINF:-1,US: beIN Sports
-http://filex.tv:8080/maazqamar/002450/291592
-#EXTINF:-1,US: beIN Sports 2
-http://filex.tv:8080/maazqamar/002450/291593
-#EXTINF:-1,US: beIN Sports 3
-http://filex.tv:8080/maazqamar/002450/291594
-#EXTINF:-1,US: beIN Sports 4
-http://filex.tv:8080/maazqamar/002450/291595
-#EXTINF:-1,US: beIN Sports 5
-http://filex.tv:8080/maazqamar/002450/291596
-#EXTINF:-1,US: beIN Sports 6
-http://filex.tv:8080/maazqamar/002450/291597
-#EXTINF:-1,US: beIN Sports 7
-http://filex.tv:8080/maazqamar/002450/291598
-#EXTINF:-1,US: beIN Sports USA
-http://filex.tv:8080/maazqamar/002450/291599
-#EXTINF:-1,US: CBS Sports Network
-http://filex.tv:8080/maazqamar/002450/291601
-#EXTINF:-1,US: Eleven Sports
-http://filex.tv:8080/maazqamar/002450/291602
-#EXTINF:-1,US: ESPN
-http://filex.tv:8080/maazqamar/002450/291603
-#EXTINF:-1,US: ESPN 2
-http://filex.tv:8080/maazqamar/002450/291604
-#EXTINF:-1,US: ESPN 3
-http://filex.tv:8080/maazqamar/002450/291605
-#EXTINF:-1,US: ESPN News
-http://filex.tv:8080/maazqamar/002450/291606
-#EXTINF:-1,US: ESPNU
-http://filex.tv:8080/maazqamar/002450/291607
-#EXTINF:-1,US: FIGHT BOX
-http://filex.tv:8080/maazqamar/002450/291608
-#EXTINF:-1,US: FIGHT Sports
-http://filex.tv:8080/maazqamar/002450/291609
-#EXTINF:-1,US: Fox Soccer Plus
-http://filex.tv:8080/maazqamar/002450/291610
-#EXTINF:-1,US: FOX SPORTS 506
-http://filex.tv:8080/maazqamar/002450/291611
-#EXTINF:-1,US: FOX SPORTS Racing
-http://filex.tv:8080/maazqamar/002450/291612
-#EXTINF:-1,US: FS1
-http://filex.tv:8080/maazqamar/002450/291613
-#EXTINF:-1,US: FS2
-http://filex.tv:8080/maazqamar/002450/291614
-#EXTINF:-1,US: Fubo Sports Network
-http://filex.tv:8080/maazqamar/002450/291615
-#EXTINF:-1,DE: DAZN 1
-http://filex.tv:8080/maazqamar/002450/293459
-#EXTINF:-1,DE: DAZN 2
-http://filex.tv:8080/maazqamar/002450/293460
-#EXTINF:-1,DE: Edge Sport
-http://filex.tv:8080/maazqamar/002450/293461
-#EXTINF:-1,DE: ESports 1
-http://filex.tv:8080/maazqamar/002450/293462
-#EXTINF:-1,DE: Eurosport 1
-http://filex.tv:8080/maazqamar/002450/293463
-#EXTINF:-1,DE: Eurosport 2
-http://filex.tv:8080/maazqamar/002450/293464
-#EXTINF:-1,DE: Magenta Sport 1
-http://filex.tv:8080/maazqamar/002450/293465
-#EXTINF:-1,DE: Magenta Sport 2
-http://filex.tv:8080/maazqamar/002450/293466
-#EXTINF:-1,DE: Magenta Sport 3
-http://filex.tv:8080/maazqamar/002450/293467
-#EXTINF:-1,DE: Magenta Sport 4
-http://filex.tv:8080/maazqamar/002450/293468
-#EXTINF:-1,DE: Magenta Sport 5
-http://filex.tv:8080/maazqamar/002450/293469
-#EXTINF:-1,DE: Magenta Sport 6
-http://filex.tv:8080/maazqamar/002450/293470
-#EXTINF:-1,DE: Magenta Sport 7
-http://filex.tv:8080/maazqamar/002450/293471
-#EXTINF:-1,DE: Magenta Sport 9
-http://filex.tv:8080/maazqamar/002450/293472
-#EXTINF:-1,DE: Magenta Sport 10
-http://filex.tv:8080/maazqamar/002450/293473
-#EXTINF:-1,DE: Magenta Sport 11
-http://filex.tv:8080/maazqamar/002450/293474
-#EXTINF:-1,DE: Magenta Sport 12
-http://filex.tv:8080/maazqamar/002450/293475
-#EXTINF:-1,DE: Magenta Sport 13
-http://filex.tv:8080/maazqamar/002450/293476
-#EXTINF:-1,DE: Magenta Sport 14
-http://filex.tv:8080/maazqamar/002450/293477
-#EXTINF:-1,DE: Magenta Sport 15
-http://filex.tv:8080/maazqamar/002450/293478
-#EXTINF:-1,DE: Magenta Sport 16
-http://filex.tv:8080/maazqamar/002450/293479
-#EXTINF:-1,DE: Magenta Sport 17
-http://filex.tv:8080/maazqamar/002450/293480
-#EXTINF:-1,DE: Magenta Sport 18
-http://filex.tv:8080/maazqamar/002450/293481
-#EXTINF:-1,DE: Servus MotorSport
-http://filex.tv:8080/maazqamar/002450/293483
-#EXTINF:-1,DE: Sky Sport 1
-http://filex.tv:8080/maazqamar/002450/293484
-#EXTINF:-1,DE: Sky Sport 2
-http://filex.tv:8080/maazqamar/002450/293485
-#EXTINF:-1,DE: Sky Sport 3
-http://filex.tv:8080/maazqamar/002450/293486
-#EXTINF:-1,DE: Sky Sport 4
-http://filex.tv:8080/maazqamar/002450/293487
-#EXTINF:-1,DE: Sky Sport 5
-http://filex.tv:8080/maazqamar/002450/293488
-#EXTINF:-1,DE: Sky Sport 6
-http://filex.tv:8080/maazqamar/002450/293489
-#EXTINF:-1,DE: Sky Sport 7
-http://filex.tv:8080/maazqamar/002450/293490
-#EXTINF:-1,DE: Sky Sport 8
-http://filex.tv:8080/maazqamar/002450/293491
-#EXTINF:-1,DE: Sky Sport 9
-http://filex.tv:8080/maazqamar/002450/293492
-#EXTINF:-1,DE: Sky Sport 10
-http://filex.tv:8080/maazqamar/002450/293493
-#EXTINF:-1,DE: Sky Sport Mix
-http://filex.tv:8080/maazqamar/002450/293495
-#EXTINF:-1,DE: Sky Sport Tennis
-http://filex.tv:8080/maazqamar/002450/293496
-#EXTINF:-1,DE: Sky Sport Top Event
-http://filex.tv:8080/maazqamar/002450/293497
-#EXTINF:-1,DE: Sport 1
-http://filex.tv:8080/maazqamar/002450/293498
-#EXTINF:-1,DE: Sport 1+
-http://filex.tv:8080/maazqamar/002450/293499
-#EXTINF:-1,CA: SportsNet 360
-http://filex.tv:8080/maazqamar/002450/290725
-#EXTINF:-1,CA: SportsNet East
-http://filex.tv:8080/maazqamar/002450/290726
-#EXTINF:-1,CA: SportsNet New York
-http://filex.tv:8080/maazqamar/002450/290727
-#EXTINF:-1,CA: SportsNet One
-http://filex.tv:8080/maazqamar/002450/290728
-#EXTINF:-1,CA: SportsNet Ontario
-http://filex.tv:8080/maazqamar/002450/290729
-#EXTINF:-1,CA: SportsNet Pacific
-http://filex.tv:8080/maazqamar/002450/290730
-#EXTINF:-1,CA: SportsNet Spectrum
-http://filex.tv:8080/maazqamar/002450/290731
-#EXTINF:-1,CA: SportsNet West
-http://filex.tv:8080/maazqamar/002450/290732
-#EXTINF:-1,CA: SportsNet World
-http://filex.tv:8080/maazqamar/002450/290733
-#EXTINF:-1,CA: TSN 1
-http://filex.tv:8080/maazqamar/002450/290734
-#EXTINF:-1,CA: TSN 2
-http://filex.tv:8080/maazqamar/002450/290735
-#EXTINF:-1,CA: TSN 3
-http://filex.tv:8080/maazqamar/002450/290736
-#EXTINF:-1,CA: TSN 4
-http://filex.tv:8080/maazqamar/002450/290737
-#EXTINF:-1,CA: TSN 5
-http://filex.tv:8080/maazqamar/002450/290738
-#EXTINF:-1,CA: TVA Sports
-http://filex.tv:8080/maazqamar/002450/290739
-#EXTINF:-1,CA: TVA Sports 2
-http://filex.tv:8080/maazqamar/002450/290740
-#EXTINF:-1,FR: MultiSports 1
-http://filex.tv:8080/maazqamar/002450/301905
-#EXTINF:-1,FR: MultiSports 2
-http://filex.tv:8080/maazqamar/002450/301906
-#EXTINF:-1,FR: MultiSports 3
-http://filex.tv:8080/maazqamar/002450/301907
-#EXTINF:-1,FR: MultiSports 4
-http://filex.tv:8080/maazqamar/002450/301908
-#EXTINF:-1,FR: MultiSports 5
-http://filex.tv:8080/maazqamar/002450/301909
-#EXTINF:-1,FR: MultiSports 6
-http://filex.tv:8080/maazqamar/002450/301910
-#EXTINF:-1,FR: Olympia TV
-http://filex.tv:8080/maazqamar/002450/301911
-#EXTINF:-1,FR: RMC SPORT 1
-http://filex.tv:8080/maazqamar/002450/301912
-#EXTINF:-1,FR: RMC SPORT 2
-http://filex.tv:8080/maazqamar/002450/301913
-#EXTINF:-1,FR: RMC SPORT 3
-http://filex.tv:8080/maazqamar/002450/301914
-#EXTINF:-1,FR: RMC SPORT 4
-http://filex.tv:8080/maazqamar/002450/301915
-#EXTINF:-1,FR: RMC SPORT 5
-http://filex.tv:8080/maazqamar/002450/301916
-#EXTINF:-1,FR: RMC SPORT 7
-http://filex.tv:8080/maazqamar/002450/301917
-#EXTINF:-1,FR: RMC SPORT 8
-http://filex.tv:8080/maazqamar/002450/301918
-#EXTINF:-1,FR: RMC SPORT 9
-http://filex.tv:8080/maazqamar/002450/301919
-#EXTINF:-1,FR: RMC SPORT 10
-http://filex.tv:8080/maazqamar/002450/301920
-#EXTINF:-1,FR: RMC SPORT 12
-http://filex.tv:8080/maazqamar/002450/301921
-#EXTINF:-1,FR: RMC SPORT 13
-http://filex.tv:8080/maazqamar/002450/301922
-#EXTINF:-1,FR: TRACE Sport Stars
-http://filex.tv:8080/maazqamar/002450/301923
-#EXTINF:-1,FR: RTS 1
-http://filex.tv:8080/maazqamar/002450/302148
-#EXTINF:-1,UK: TNT Sports 1
-http://filex.tv:8080/maazqamar/002450/290425
-#EXTINF:-1,UK: TNT Sports 2
-http://filex.tv:8080/maazqamar/002450/290426
-#EXTINF:-1,UK: TNT Sports 3
-http://filex.tv:8080/maazqamar/002450/290427
-#EXTINF:-1,UK: TNT Sports 4
-http://filex.tv:8080/maazqamar/002450/290428
-#EXTINF:-1,UK: TNT Sports 5
-http://filex.tv:8080/maazqamar/002450/290429
-#EXTINF:-1,UK: UFC Fight Pass
-http://filex.tv:8080/maazqamar/002450/290430
-#EXTINF:-1,TH: MCOT HD
-http://filex.tv:8080/maazqamar/002450/302721
-#EXTINF:-1,TH: PPTV HD 36
-http://filex.tv:8080/maazqamar/002450/302726
-#EXTINF:-1,TH: Thairath TV 32
-http://filex.tv:8080/maazqamar/002450/302732
-#EXTINF:-1,TH: True Premiere Football 1
-http://filex.tv:8080/maazqamar/002450/302733
-#EXTINF:-1,TH: True Premiere Football 2
-http://filex.tv:8080/maazqamar/002450/302734
-#EXTINF:-1,TH: True Sport 3
-http://filex.tv:8080/maazqamar/002450/302735
-#EXTINF:-1,TH: True Sport 4
-http://filex.tv:8080/maazqamar/002450/302736
-#EXTINF:-1,TH: TrueVisions
-http://filex.tv:8080/maazqamar/002450/302737
-#EXTINF:-1,CO: ESPN
-http://filex.tv:8080/maazqamar/002450/302919
-#EXTINF:-1,CO: ESPN 2
-http://filex.tv:8080/maazqamar/002450/302920
-#EXTINF:-1,CO: ESPN 3
-http://filex.tv:8080/maazqamar/002450/302921
-#EXTINF:-1,CO: ESPN 4
-http://filex.tv:8080/maazqamar/002450/302922
-#EXTINF:-1,CO: ESPN 5
-http://filex.tv:8080/maazqamar/002450/302923
-#EXTINF:-1,CO: ESPN 6
-http://filex.tv:8080/maazqamar/002450/302924
-#EXTINF:-1,CO: ESPN 7
-http://filex.tv:8080/maazqamar/002450/302925
-#EXTINF:-1,CO: Fox Sports 2
-http://filex.tv:8080/maazqamar/002450/302927
-#EXTINF:-1,CO: FOX Sports 3
-http://filex.tv:8080/maazqamar/002450/302928
-#EXTINF:-1,MY: Astro SuperSport
-http://filex.tv:8080/maazqamar/002450/303503
-#EXTINF:-1,MY: Astro SuperSport 2
-http://filex.tv:8080/maazqamar/002450/303504
-#EXTINF:-1,MY: Astro SuperSport 3
-http://filex.tv:8080/maazqamar/002450/303505
-#EXTINF:-1,MY: Astro SuperSport 4
-http://filex.tv:8080/maazqamar/002450/303506
-#EXTINF:-1,QA: beIN Sports
-http://filex.tv:8080/maazqamar/002450/332931
-#EXTINF:-1,QA: beIN Sports 1
-http://filex.tv:8080/maazqamar/002450/332932
-#EXTINF:-1,QA: beIN Sports 2
-http://filex.tv:8080/maazqamar/002450/332933
-#EXTINF:-1,QA: beIN Sports 3
-http://filex.tv:8080/maazqamar/002450/332934
-#EXTINF:-1,QA: beIN Sports 4
-http://filex.tv:8080/maazqamar/002450/332935
-#EXTINF:-1,QA: beIN Sports 5
-http://filex.tv:8080/maazqamar/002450/332936
-#EXTINF:-1,QA: beIN Sports 6
-http://filex.tv:8080/maazqamar/002450/332937
-#EXTINF:-1,QA: beIN Sports 7
-http://filex.tv:8080/maazqamar/002450/332938
-#EXTINF:-1,QA: beIN Sports 8
-http://filex.tv:8080/maazqamar/002450/332939
-#EXTINF:-1,QA: beIN Sports 9
-http://filex.tv:8080/maazqamar/002450/332940
-#EXTINF:-1,QA: beIN Sports English 1
-http://filex.tv:8080/maazqamar/002450/332941
-#EXTINF:-1,QA: beIN Sports English 2
-http://filex.tv:8080/maazqamar/002450/332942
-#EXTINF:-1,QA: beIN Sports English 3
-http://filex.tv:8080/maazqamar/002450/332943
-#EXTINF:-1,QA: beIN Sports Global
-http://filex.tv:8080/maazqamar/002450/332944
-#EXTINF:-1,QA: beIN Sports News
-http://filex.tv:8080/maazqamar/002450/332945
-#EXTINF:-1,QA: beIN Sports Premium 1
-http://filex.tv:8080/maazqamar/002450/332946
-#EXTINF:-1,QA: beIN Sports Xtra 1
-http://filex.tv:8080/maazqamar/002450/332947
-#EXTINF:-1,QA: beIN Sports Xtra 2
-http://filex.tv:8080/maazqamar/002450/332948
-#EXTINF:-1,RS: Arena Esport
-http://filex.tv:8080/maazqamar/002450/317464
-#EXTINF:-1,RS: Arena Fight
-http://filex.tv:8080/maazqamar/002450/317465
-#EXTINF:-1,RS: Arena Premium 1
-http://filex.tv:8080/maazqamar/002450/317466
-#EXTINF:-1,RS: Arena Premium 2
-http://filex.tv:8080/maazqamar/002450/317467
-#EXTINF:-1,RS: Arena Premium 3
-http://filex.tv:8080/maazqamar/002450/317468
-#EXTINF:-1,RS: Arena Sport 1
-http://filex.tv:8080/maazqamar/002450/317469
-#EXTINF:-1,RS: Arena Sport 2
-http://filex.tv:8080/maazqamar/002450/317470
-#EXTINF:-1,RS: Arena Sport 3
-http://filex.tv:8080/maazqamar/002450/317471
-#EXTINF:-1,RS: Arena Sport 3 Premium
-http://filex.tv:8080/maazqamar/002450/317472
-#EXTINF:-1,RS: Arena Sport 4
-http://filex.tv:8080/maazqamar/002450/317473
-#EXTINF:-1,RS: Arena Sport 5
-http://filex.tv:8080/maazqamar/002450/317474
-#EXTINF:-1,RS: Arena Sport 6
-http://filex.tv:8080/maazqamar/002450/317475
-#EXTINF:-1,RS: Arena Sport 7
-http://filex.tv:8080/maazqamar/002450/317476
-#EXTINF:-1,RS: Arena Sport 8
-http://filex.tv:8080/maazqamar/002450/317477
-#EXTINF:-1,RS: Arena Sport 9
-http://filex.tv:8080/maazqamar/002450/317478
-#EXTINF:-1,RS: Arena Sport 1x2
-http://filex.tv:8080/maazqamar/002450/317479
-#EXTINF:-1,RS: Eurosport 1
-http://filex.tv:8080/maazqamar/002450/317480
-#EXTINF:-1,RS: Eurosport 2
-http://filex.tv:8080/maazqamar/002450/317481
-#EXTINF:-1,RS: Nova Sport
-http://filex.tv:8080/maazqamar/002450/317482
-#EXTINF:-1,RS: Sport Klub 2
-http://filex.tv:8080/maazqamar/002450/317483
-#EXTINF:-1,RS: Sport Klub 3
-http://filex.tv:8080/maazqamar/002450/317484
-#EXTINF:-1,RS: Sport Klub 4
-http://filex.tv:8080/maazqamar/002450/317485
-#EXTINF:-1,RS: Sport Klub 5
-http://filex.tv:8080/maazqamar/002450/317486
-#EXTINF:-1,RS: RTS 1
-http://filex.tv:8080/maazqamar/002450/317577
-#EXTINF:-1,HR: Arena Sport 1
-http://filex.tv:8080/maazqamar/002450/317325
-#EXTINF:-1,HR: Arena Sport 2
-http://filex.tv:8080/maazqamar/002450/317326
-#EXTINF:-1,HR: Arena Sport 3
-http://filex.tv:8080/maazqamar/002450/317327
-#EXTINF:-1,HR: Arena Sport 4
-http://filex.tv:8080/maazqamar/002450/317328
-#EXTINF:-1,HR: Arena Sport 5
-http://filex.tv:8080/maazqamar/002450/317329
-#EXTINF:-1,HR: Arena Sport 6
-http://filex.tv:8080/maazqamar/002450/317330
-#EXTINF:-1,HR: Arena Sport 10
-http://filex.tv:8080/maazqamar/002450/317331
-#EXTINF:-1,HR: Max Sport 1
-http://filex.tv:8080/maazqamar/002450/317332
-#EXTINF:-1,HR: Max Sport 2
-http://filex.tv:8080/maazqamar/002450/317333
-#EXTINF:-1,HR: Sport Klub 1
-http://filex.tv:8080/maazqamar/002450/317334
-#EXTINF:-1,HR: Sport Klub 2
-http://filex.tv:8080/maazqamar/002450/317335
-#EXTINF:-1,HR: Sport Klub 3
-http://filex.tv:8080/maazqamar/002450/317336
-#EXTINF:-1,HR: Sport Klub 4
-http://filex.tv:8080/maazqamar/002450/317337
-#EXTINF:-1,HR: Sport Klub 5
-http://filex.tv:8080/maazqamar/002450/317338
-#EXTINF:-1,AL: Arena Sport 1
-http://filex.tv:8080/maazqamar/002450/303997
-#EXTINF:-1,AL: Arena Sport 2
-http://filex.tv:8080/maazqamar/002450/303998
-#EXTINF:-1,AL: Arena Sport 4
-http://filex.tv:8080/maazqamar/002450/303999
-#EXTINF:-1,AL: Arena Sport 5
-http://filex.tv:8080/maazqamar/002450/304000
-#EXTINF:-1,AL: ART Sport 1
-http://filex.tv:8080/maazqamar/002450/304001
-#EXTINF:-1,AL: ART Sport 2
-http://filex.tv:8080/maazqamar/002450/304002
-#EXTINF:-1,AL: ART Sport 3
-http://filex.tv:8080/maazqamar/002450/304003
-#EXTINF:-1,AL: ART Sport 4
-http://filex.tv:8080/maazqamar/002450/304004
-#EXTINF:-1,AL: ART Sport 5
-http://filex.tv:8080/maazqamar/002450/304005
-#EXTINF:-1,AL: Eurosport 1
-http://filex.tv:8080/maazqamar/002450/304006
-#EXTINF:-1,AL: Eurosport 2
-http://filex.tv:8080/maazqamar/002450/304007
-#EXTINF:-1,AL: Kujtesa Sport 1
-http://filex.tv:8080/maazqamar/002450/304008
-#EXTINF:-1,AL: Kujtesa Sport 2
-http://filex.tv:8080/maazqamar/002450/304009
-#EXTINF:-1,AL: Kujtesa Sport 3
-http://filex.tv:8080/maazqamar/002450/304010
-#EXTINF:-1,AL: Kujtesa Sport 4
-http://filex.tv:8080/maazqamar/002450/304011
-#EXTINF:-1,AL: RTSH Sport
-http://filex.tv:8080/maazqamar/002450/304012
-#EXTINF:-1,AL: SuperSport 1
-http://filex.tv:8080/maazqamar/002450/304013
-#EXTINF:-1,AL: SuperSport 2
-http://filex.tv:8080/maazqamar/002450/304014
-#EXTINF:-1,AL: SuperSport 3
-http://filex.tv:8080/maazqamar/002450/304015
-#EXTINF:-1,AL: SuperSport 4
-http://filex.tv:8080/maazqamar/002450/304016
-#EXTINF:-1,AL: SuperSport 5
-http://filex.tv:8080/maazqamar/002450/304017
-#EXTINF:-1,AL: SuperSport 6
-http://filex.tv:8080/maazqamar/002450/304018
-#EXTINF:-1,AL: SuperSport 7
-http://filex.tv:8080/maazqamar/002450/304019
-#EXTINF:-1,AL: SuperSport News
-http://filex.tv:8080/maazqamar/002450/304020
-#EXTINF:-1,AL: Tring Sport 1
-http://filex.tv:8080/maazqamar/002450/304021
-#EXTINF:-1,AL: Tring Sport 2
-http://filex.tv:8080/maazqamar/002450/304022
-#EXTINF:-1,AL: Tring Sport 3
-http://filex.tv:8080/maazqamar/002450/304023
-#EXTINF:-1,AL: Tring Sport 4
-http://filex.tv:8080/maazqamar/002450/304024
-
-
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1068870
+
+#EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="https://www.egblog.news/wp-content/uploads/2024/01/value-2.png" group-title="BEIN EURO CUP 2024", beIN SPORTS MAX 4 FR ULTRA ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1065900
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FR ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/579308
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 1ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146122
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 1 ᴴᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/106199
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1063488
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 1ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146118
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 1 ˢᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/196473
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146123
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2 ᴴᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/106200
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1063489
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146119
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2 ˢᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/196472
+#EXTINF: -1 tvg-id="beinsportsmax2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-4K.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 2⁴ᴷ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146127
+#EXTINF: -1 tvg-id="beinsportsmax3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 3 ENᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146124
+#EXTINF: -1 tvg-id="beinsportsmax3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 3 EN ᴴᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/106201
+#EXTINF: -1 tvg-id="beinsportsmax3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 3 ENˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146120
+#EXTINF: -1 tvg-id="beinsportsmax3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-4K.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 3 EN ⁴ᴷ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146128
+#EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FRᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146125
+#EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FR ᴴᴰ°
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146062
+#EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FRˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146121
+#EXTINF: -1 tvg-id="beinsportsmax4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-4K.png" group-title="BEIN EURO CUP 2024", beIN Sports MAX 4 FR ⁴ᴷ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/146129
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
+https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
+https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
+https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN EURO CUP 2024 REPLAY", https://t.me/iptv7778
+https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
+#EXTINF: -1 tvg-logo="https://images.squarespace-cdn.com/content/v1/63f5e1e3556ce912f155e6c4/2b28f962-16fa-4bb1-9457-58b6e5f23b3a/live-football-24-06-14-EURO+2024-Germany+vs+Scotland_01.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Germany Vs Scotland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070295
+#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Hungary_Vs_Switzerland.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Hungary Vs Switzerland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070326
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Spain Vs Croatia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070450
+#EXTINF: -1 tvg-logo="https://www.bestbettingsites.co.uk/wp-content/uploads/2024/06/r1-italy-vs-albania.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Italy Vs Albania
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070451
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/OoObQJNJBik/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Poland Vs Netherlands
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070452
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/Egmt5XefMSs/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Slovenia Vs Denmark
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070453
+#EXTINF: -1 tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/499/499284-serbiavsengland-1.jpg?q=75&w=634" group-title="BEIN EURO CUP 2024 REPLAY", Serbia Vs England
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070454
+#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0j2v7qr.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Romania Vs Ukraine
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070513
+#EXTINF: -1 tvg-logo="https://clutchpoints.com/_next/image?url=https%3A%2F%2Fwp.clutchpoints.com%2Fwp-content%2Fuploads%2F2024%2F06%2FBelgium-vs.-Slovakia-2024-Euros-prediction-odds-pick-1.jpg&w=1200&q=75" group-title="BEIN EURO CUP 2024 REPLAY", Belgium Vs Slovakia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070514
+#EXTINF: -1 tvg-logo="https://static.tnn.in/thumb/msid-111065585,thumbsize-67930,width-1280,height-720,resizemode-75/111065585.jpg" group-title="BEIN EURO CUP 2024 REPLAY", France Vs Austria
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070515
+#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Tu%CC%88rkiye_Vs_Georgia.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Turkiye Vs Georgia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070516
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/U08MnyreKg4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpsCNixgXda8IEpNbvRHCe3Xv29A" group-title="BEIN EURO CUP 2024 REPLAY", Portugal Vs Czechia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070517
+#EXTINF: -1 tvg-logo="https://www.bettingodds.com/media/images/admin/euro-2024-bo-uk/croatia-vs-albania-predictions.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Croatia Vs Albania
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070518
+#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0j3gqlw.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Germany Vs Hungary
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070520
+#EXTINF: -1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0j3gw33.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Scotland Vs Switzerland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1070573
+#EXTINF: -1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/EURO24_Slovenia_Vs_Serbia.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Slovenia Vs Serbia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071020
+#EXTINF: -1 tvg-logo="https://www.bestbettingsites.co.uk/wp-content/uploads/2024/06/r2-denmark-vs-england.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Denmark Vs England
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071106
+#EXTINF: -1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/full/1718867395-0639.jpg?im=FeatureCrop,size=(826,465)" group-title="BEIN EURO CUP 2024 REPLAY", Spain Vs Italy
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071216
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Poland Vs Austria
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071602
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Slovakia Vs Ukraine
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1071600
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Netherlands Vs France
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072090
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Georgia Vs Czechia
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072432
+#EXTINF: -1 group-title="BEIN EURO CUP 2024 REPLAY", Turkiye Vs Portugal
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072585
+#EXTINF: -1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9kXteUE29DWJGyxoQgPrLwHaE7&pid=Api&P=0&h=180" group-title="BEIN EURO CUP 2024 REPLAY", Belgium Vs Romania
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072624
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/TYnQNKyLMEo/maxresdefault.jpg" group-title="BEIN EURO CUP 2024 REPLAY", Switzerland Vs Germany
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072793
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ESzvbdRzLZ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDGVGuZn1CsmOBvh01BVz5ESRjq_Q" group-title="BEIN EURO CUP 2024 REPLAY", Scotland Vs Hungary
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1072794
+#EXTINF: -1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN EURO CUP 2024 REPLAY", beIN SPORTS MAX 1 REPLAY
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1069974
+#EXTINF: -1 tvg-logo="https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png" group-title="BEIN EURO CUP 2024 REPLAY", beIN SPORTS MAX 2 REPLAY
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1069975
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", https://t.me/iptv7778
+https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", https://t.me/iptv7778
+https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
+#EXTINF: -1 tvg-id="beinsports4k.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN ULTRA ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/523650
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623331
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623332
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623333
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 4
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623334
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 5
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623335
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 6
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623336
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 7
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623337
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 8
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623338
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS ULTRA ᵁᴴᴰ 9
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/623339
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 1 ENGLISH ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315719
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 2 ENGLISH ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315720
+#EXTINF: -1 tvg-id="beinsports1fr.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1FHD-FRE.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 1 FRANCE ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315721
+#EXTINF: -1 tvg-id="beinsports2fr.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2-FRE.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 2 FRANCE ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315722
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-XTRA1.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 1 XTRA ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315725
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-XTRA2.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 2 XTRA ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315726
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS NEWS ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315744
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS NEWS ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315723
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS GLOBAL ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315745
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS GLOBAL ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315724
+#EXTINF: -1 group-title="BEIN SPORT ULTRA ᵁᴴᴰ", TOD 360 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/341756
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 01 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315728
+#EXTINF: -1 tvg-id="beinseries1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 1 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315710
+#EXTINF: -1 tvg-id="beinseries2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 02 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315729
+#EXTINF: -1 tvg-id="beinseries2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 2 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315711
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 03 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315730
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 3 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315718
+#EXTINF: -1 tvg-id="beinsports4k.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 04 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315731
+#EXTINF: -1 tvg-id="beinsports4k.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 4 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315712
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 05 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315732
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 06 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315733
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 6 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315714
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 07 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315734
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 7 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315715
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 08 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315735
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 8 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315716
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS 09 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315736
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS 9 ULTRA
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315717
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS ENGLISH 01 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315737
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS ENGLISH 02  ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315738
+#EXTINF: -1 tvg-id="beinsports1fr.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1-FRE.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS FRANCE 01 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315740
+#EXTINF: -1 tvg-id="beinsports2fr.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2-FRE.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS FRANCE 02 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315739
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS XTRA 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315741
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", beIN SPORTS XTRA 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315742
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS XTRA 03ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/315743
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/350654
+#EXTINF: -1 tvg-id="beinsportsafc1.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/350652
+#EXTINF: -1 tvg-id="beinsportsafc2.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/350651
+#EXTINF: -1 tvg-id="beinsportsafc3.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC 3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/350653
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC 4 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/328524
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT ULTRA ᵁᴴᴰ", BEIN SPORTS AFC 5 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/328520
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png" group-title="BEIN SPORT HD", TOD 360 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/341757
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT HD", beIN Sports News HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/28939
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT HD", beIN Sports News UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/44
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD", beIN Sports Global UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/43
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD", beIN Sports Global HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/28938
+#EXTINF: -1 tvg-id="beinsports4k.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN SPORT HD", beIN. ULTRA UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/312095
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD", beIN Sports 1 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD", beIN Sports 1HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534831
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 1 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272468
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD", beIN Sports HD 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624321
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD", beIN Sports 1 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108161
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD", beIN Sports 2 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD", beIN Sports 2HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534830
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 2 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272467
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD", beIN Sports HD 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624322
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD", beIN Sports 2 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108162
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", beIN Sports 3 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/4
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", beIN Sports 3HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534829
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 3 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272465
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", beIN Sports HD 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624323
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", beIN Sports 3 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108164
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD", beIN Sports 4 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/5
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD", beIN Sports 4HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534828
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 4 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272464
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD", beIN Sports HD 4
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624324
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD", beIN Sports 4 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108165
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD", beIN Sports 5 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/6
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD", beIN Sports 5HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534827
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 5 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272463
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD", beIN Sports HD 5
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624325
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD", beIN Sports 5 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108166
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD", beIN Sports 6 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/7
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD", beIN Sports 6HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/534826
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 6 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272462
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD", beIN Sports HD 6
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624326
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD", beIN Sports 6 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108167
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD", beIN Sports 7 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/8
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD", beIN Sports 7HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/578834
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 7 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272461
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD", beIN Sports HD 7
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624327
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD", beIN Sports 7 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108168
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD", beIN Sports 8 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/9
+#EXTINF: -1 tvg-id="beinsports8.qa" group-title="BEIN SPORT HD", beIN Sports 8HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/578835
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 8 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272460
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD", beIN Sports HD 8
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624328
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD", beIN Sports 8 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108169
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD", beIN Sports 9 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/10
+#EXTINF: -1 tvg-id="beinsports9.qa" group-title="BEIN SPORT HD", beIN Sports 9HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/578836
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD", BEIN SPORTS 9 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272459
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD", beIN Sports HD 9
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/624329
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD", beIN Sports 9 HD (G)
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108170
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD", beIN Sports XTRA 1 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117124
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD", beIN Sports XTRA 1 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117125
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD", beIN Sports XTRA 2 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117129
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD", beIN Sports XTRA 2 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117130
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD", beIN Sports XTRA 3 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD", BEIN SPORTS XSTRA 3 TOD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/272466
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD", beIN Sports XSTRA 3 HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/108163
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORT HD", beIN Sports 1 EN HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2531
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORT HD", beIN Sports 2 EN UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/12
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORT HD", beIN Sports 2 EN HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/10369
+#EXTINF: -1 tvg-id="beinsports1fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD", beIN Sports 1 UHD FR
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/14
+#EXTINF: -1 tvg-id="beinsports1fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD", beIN Sports 1 HD FR
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/11016
+#EXTINF: -1 tvg-id="beinsports2fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD", beIN Sports 2 UHD FR
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/15
+#EXTINF: -1 tvg-id="beinsports2fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD", beIN Sports 2 HD FR
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/11017
+#EXTINF: -1 tvg-id="beinsportsnba.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png" group-title="BEIN SPORT HD", beIN Sports Nba HD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3845
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="BEIN SPORT 4K", https://t.me/iptv7778
+https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="BEIN SPORT 4K", https://t.me/iptv7778
+https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT 4K", beIN SPORTS NEWS UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22198
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT 4K", beIN SPORTS GLOBAL UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22199
+#EXTINF: -1 tvg-id="beinsports4k.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN SPORT 4K", beIN UHD 2160P
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/190369
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K", beIN Sports 1 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114053
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K", beIN Sports 1 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3854
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K", beIN Sports 2 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114052
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K", beIN Sports 2 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3853
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K", beIN Sports 3 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114050
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K", beIN Sports 3 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3851
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K", beIN Sports 4 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114049
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K", beIN Sports 4 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3850
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K", beIN Sports 5 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114048
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K", beIN Sports 5 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3849
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K", beIN Sports 6 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114047
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K", beIN Sports 6 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3848
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K", beIN Sports 7 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114046
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K", beIN Sports 7 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3847
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K", beIN Sports 8 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114045
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K", beIN Sports 8 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/10361
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K", beIN Sports 9 4K
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114044
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K", beIN Sports 9 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/10362
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT 4K", beIN Sports XTRA 1 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117123
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT 4K", beIN Sports XTRA 2 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117128
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K", beIN Sports 3 XTRA UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/114051
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K", beIN Sports XTRA 3 UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/3852
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1UHDENG.png" group-title="BEIN SPORT 4K", beIN Sports 1 EN HEVC
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22195
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2UHDENG.png" group-title="BEIN SPORT 4K", beIN Sports 2 EN HEVC
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22196
+#EXTINF: -1 tvg-id="beinsports1fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT 4K", beIN Sports 1 FR UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/149600
+#EXTINF: -1 tvg-id="beinsports2fr.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT 4K", beIN Sports 2 FR UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/149601
+#EXTINF: -1 tvg-id="beinsportsnba.qa" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTNBA.png" group-title="BEIN SPORT 4K", beIN Sports NBA UHD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/149602
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC", BEIN SPORTS AFC ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214381
+#EXTINF: -1 tvg-id="beinsportsafc1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1 HD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214378
+#EXTINF: -1 tvg-id="beinsportsafc2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2 HD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214379
+#EXTINF: -1 tvg-id="beinsportsafc3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3 HD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 3 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/215746
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC", BEIN SPORTS AFC ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214382
+#EXTINF: -1 tvg-id="beinsportsafc1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1 FHD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214377
+#EXTINF: -1 tvg-id="beinsportsafc2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2 FHD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/214380
+#EXTINF: -1 tvg-id="beinsportsafc3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3 FHD.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/215745
+#EXTINF: -1 tvg-id="beinsportsafc.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC", BEIN SPORTS AFC ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/217422
+#EXTINF: -1 tvg-id="beinsportsafc1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 1 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/217421
+#EXTINF: -1 tvg-id="beinsportsafc2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 2 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/217420
+#EXTINF: -1 tvg-id="beinsportsafc3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3.png" group-title="BEIN SPORT AFC", BEIN SPORTS AFC 3 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/217419
+#EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT SD", beIN SPORTS NEWS SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/274145
+#EXTINF: -1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT SD", beIN SPORTS GLOBAL SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/274143
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD", beIN Sports 1 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2541
+#EXTINF: -1 tvg-id="beinsportsmax1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD", beIN SPORTS 1 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245836
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT SD", beIN Sports 2 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2540
+#EXTINF: -1 tvg-id="beinsports2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT SD", beIN SPORTS 2 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245835
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT SD", beIN Sports 3 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2538
+#EXTINF: -1 tvg-id="beinsports3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="BEIN SPORT SD", beIN SPORTS 3 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245833
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT SD", beIN Sports 4 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/10795
+#EXTINF: -1 tvg-id="beinsports4.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT SD", beIN SPORTS 4 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245832
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT SD", beIN Sports 5 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2536
+#EXTINF: -1 tvg-id="beinsports5.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT SD", beIN SPORTS 5 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245831
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT SD", beIN Sports 6 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2535
+#EXTINF: -1 tvg-id="beinsports6.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT SD", beIN SPORTS 6 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245830
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD", beIN Sports 7 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2534
+#EXTINF: -1 tvg-id="beinsports7.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD", beIN SPORTS 7 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245829
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT SD", beIN Sports 8 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2533
+#EXTINF: -1 tvg-id="beinsports8.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT SD", beIN SPORTS 8 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245828
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT SD", beIN Sports 9 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2532
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT SD", beIN SP⚽RTS 9 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245827
+#EXTINF: -1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT SD", beIN Sports XTRA 1 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117126
+#EXTINF: -1 tvg-id="beinsportsxtra2.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2HD.png" group-title="BEIN SPORT SD", beIN Sports XTRA 2 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/117131
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT SD", beIN Sports XSTRA 3 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/2539
+#EXTINF: -1 tvg-id="beinsportsxtra3.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT SD", beIN SPORTS XSTRA 3 SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245834
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORT SD", beIN SPORTS 1 EN SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/49727
+#EXTINF: -1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORT SD", beIN SPORTS 1 EN SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245826
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT SD", beIN SPORTS 2 EN SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/49728
+#EXTINF: -1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT SD", beIN SPORTS 2 EN SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/245825
+#EXTINF: -1 tvg-id="beinsportsnba.qa" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA.png" group-title="BEIN SPORT SD", beIN Sports NBA SD
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/57044
+#EXTINF: -1 tvg-id="alkassone.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS1.png" group-title="AR| Al Kass HD", |AR| AL KASS ONE ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50174
+#EXTINF: -1 tvg-id="alkassone.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS1.png" group-title="AR| Al Kass HD", |AR| AL KASS 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22837
+#EXTINF: -1 tvg-id="alkasstwo.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS2.png" group-title="AR| Al Kass HD", |AR| AL KASS 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50175
+#EXTINF: -1 tvg-id="alkasstwo.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS2.png" group-title="AR| Al Kass HD", |AR| AL KASS 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22838
+#EXTINF: -1 tvg-id="alkassthree.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS3.png" group-title="AR| Al Kass HD", |AR| AL KASS 3 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22839
+#EXTINF: -1 tvg-id="alkassfour.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS4.png" group-title="AR| Al Kass HD", |AR| AL KASS FOUR ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50176
+#EXTINF: -1 tvg-id="alkassfour.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS4.png" group-title="AR| Al Kass HD", |AR| AL KASS 4 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22840
+#EXTINF: -1 tvg-id="alkassfive.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS5.png" group-title="AR| Al Kass HD", |AR| AL KASS 5 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22841
+#EXTINF: -1 tvg-id="alkasssix.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS6.png" group-title="AR| Al Kass HD", |AR| AL KASS 6 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/22842
+#EXTINF: -1 tvg-id="alkassseven.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS7.png" group-title="AR| Al Kass HD", |AR| AL KASS 7 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/28271
+#EXTINF: -1 tvg-id="alkasseight.qa" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS8.png" group-title="AR| Al Kass HD", |AR| AL KASS 8 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/38857
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS.png" group-title="AR| Al Kass HD", |AR| AL KASS 9 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/355015
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 1 + SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252722
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 1 ᵁᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255756
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 1 ᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252864
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 1 SERIA A ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/254169
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 1 SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/254310
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay /AD PREMIER 1 ᵁᴴᴰ  SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314104
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 2 + SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252721
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 2 ᵁᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255757
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 2 ᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252863
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 2 SERIA A ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/254168
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 2 SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/254309
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay /AD PREMIER 2 ᵁᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314103
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 3 ᵁᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255758
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 3 ᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252862
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / AD SPORTS 3+
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252720
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay /AD PREMIER 3 ᵁᴴᴰ SERIA A
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314102
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| StarzPlay / Rugby WorldCup
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/320263
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| AD Sports Asia Live Event 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/160259
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| AD Sports Asia Live Event1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/160258
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| AD Sports Asia Live Event 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/160260
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| AD Sports Asia Live Event 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/160261
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| LIVE EVENT 01
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156428
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| LIVE EVENT 2 UFC  6/8PM Paul v Diaz
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156429
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV", |AR| LIVE EVENT 3 UFC
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156430
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscnew.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS NEWS
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255472
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR|SSC SPORTS 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314037
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS ᴴᴰ 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/150633
+#EXTINF: -1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8514.png?22097" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/524208
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 1 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329024
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156499
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314108
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 1 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/282583
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314036
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS ᴴᴰ 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/150634
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 2 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329025
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156500
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 2 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/282582
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 3 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314035
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS ᴴᴰ 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/150635
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 3 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329026
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156501
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 3 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/282581
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 4 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314034
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS ᴴᴰ 4
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/150636
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 4 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329027
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 4 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156502
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 4 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314107
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 4 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/282580
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 5 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314033
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS ᴴᴰ 5
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/150639
+#EXTINF: -1 group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 5 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/581125
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 5 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329028
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 5 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314106
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS 5 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/282579
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314038
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS XSTRA 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/314105
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 1 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329029
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255473
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255476
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 1 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255479
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 2 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329030
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255474
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255477
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex2.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 2 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255480
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 3 [MULTI-AUDIO]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/329031
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255475
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 3 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255478
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex3.png" group-title="AR| SSC  SPORTS HD - AD ASIA", |AR| SSC SPORTS EXTRA 3 ˢᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/255481
+#EXTINF: -1 group-title="AR| SPORTS ARABIC", |SPO| SAHSAH ᵁᴴᴰ ( EVENT ONLY )
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/581124
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| SPORTS ARABIC", |SPO| Abu Dhabi Sports 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/309522
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| SPORTS ARABIC", |SPO| Abu Dhabi Sports 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/170302
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5011.png" group-title="AR| SPORTS ARABIC", |SPO| AD SPORT 3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50159
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| SPORTS ARABIC", |SPO| AD SPORTS 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50157
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| SPORTS ARABIC", |SPO| AD SPORTS 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50158
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO| DUBAI SPORTS 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/170303
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Sport 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156471
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Sport 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156472
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Sport 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156473
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/KSASPORTS.png" group-title="AR| SPORTS ARABIC", |SPO| KSA SPOTS 4
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/170304
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ASIA/UAE/SHARJAHSPORTHD.png" group-title="AR| SPORTS ARABIC", |SPO| Sharjah sports
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/28268
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORT.png" group-title="AR| SPORTS ARABIC", |SPO| YAS SPORT ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/50165
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| SPORTS ARABIC", |SPO| Abu Dhabi Sports 1ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/48
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| SPORTS ARABIC", |SPO| Abu Dhabi Sports 2ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/29128
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORTHD.png" group-title="AR| SPORTS ARABIC", |SPO| YAS Sports
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/27693
+#EXTINF: -1 tvg-logo="ghttp://cmc.best-ott.me:80/djk/iojriewjriojwuihrtuih4jmrijiwjerijhjtuihKIKIRIJwhwgterLOo/3088" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Racin 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1381
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAI RACING2.png" group-title="AR| SPORTS ARABIC", |SPO| Dubai Racing 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/49593
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Sports 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1382
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR| SPORTS ARABIC", |SPO| Dubai Sports 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1386
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO| ONTIME SPORTS
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/113375
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO| ONTIME SPORTS2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/113376
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO| ONTIME SPORTS3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/103698
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO| ONTIME SPORTS3 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/103699
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-1_live.png" group-title="AR| SPORTS ARABIC", |SPO| Bahrain Sport 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/49559
+#EXTINF: -1 tvg-id="jordansports.jo" tvg-logo="http://138.199.27.237:8080/JORDAN/JORDANSPORT.png" group-title="AR| SPORTS ARABIC", |SPO| Jordan Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/1354
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA Sports +1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/49499
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA Sports +2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/9563
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA Sports 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/9562
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA SPORTS 1 ᴴᴰ PLUS
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/12210
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA SPORTS 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/9561
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| KSA SPORTS 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/14534
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| SAUDI 24 SPORT ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/92447
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| SPORTS ᴴᴰ1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/45881
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| SPORTS ᴴᴰ2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/45882
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| SPORTS ᴴᴰ3 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/45883
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO| SPORTS ᴴᴰ4 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/45884
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/AFRICA/EGYPT/ZamalekSports.png" group-title="AR| SPORTS ARABIC", |SPO| Zamalek Sports
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/39228
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS.png" group-title="AR| SPORTS ARABIC", |QTR|Alkass Radio 01
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/201460
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| SPORTS ARABIC", |SPO|  AD Sports 1 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156462
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| SPORTS ARABIC", |SPO|  AD Sports 2 ᵁᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156463
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="AR| SPORTS ARABIC", |SPO|  ALRabiaa Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/201255
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="AR| SPORTS ARABIC", |SPO| alrabiaa sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/249482
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/IRAQ/ALSHABABTV.png" group-title="AR| SPORTS ARABIC", |SPO| Al Shabab Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/192416
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/IRAQ/ALSHABABTV.png" group-title="AR| SPORTS ARABIC", |SPO|  Al Shabab Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156465
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-1_live.png" group-title="AR| SPORTS ARABIC", |SPO|  Bahrain Sport 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156466
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-2_live.png" group-title="AR| SPORTS ARABIC", |SPO|  Bahrain Sport 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156467
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAIRACING 1HD.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Racing 1 TV ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156468
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAI RACING2.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Racing 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156469
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAIRACING3.png" group-title="AR| SPORTS ARABIC", |SPO|  Dubai Racing 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156470
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/0tv_logo/191.png" group-title="AR| SPORTS ARABIC", |SPO|  Elheddaf
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156474
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EUROPE/GREECE/EXTRA.png" group-title="AR| SPORTS ARABIC", |SPO|  EXTRA ACTION ᴴᴰ AR
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156495
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EUROPE/GERMANY/FIGHT_SPORTS.png" group-title="AR| SPORTS ARABIC", |SPO|  FIGHT SPORT ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156494
+#EXTINF: -1 tvg-id="aliraqiyasport.iq" tvg-logo="http://138.199.27.237:8080/ARABE/ALIRAQIASPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Iraqia Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156475
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| SPORTS ARABIC", |SPO|  ITALIAN LEAGUE 1 ᴴᴰ [LIVE-EVENT]
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156493
+#EXTINF: -1 tvg-id="jordansports.jo" tvg-logo="http://138.199.27.237:8080/JORDAN/JORDANSPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Jordan Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156476
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Kuwait Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156477
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Kuwait Sports+ ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156478
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/LIBYA/02588_149092_493733864014631_771267810_n.jpg" group-title="AR| SPORTS ARABIC", |SPO|  Libya Sport 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156479
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/LIBYA/21.jpg" group-title="AR| SPORTS ARABIC", |SPO|  Libya Sport 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156461
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Nileen Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156481
+#EXTINF: -1 tvg-id="nilesport.eg" tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Nile Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156480
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/OMAN/47bc434d89.webp" group-title="AR| SPORTS ARABIC", |SPO|  Oman Sport TV
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156482
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO|  ON Time Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156483
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR| SPORTS ARABIC", |SPO|  ON Time Sports 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156484
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/PALESTINE/PALESTINESPORT.png" group-title="AR| SPORTS ARABIC", |SPO|  Palestine Sport
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156486
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO|  SAUDI 24 SPORT ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156460
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO|  Saudia Sport 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156487
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR| SPORTS ARABIC", |SPO|  Saudia Sport 2 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156488
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ASIA/UAE/SHARJAHSPORTHD.png" group-title="AR| SPORTS ARABIC", |SPO|  Sharjah Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156489
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/AFRICA/SUDAN/SUDANSPORTTV.png" group-title="AR| SPORTS ARABIC", |SPO|  Sudan Sport 1 ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156490
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORTHD.png" group-title="AR| SPORTS ARABIC", |SPO|  Yas Sport ᴴᴰ
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156491
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/AFRICA/EGYPT/ZamalekSports.png" group-title="AR| SPORTS ARABIC", |SPO|  Zamalek Sports
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/156492
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/أالسيرة_النبوية.jpg" group-title="AR| قـــصـــص القـــــران", |الــســيــرة الــنـبـــويـة |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131297
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/قصص آيات القرآن.jpeg" group-title="AR| قـــصـــص القـــــران", |قصص آيات القرآن |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131281
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/9iasas.jpg" group-title="AR| قـــصـــص القـــــران", |قصص الانبياء في القرآن |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131289
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/hayawan.png" group-title="AR| قـــصـــص القـــــران", |قصص الحيوان في القرآن |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131283
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/3aja2ib.jpeg" group-title="AR| قـــصـــص القـــــران", |قصص العجائب في القرآن |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131287
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/قصص النساء في القرآن.jpg" group-title="AR| قـــصـــص القـــــران", |قصص النساء في القرآن |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131282
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/KIDS/sahaba.jpg" group-title="AR| قـــصـــص القـــــران", |قـصـص الصـحـابــة  |قصص
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/131869
+#EXTINF: -1 tvg-id="eurosport1.uk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 British
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268730
+#EXTINF: -1 tvg-id="eurosport1.de" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Deutch
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268734
+#EXTINF: -1 tvg-id="eurosport1.dk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 DK
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268715
+#EXTINF: -1 tvg-id="eurosport1.uk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 EN
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268727
+#EXTINF: -1 tvg-id="eurosport1.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 EN-NL
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268735
+#EXTINF: -1 tvg-id="eurosport.fi" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 FI
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268717
+#EXTINF: -1 tvg-id="eurosport.fi" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Finland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268741
+#EXTINF: -1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Frensh
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268731
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Ierland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268725
+#EXTINF: -1 tvg-id="eurosport.it" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 IT
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268719
+#EXTINF: -1 tvg-id="eurosport.it" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Italy
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268732
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Muti-lang
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268729
+#EXTINF: -1 tvg-id="eurosport1.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Netherlands
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268736
+#EXTINF: -1 tvg-id="eurosport1.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 NL
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268713
+#EXTINF: -1 tvg-id="eurosportnorge.no" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 NO
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268721
+#EXTINF: -1 tvg-id="eurosportnorge.no" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Norway
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268742
+#EXTINF: -1 tvg-id="eurosport1.pl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Poland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268737
+#EXTINF: -1 tvg-id="eurosport1.ro" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Romania
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268738
+#EXTINF: -1 tvg-id="eurosport.se" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 SE
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268723
+#EXTINF: -1 tvg-id="eurosport1.dk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 DK
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268740
+#EXTINF: -1 tvg-id="eurosport1.es" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Spain
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268733
+#EXTINF: -1 tvg-id="eurosport.se" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 1 Sweden
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268739
+#EXTINF: -1 tvg-id="eurosport2.uk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 BRITISH
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268743
+#EXTINF: -1 tvg-id="eurosport2.cz" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 cze-eng-hun
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268747
+#EXTINF: -1 tvg-id="eurosport2.dk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Denmark
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268748
+#EXTINF: -1 tvg-id="eurosport2.de" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Deutsh
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268750
+#EXTINF: -1 tvg-id="eurosport2.de" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Deutsh - English
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268749
+#EXTINF: -1 tvg-id="eurosport2.dk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 DK
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268716
+#EXTINF: -1 tvg-id="eurosport2.uk" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 EN
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268728
+#EXTINF: -1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 EN-NL
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268746
+#EXTINF: -1 tvg-id="eurosport2.fi" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 FI
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268718
+#EXTINF: -1 tvg-id="eurosport2.fi" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 FIN-SWE
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268753
+#EXTINF: -1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Frensh
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268744
+#EXTINF: -1 tvg-id="eurosport2.hu" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Hungaria
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268751
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Ierland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268726
+#EXTINF: -1 tvg-id="eurosport2.it" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 IT
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268720
+#EXTINF: -1 tvg-id="eurosport2.it" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Italy
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268745
+#EXTINF: -1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Netherlands
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268752
+#EXTINF: -1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Netherlands
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268754
+#EXTINF: -1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 NL
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268714
+#EXTINF: -1 tvg-id="eurosportnorge.no" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 NO
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268722
+#EXTINF: -1 tvg-id="eurosport2.se" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 SE
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268724
+#EXTINF: -1 tvg-id="eurosport2.se" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT 2 Sweden
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268760
+#EXTINF: -1 tvg-id="eurosportnorge.no" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT Norge
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268755
+#EXTINF: -1 tvg-id="eurosport1.pl" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT Poland
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268756
+#EXTINF: -1 tvg-id="eurosport1.pt" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT Portugal
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268757
+#EXTINF: -1 tvg-id="eurosport4k.ro" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT Romania
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268758
+#EXTINF: -1 tvg-id="eurosport1.es" tvg-logo="http://138.199.27.237:8080/TURKIYE/EUROSPORT.png" group-title="EUROSPORT", |EURO| EUROSPORT Spain
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/268759
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 1
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252069
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 2
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252070
+#EXTINF: -1 tvg-logo="http://103.161.34.238/dreamtv/tv/ELEVEN%20SPORT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 3
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/252071
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 4
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295674
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 5
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295675
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 6
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295676
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 7
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295677
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT| ELEVEN EVENT 8
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295678
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 9
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295679
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 10
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295680
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 11
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295681
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 12
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295682
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 13
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295683
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 14
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295684
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 15
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295685
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 16
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295686
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 17
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295687
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 18
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295688
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 19
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295689
+#EXTINF: -1 tvg-logo="http://138.199.27.237:8080/ITALY/ELEVENEVENT.png" group-title="IT ELEVEN SPORT", |IT|ELEVEN  EVENT 20
+http://d4k4u.com/8cnvk1vve7/mn8dw7gjtr/295690
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191165266.jpg" group-title="https://t.me/iptv7778", https://t.me/iptv7778
+https://od.lk/s/NjRfNDA3NTA1ODlf/2024-06-07-001236238.mp4
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/850fc6a0-323c-11ef-9fe2-6f459c68a160/6914500/1191175268.jpg" group-title="https://t.me/iptv7778", https://t.me/iptv7778
+https://i.ibb.co/mGPTK3m/Screenshot-20240611-103607-VU-IPTV-Player.jpg/t.me/iptv7778
 
 
 
