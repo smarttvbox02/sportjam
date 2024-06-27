@@ -18,35 +18,25 @@ http://filex.tv:8080/ad007/002790/52085
 #EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 3 HD
 http://filex.tv:8080/ad007/002790/52086
 #EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 1 HD
-http://mega4k.one:8080/Hitesh123/Hitesh123/96496
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 2 HD
-http://mega4k.one:8080/Hitesh123/Hitesh123/96497
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 3 HD
-http://mega4k.one:8080/Hitesh123/Hitesh123/96498
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 4 HD
-http://mega4k.one:8080/Hitesh123/Hitesh123/96499
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 5 HD
-http://mega4k.one:8080/Hitesh123/Hitesh123/96500
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13763
 
-
-
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SPORT TV
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/126254
 
 
 
 
 
 =============================================================================================================
-#EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://budtv-ultra.com/posters/1713315679454.png" group-title="COPA AMERICA 2024",TV Max Canal 9
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13771
 
 #EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",TE Y C Sports 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13763
 
 #EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://budtv-ultra.com/posters/1715047731266.png" group-title="COPA AMERICA 2024",Teletica 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13895
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11(HN)(R)" tvg-logo="https://budtv-ultra.com/posters/1711993939477.png" group-title="COPA AMERICA 2024",Canal 11
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
