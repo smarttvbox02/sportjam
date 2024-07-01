@@ -65,9 +65,6 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314422417.png" group-title="COPA AMERICA 2024",CANAL 13 HD 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
