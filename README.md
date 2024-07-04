@@ -736,13 +736,13 @@ https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcH
 https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS 1 
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/7322/index.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/2314
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS 2
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/7323/index.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/300620
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS ARIZONA HD 
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19139/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS FLORIDA HD
 http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19140/index.m3u8
@@ -750,17 +750,16 @@ http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19140/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS OKLAHOMA HD US 
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19146/index.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/300621)
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS PRIME TICKET HD 
 http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19142/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS SOUTHWEST PLUS HD 
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19143/index.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157457
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS SPORTSTIME OHIO HD
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19144/index.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/2327
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS SUN HD
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/19145/index.m3u8
+
 
