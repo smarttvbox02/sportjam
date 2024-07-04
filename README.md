@@ -558,8 +558,21 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162592
 
 #EXTINF:-1 group-title="SPORT" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sport 3
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301871
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="Dutch",
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2880
 
-
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="Dutch",Sky Sports Action HD
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2902
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports Arena HD 
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2876
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports F1 HD 
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2870
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports Football HD 
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2881
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports MainEvent HD
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2877
+#EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports PremierLeague
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/28848
 
 
 
