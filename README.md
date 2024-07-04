@@ -382,245 +382,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="🇮🇩 CITRA GROUP 🇮🇩" tvg-logo="https://i.imgur.com/IpdaYmi.png",Citra Bioskop
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0IzNWhHSTlXVy9xRitMV2VkdFRRVkpVOXdWVjdpcEU3TitDQ3VDQ3ZwdWxDbklXVlQ0Vk5NRExwOGVxSTRaemk=
-
-#EXTINF:-1 tvg-name="ID: Citra Dangdut HD" tvg-id="CitraDangdut.id" group-title="🇮🇩 CITRA GROUP 🇮🇩" tvg-logo="https://i.imgur.com/0C69zfe.png",Citra Dangdut HD
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT01UZEs4cjlja2VIUlR3S2xYcHVEZzFla1JyaXNBMjIzT2xzaHhQeUJLQWN1M0VJMTBxekVqU0pzVkcvc09OL1E=
-
-#EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="🇮🇩 CITRA GROUP 🇮🇩" tvg-logo="https://i.imgur.com/Sgzx95d.png",Citra Drama HD
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3lkN1dyNEVmekNtN3d4NFM3VTZOdHhqeTBKa0VtMytoeE1FZC9wMDQxRUU9
-
-#EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="🇮🇩 CITRA GROUP 🇮🇩" tvg-logo="https://i.imgur.com/DPulvHZ.png",Citra Entertainment HD
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0VmWGkvR3lrYzNkb29RK0h0SzlVdmluQ3V5ak5kM2FCVnZITjhyMWJQZ2s1UEFzZ1hrVVk2Z2RnYTdVeWdQZDI=
-
-#EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="🇮🇩 CITRA GROUP 🇮🇩" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3VjZ0xjMTkramRXeVBlbEVVZitFV1ZJQmVTZDFmc0VRRVVpUFBQNllTVmxTd3l2OGdJL0lybHRHdGtSZ3lsOXY=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="Dens TV Group", Live Streaming 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/3/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="Dens TV Group", DensPlay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/107/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Dens TV Group", DensLife & Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/42/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="Dens TV Group", DensFood Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/117/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="Dens TV Group", DensShowBiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/102/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="Dens TV Group", DensKnowledge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/1/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg" group-title="Dens TV Group", NaDoo Commerce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/75/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg" group-title="Dens TV Group", NaDooKorean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/126/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="Dens TV Group", Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/6/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="Dens TV Group", tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/7/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" group-title="Dens TV Group", Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/14/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="Dens TV Group", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/80/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/340 x 160 IDTV@3x.jpg" group-title="Dens TV Group", IDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/131/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg" group-title="Dens TV Group", antv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/8/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg" group-title="Dens TV Group", NET.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/13/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="Dens TV Group", RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/22/058062195373512684980442
-
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg" group-title="Dens TV Group", ANIPLUS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/38/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="Dens TV Group", My Kidz HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/96/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" group-title="Dens TV Group", ROCK Entertainment HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/39/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg" group-title="Dens TV Group", ROCK Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/44/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg" group-title="Dens TV Group", KIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/49/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465946_tvchannels_v1.jpg" group-title="Dens TV Group", KBS Korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/133/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465949_tvchannels_v1.jpg" group-title="Dens TV Group", KBS World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/134/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Dens TV Group", K-PLUS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/100/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg" group-title="Dens TV Group", tvN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/59/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="Dens TV Group", tvN Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/58/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="Dens TV Group", Celestial Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/99/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="Dens TV Group", CCM (Celestial Classic MV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/110/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="Dens TV Group", My Cinema Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/109/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg" group-title="Dens TV Group", Thrill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/55/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg" group-title="Dens TV Group", My Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/95/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="Dens TV Group", My Cinema Europe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/92/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="Dens TV Group", My Family Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/114/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg" group-title="Dens TV Group", TV5MONDE Style HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/37/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg" group-title="Dens TV Group", crema.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/127/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="Dens TV Group", Stingray Classica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/128/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701162855_tvchannels_v1.jpg" group-title="Dens TV Group", Deluxe Lounge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/129/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="Dens TV Group", Dance TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/130/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg" group-title="Dens TV Group", FIGHT SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/60/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="Dens TV Group", Motorvision+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/98/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg" group-title="Dens TV Group", MotoRRacing TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/120/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg" group-title="Dens TV Group", HorizonSports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/121/058062195373512684980442
-
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="Dens TV Group", W-Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://alfa.toda.biz.id/dens/123/058062195373512684980442
-
-
-
-
-
-
-
-
-#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="Liga & Volley" , FIFA+ 1 🌏
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="Liga & Volley" , FIFA+ 1 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="Liga & Volley" , FIFA+ 2 🌏
@@ -777,9 +539,25 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/298471
 #EXTINF:-1 tvg-id="" tvg-name="LA - TNT Sports" tvg-logo="http://attp.ddns.net:25461/images/9bc20d2e44cfb8ff4aa3e516357a960a.png" group-title="SPORT", TNT Sports 5
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1124
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORT",Optus Sport 1 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORT",Optus Sport 2 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 3" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORT",Optus Sport 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 4" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORT",Optus Sport 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORT",Optus Sport 5 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNYGk3w/true-premier-01.png" group-title="SPORT",True Premiere Football 1
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162591
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SmpNz6/true-premier-02.png" group-title="SPORT", True Premiere Football 2
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/162592
 
+#EXTINF:-1 group-title="SPORT" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sport 3
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/301871
 
 
 
