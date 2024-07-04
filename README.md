@@ -574,7 +574,117 @@ http://abcnew.site:8880/3ca7123n11/ewfr543ds/2877
 #EXTINF:-1 tvg-id="" tvg-name="DE - Sky Sport Austria 1 HD (ONLY ON MATCHDAYS)" tvg-logo="http://2hubs.ddns.net:25461/images/59f117c9694792c163e9aaf168c3d064.png" group-title="SPORT",Sky Sports PremierLeague
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/28848
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",EuroSport 1 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",EuroSport 2 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 1 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2337
+TNT Sports 2 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 2 HD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 3 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2335
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 3 HD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2325
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3706
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 4 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5313
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 5 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5312
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 6 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5311
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 7 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5310
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 8 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5309
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports La Liga US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5314
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports LaLiga US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5308
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3153
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88062
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3612
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports Xtra US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/434356
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eir Sport 1 UK
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2289
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eir Sport 2 UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2287
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eleven Sports US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3810
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3725
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 (SD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21590
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2581
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 LHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3726
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3637
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21589
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN SEC Network US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/650415
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3636
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/648974
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3638
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2576
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Euro World Sport (R) CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/647743
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fight Network CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3105
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fight Network SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/97533
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2501
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 LHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3732
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21592
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3645
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3733
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21593
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3646
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2500
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports Racing CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 1 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3146
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 2 HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88080
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 2 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3145
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 3 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3144
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 4 HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88078
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 4 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3143
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 5 CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88079
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 5 UHD
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3142
 
 
 
