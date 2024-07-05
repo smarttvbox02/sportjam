@@ -554,6 +554,24 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/10961
 #EXTINF:-1 tvg-id="" tvg-name="HR - Arena Sport 1" tvg-logo="http://attp.ddns.net:25461/images/3dca54beb8cb1b3a2597dd1244dcef10.png" group-title="SPORT", Arena Sport 7
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304572
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="SPORT",SPORT TV +
+http://premiumiptvmk.com:8080/F19236/516c41c7/1481
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SPORT",SPORT TV 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/1483
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SPORT",SPORT TV 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/1486
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SPORT",SPORT TV 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/1489
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SPORT",SPORT TV 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/1492
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SPORT",SPORT TV 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/1495
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SPORT",SPORT TV 6
+http://premiumiptvmk.com:8080/F19236/516c41c7/281487
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LA - TNT Sports" tvg-logo="http://attp.ddns.net:25461/images/9bc20d2e44cfb8ff4aa3e516357a960a.png" group-title="SPORT",TNT Sports 1
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/270
