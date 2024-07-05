@@ -49,21 +49,19 @@ http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/126254
 
 
 =============================================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://budtv-ultra.com/posters/1713315679454.png" group-title="COPA AMERICA 2024",TV Max Canal 9
-http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13771
-
-#EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",TE Y C Sports 
-http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13763
-
-#EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://budtv-ultra.com/posters/1715047731266.png" group-title="COPA AMERICA 2024",Teletica 
-http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13895
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11(HN)(R)" tvg-logo="https://budtv-ultra.com/posters/1711993939477.png" group-title="COPA AMERICA 2024",Canal 11
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314422417.png" group-title="COPA AMERICA 2024",CANAL 13 HD 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",TV85
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 1
+http://tecnozone.site:8090/YeSalinas/YenySa/180695
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 2
+http://tecnozone.site:8090/YeSalinas/YenySa/180696
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 3
+http://tecnozone.site:8090/YeSalinas/YenySa/180697
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 4
+http://tecnozone.site:8090/YeSalinas/YenySa/180745
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",,COPA AMERICA 5
+http://tecnozone.site:8090/YeSalinas/YenySa/180752
+ 
 
 ================================================================================================================================================================
 
