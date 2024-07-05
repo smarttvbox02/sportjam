@@ -437,7 +437,14 @@ http://live.lordstreams.co:8080/Kelly2022/Kelly2022/648982
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://i.ibb.co.com/ZNBwHbT/hbo.jpg" group-title="MOVIE",HBO 24
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/51552
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIE",MARVEL STUDIOS 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/41361
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIE",MARVEL STUDIOS 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/41368
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIE",MARVEL STUDIOS 7
+http://premiumiptvmk.com:8080/F19236/516c41c7/174506
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIE",MARVEL STUDIOS 8
+http://premiumiptvmk.com:8080/F19236/516c41c7/174514
 
 
 
@@ -713,7 +720,20 @@ http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3646
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2500
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports Racing CA,
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
-
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORTS",Fox Sports 501
+http://premiumiptvmk.com:8080/F19236/516c41c7/279034
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORTS",Fox Sports 502
+http://premiumiptvmk.com:8080/F19236/516c41c7/81784
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORTS",Fox Sports 503
+http://premiumiptvmk.com:8080/F19236/516c41c7/280192
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORTS",Fox Sports 504
+http://premiumiptvmk.com:8080/F19236/516c41c7/280193
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORTS",Fox Sports 505
+http://premiumiptvmk.com:8080/F19236/516c41c7/144772
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORTS",Fox Sports 506
+http://premiumiptvmk.com:8080/F19236/516c41c7/279033
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORTS",Fox Sports 507
+http://premiumiptvmk.com:8080/F19236/516c41c7/280194
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 1 UHD CA,
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3146
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 2 HD CA,
@@ -739,6 +759,24 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 3 🌏
 https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="SPORTS",NZ Sky Sport 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/302393
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="SPORTS",NZ Sky Sport 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/302394
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="SPORTS",NZ Sky Sport 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/302395
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="SPORTS",NZ Sky Sport 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/302396
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="SPORTS",NZ Sky Sport 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/302397
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="SPORTS",NZ Sky Sport 6
+http://premiumiptvmk.com:8080/F19236/516c41c7/302398
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="SPORTS",NZ Sky Sport 7
+http://premiumiptvmk.com:8080/F19236/516c41c7/302399
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="SPORTS",NZ Sky Sport 8
+http://premiumiptvmk.com:8080/F19236/516c41c7/302400
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SPORT",SuperSport Action
 http://premiumiptvmk.com:8080/F19236/516c41c7/194354
