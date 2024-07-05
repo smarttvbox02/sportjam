@@ -729,6 +729,114 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112541&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112539&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112538&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112512&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112489&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105104&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45706&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105103&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105102&extension=ts
+
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105107&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105106&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45708&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105105&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45707&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=683&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=788&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 3 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10081&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22392&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2601&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=789&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 4 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10080&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22391&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2602&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=790&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 5 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10079&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 5 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22390&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2603&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=791&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 6 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10078&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22389&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2604&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=792&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 7 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10077&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 7 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22388&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2605&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=793&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 8 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10076&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 8 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22387&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2606&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=794&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 9 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10075&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 9 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22386&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1454&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4412&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=26511&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3032&extension=ts
+#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89275&extension=ts
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 4 🌏
 #EXTVLCOPT:http-referrer=https://www.plus.fifa.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
