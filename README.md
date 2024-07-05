@@ -62,7 +62,17 @@ http://tecnozone.site:8090/YeSalinas/YenySa/180745
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",,COPA AMERICA 5
 http://tecnozone.site:8090/YeSalinas/YenySa/180752
  
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg",ARENA 1 PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg" group-title="COPA AMERICA 2024",CA TSN 4 
+http://cord-cutter.net:8080/n8buxG/222085/66783
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg" group-title="COPA AMERICA 2024",CA TSN 4 HD 
+http://cord-cutter.net:8080/n8buxG/222085/16130
 ================================================================================================================================================================
 
 
