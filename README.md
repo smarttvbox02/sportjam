@@ -187,7 +187,241 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
+============================================================================================================================
 
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS 🇦🇺
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME 🇦🇺
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX 🇯🇵 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX 🇯🇵 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS 🇯🇵
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS 🔴 🇯🇵 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+##https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W5JgdN6/babybus.png" group-title="KIDS", BABYBUS YT 🇨🇳
+https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://i.ibb.co/HTHDJ7q/babi1st.png" tvg-chno="1273" group-title="KIDS" , BABY FIRST 🇺🇸
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/R2JqbjY/bkids.png" group-title="KIDS", B KIDS 🇮🇩
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 🇺🇸 🇷🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluecartoonnetworkro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6504a3e6da7c9bdf1d3b3dde9ebd4075:8ae7f1e6035ec6fbcad51b522e61fc1c
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧 🇷🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
+
+
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/zn7bHNn/cbeebies.png" group-title="KIDS", CBEEBIES 🇬🇧
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/fS35p6p/cinemachikids.png" group-title="KIDS", CINEMACHI KIDS 🇬🇧
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd  
+
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="" tvg-logo="https://i.ibb.co/cTmLWMy/davinci.png" group-title="KIDS", DAVINCI 🇩🇪
+
+#EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co/C29CLPp/doratv.png" tvg-chno="3140" group-title="KIDS" , Dora TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="https://i.ibb.co/932vZfR/dreamworks.png" group-title="KIDS", DREAMWORKS 🇺🇸
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="KIDS", DISNEY CHANNEL 🇷🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="KIDS", DISNEY JR 🇷🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/Kxp5QMG/funplanet.png" group-title="KIDS" , FUN PLANET 🇮🇩
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png" group-title="KIDS" , HOREE! 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="KIDS" , KIDOODLE TV 🇺🇸
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" group-title="KIDS", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-name="" tvg-logo="https://i.ibb.co/r7D6K2k/kidstv.png" group-title="KIDS", KIDS TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="KIDS" , LEGO Kids TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3SDbLWM/leo.png" group-title="KIDS", LEO WILDLIFE GUARD YT 🇸🇬
+https://ythls-v2.onrender.com/channel/UCiuu1WKCPw8VPasHoRE3NZA.m3u8
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-name="" tvg-logo="https://i.ibb.co/r3ss43b/mykidz.png" group-title="KIDS", MYKIDZ TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/G2yTmyV/mylittlepony.png" group-title="KIDS", MY LITTLE PONY YT 🇺🇸
+https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇺🇸 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b383c9207bf4e178200126b3e67df30:e42f4fc0a0250da87a36c0372d908904
+##https://mad01.cdn.avatel.tv/live/eds/nick/MPEG-DASH_Scrambled_High/nick.mpd
+
+🇹🇭 🇮🇩 🇲🇾
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f01da4750087f2ee503cf46d8624880c:423b296a629a01b1d97471b2d16003d9
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227697/3221227697.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcaz%2FQhodL6fA33kc7vjOyeC7dEYTA1To7vwUkpGQmKDRC0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206082306%3AUTC%2C1003663983%2C115.164.187.20%2C20230206082306%2Curn:Huawei:liveTV:iptv10843%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27DIBRE_4YlAvyKF6xSRapUuZXidFuN4UKsYJOCE6l_n7h1tzNzRmdJMPT6omuUTgzVULVoSlfI1tpKNQJKCDG41rBM313UihmEMM6-i3bFPo_7Lym44EpJLhXr17tDgN-W3W0aKOniHztSuo-GtM2O35E5vE_ksYxx5h8BP6cUtgmjflOTdVPVu6IU5a5u2LKmPfLl2bAz8j5OVySyb9H_AtohZGJXmAs8dZhIz7cQ_rj3ZJ82D-ZhsvT0AAAA&tenantId=6001 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="KIDS", PBS KIDS 🇺🇸
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kgZgnxK/tayo.png" group-title="KIDS", TAYO YT 🇰🇷
+https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ydz4SLT/toonzkids.png" group-title="KIDS", TOONZKIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://i.ibb.co/3BDrBvR/transformers.png" tvg-chno="3200" group-title="KIDS" , Transformers TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co/Kh5Mwfd/zoomoo.png" group-title="KIDS", ZOO MOO 🇳🇿
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ae0910c0aa70a334ad8c2a8fbb395cc9.png" group-title="KIDS",Cartoon Network
+http://premiumiptvmk.com:8080/F19236/516c41c7/12769
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c0e9a6247d221fa909f3a8fb1e92c9fd.png" group-title="KIDS",Da Vinci
+http://premiumiptvmk.com:8080/F19236/516c41c7/43990
+
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Girl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e2247b51d50d7c8ed105d809e74d4bea.png" group-title="KIDS",Gulli Girl
+http://premiumiptvmk.com:8080/F19236/516c41c7/166618
+#EXTINF:-1 tvg-id="" tvg-name="Mult (Мульт)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a8185f0a60c515531e1a10406653af26.png" group-title="KIDS",Mult (Мульт)
+http://premiumiptvmk.com:8080/F19236/516c41c7/80187
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/810c327d7333cc4ffc5fca20f38a9113.png" group-title="KIDS",Nick Junior
+http://premiumiptvmk.com:8080/F19236/516c41c7/75647
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4a99c980c07bdae6bfd8616fe8b6092d.png" group-title="KIDS",nickelodeon
+http://premiumiptvmk.com:8080/F19236/516c41c7/71955
+
+
+
+
+
+===============================================================================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -446,7 +680,18 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/174506
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIE",MARVEL STUDIOS 8
 http://premiumiptvmk.com:8080/F19236/516c41c7/174514
 
-
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="MOVIE",HBO
+http://premiumiptvmk.com:8080/F19236/516c41c7/2336
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="MOVIE",HBO 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/5844
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="MOVIE",HBO Comedy
+http://premiumiptvmk.com:8080/F19236/516c41c7/2335
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="MOVIE",HBO Family
+http://premiumiptvmk.com:8080/F19236/516c41c7/760
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="MOVIE",HBO Signature
+http://premiumiptvmk.com:8080/F19236/516c41c7/6305
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="MOVIE",HBO Zone
+http://premiumiptvmk.com:8080/F19236/516c41c7/6328
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
