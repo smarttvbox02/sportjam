@@ -722,6 +722,74 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 3 🌏
 https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SPORT",SuperSport Action
+http://premiumiptvmk.com:8080/F19236/516c41c7/194354
+0
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="SPORT",SuperSport Blitz
+http://premiumiptvmk.com:8080/F19236/516c41c7/281536
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SPORT",SuperSport Cricket
+http://premiumiptvmk.com:8080/F19236/516c41c7/11637
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SPORT",SuperSport Golf
+http://premiumiptvmk.com:8080/F19236/516c41c7/11641
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SPORT",SuperSport Grandstand
+http://premiumiptvmk.com:8080/F19236/516c41c7/194353
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SPORT",SuperSport LaLiga
+http://premiumiptvmk.com:8080/F19236/516c41c7/194358
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SPORT",SuperSport Motorsport
+http://premiumiptvmk.com:8080/F19236/516c41c7/11638
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/197704
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/304120
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/304121
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/304122
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/304123
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 6
+http://premiumiptvmk.com:8080/F19236/516c41c7/304124
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 7
+http://premiumiptvmk.com:8080/F19236/516c41c7/304125
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 8
+http://premiumiptvmk.com:8080/F19236/516c41c7/304126
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport Play
+http://premiumiptvmk.com:8080/F19236/516c41c7/201121
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SPORT",SuperSport Rugby
+http://premiumiptvmk.com:8080/F19236/516c41c7/11639
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SPORT",SuperSport Tennis
+http://premiumiptvmk.com:8080/F19236/516c41c7/15200
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SPORT",SuperSport Variety 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/11633
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SPORT",SuperSport Variety 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/11634
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SPORT",SuperSport Variety 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/11635
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SPORT",SuperSport Variety 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/11636
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 SD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
