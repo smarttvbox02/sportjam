@@ -1030,6 +1030,12 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/1495
 http://premiumiptvmk.com:8080/F19236/516c41c7/281487
 
 
+#EXTINF:-1 tvg-id="ss.variety.2.za" tvg-name="ZA071:SuperSport Variety 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA071SuperSport Variety 2.png" group-title="SPORT",SuperSport Variety 2
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60578
+#EXTINF:-1 tvg-id="ss.variety.3.za" tvg-name="ZA072:SuperSport Variety 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA072SuperSport Variety 3.png" group-title="SPORT",SuperSport Variety 3
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60579
+#EXTINF:-1 tvg-id="ss.variety.4.za" tvg-name="ZA073:SuperSport Variety 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA073SuperSport Variety 4.png" group-title="SPORT",SuperSport Variety 4
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60580
 
 
 
