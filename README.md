@@ -59,8 +59,8 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",OPTUS
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",LIVE EURO 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
