@@ -257,7 +257,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ============================================================================================================================
-
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="KIDS",Disney Channel HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/3142
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="US027:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="KIDS",Disney JR HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/3141
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="KIDS",Disney XD HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/3140
+#EXTINF:-1 tvg-id="" tvg-name="US884:Disney + HD" tvg-logo="" group-title="KIDS",Disney + HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60230
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS 🇦🇺
 https://c.mjh.nz/abc-kids.m3u8
 
