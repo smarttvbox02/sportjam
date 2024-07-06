@@ -943,7 +943,7 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132772&extens
 #EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 1 SD
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=381&extension=ts&play_token=0z3jAYEHFi
 
-#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="LIVE SPORT",TNT SPORTS 1 HD
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 1 HD
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=382&extension=ts&play_token=CRSJgNzluK
 
 #EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 2 SD
@@ -1293,119 +1293,56 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/11636
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 1 SD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",| BEIN SPORTS MAX 1 HD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112541&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", SPORTS MAX 1 FHD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112539&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 1 HEVC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", SPORTS MAX 1 HEVC
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112538&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",BEIN SPORTS MAX 2 SD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 2 HD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112512&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 2 FHD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112509&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png",|AR| BEIN SPORTS MAX 2 HEVC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",BEIN SPORTS MAX 2 HEVC
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112489&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 SD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105104&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 1 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45706&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 HD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105103&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 FHD
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105102&extension=ts
 
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=583&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105107&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105106&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45708&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105105&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png",|AR| BEIN SPORTS 2 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45707&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=683&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_3 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=788&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 3 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10081&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22392&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2601&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_4 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=789&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 4 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10080&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22391&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2602&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_5 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=790&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 5 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10079&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 5 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22390&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2603&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_6 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=791&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 6 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10078&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 4 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22389&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2604&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_7 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=792&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 7 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10077&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 7 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22388&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2605&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_8 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=793&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 8 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10076&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 8 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22387&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 SD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2606&extension=ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",|AR| BEIN SPORTS_9 HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=794&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS 9 FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10075&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 9 HEVC
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22386&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS HD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1454&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png",|AR| BEIN SPORTS FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4412&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 1 ENGLISH FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=26511&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 2 ENGLISH FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3032&extension=ts
-#EXTINF:-1 tvg-logo="",|AR| BEIN SPORTS 3 ENGLISH FHD
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89275&extension=ts
-#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 4 🌏
-#EXTVLCOPT:http-referrer=https://www.plus.fifa.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
-https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN002 BeIN Sport 1 HD.png" group-title=" Bein",BeIN Sport 1 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2140
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN003 BeIN Sport 2 HD.png" group-title=" Bein",BeIN Sport 2 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2139
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN004 BeIN Sport 3 HD.png" group-title=" Bein",BeIN Sport 3 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2138
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN005 BeIN Sport 4 HD.png" group-title=" Bein",BeIN Sport 4 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2137
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN006 BeIN Sport 5 HD.png" group-title=" Bein",BeIN Sport 5 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2136
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN007 BeIN Sport 6 HD.png" group-title="Bein",BeIN Sport 6 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2135
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN008 BeIN Sport 7 HD.png" group-title=" Bein",BeIN Sport 7 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2134
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN012:BeIN Sport ENG 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN012 BeIN Sport ENG 1.png" group-title=" Bein",BBeIN Sport ENG 1
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2130
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN013:BeIN Sport ENG 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN013 BeIN Sport ENG 2.png" group-title=" Bein",BeIN Sport ENG 2
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2129
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS 1 
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/2314
