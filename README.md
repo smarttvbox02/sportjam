@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",hanya km yg bisa
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/XJ1Gbkc/youtube.webp" group-title="REMIX NDUT",hanya km yg bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
 
 #EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="REMIX NDUT",mungkinkah
