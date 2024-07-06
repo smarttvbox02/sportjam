@@ -1,26 +1,42 @@
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",hanya km yg bisa
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",hanya km yg bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",mungkinkah
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",mungkinkah
 https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",rindu
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+" group-title="REMIX NDUT",rindu
 https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",hanyut dalam kecewa
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",hanyut dalam kecewa
 https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif  " group-title="REMIX NDUT",jgn marah
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",jgn marah
 https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif  " group-title="REMIX NDUT",kgn dangdut
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",kgn dangdut
 https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",cnt tak memilih
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+" group-title="REMIX NDUT",cnt tak memilih
 https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",kau tercipta
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="
+https://i.ibb.co.com/88w6khC/youtube.gif
+ " group-title="REMIX NDUT",kau tercipta
 https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
 
 #EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",cucak rowo
