@@ -59,27 +59,27 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",OPTUS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title=" EURO 2024",OPTUS
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",LIVE EURO 3 
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title=" EURO 2024",BEIN !
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1826
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20242.qa" group-title="LIVE EURO 2024",LIVE EURO 4 
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20242.qa" group-title=" EURO 2024",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1827
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20243.qa" group-title="LIVE EURO 2024",LIVE EURO 5 
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20243.qa" group-title=" EURO 2024",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1828
 
-#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title="LIVE EURO 2024",LIVE EURO 6 
+#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title=" EURO 2024",SONY TEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
-#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title="LIVE EURO 2024",LIVE EURO 7 
+#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title=" EURO 2024",SONY TEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
@@ -113,6 +113,10 @@ http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/126254
 
 
 =============================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",FOX SPORT
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26077&extension=ts&play_token=hwt2Nc2Uz8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",TV85
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 1
@@ -137,6 +141,7 @@ http://cord-cutter.net:8080/n8buxG/222085/66783
 
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg" group-title="COPA AMERICA 2024",CA TSN 4 HD 
 http://cord-cutter.net:8080/n8buxG/222085/16130
+
 ================================================================================================================================================================
 
 
@@ -916,6 +921,75 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304094
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304093
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports PL 1
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304467
+
+#EXTINF:0 tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title=" SPORT",Optus Sport 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
+
+#EXTINF: tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA089" group-title=" SPORT"0,SuperSport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title=" SPORT",TSN 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132769&extension=ts&play_token=gTsyprUHq4
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title=" SPORT",TSN 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132770&extension=ts&play_token=vxscmuOFhC
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title=" SPORT",TSN 3
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132771&extension=ts&play_token=BGCcgSwJ1e
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title=" SPORT",TSN 4
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132772&extension=ts&play_token=zAey8BD3i5
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 1 SD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=381&extension=ts&play_token=0z3jAYEHFi
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="LIVE SPORT",TNT SPORTS 1 HD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=382&extension=ts&play_token=CRSJgNzluK
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 2 SD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=384&extension=ts&play_token=6Xsc1z25ps
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 2 HD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=385&extension=ts&play_token=bgnbKlbCyy
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 3 SD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=387&extension=ts&play_token=7nUvsZBn6h
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title=" SPORT",TNT SPORTS 3 HD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=388&extension=ts&play_token=jEcqdEn2PU
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title=" SPORT",TBS
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26115&extension=ts&play_token=qmUBOCww1A
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" group-title=" SPORT",Dazn 1 HD
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=335692&extension=ts&play_token=dAjlAFzF92
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title=" SPORT",Premier sport 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26113&extension=ts&play_token=l7rWVToLIl
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title=" SPORT",Premier sport 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26114&extension=ts&play_token=Jjc9u2iNlG
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/7zYvdbd/viaplay.png" group-title=" SPORT",Viaplay sport 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=319150&extension=ts&play_token=wvC1T7Dlrg
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/7zYvdbd/viaplay.png" group-title="SPORT",Viaplay sport 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=319152&extension=ts&play_token=uRQfNizG5n
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png" group-title=" SPORT",Fox sport 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26077&extension=ts&play_token=hwt2Nc2Uz8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png" group-title=" SPORT",Fox sport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26079&extension=ts&play_token=8zBxg1R3Ow
+
+#EXTINF:0 tvg-logo="" group-title=" SPORT",Channel tinju
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26112&extension=ts&play_token=uErjdZQag2
+
+#EXTINF:0 tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="SPORT",Bein sport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=428353&extension=ts&play_token=RYAC9km3TD
+
+#EXTINF:0 tvg-logo="" group-title="SPORT",Wwe
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extension=ts&play_token=6B6tPbryuQ
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HR - Arena Sport 1" tvg-logo="http://attp.ddns.net:25461/images/3dca54beb8cb1b3a2597dd1244dcef10.png" group-title="SPORT", Arena Sport 1
