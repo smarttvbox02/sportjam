@@ -1,3 +1,67 @@
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",hanya km yg bisa
+https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",mungkinkah
+https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",rindu
+https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",hanyut dalam kecewa
+https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif  " group-title="REMIX NDUT",jgn marah
+https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif  " group-title="REMIX NDUT",kgn dangdut
+https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",cnt tak memilih
+https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",kau tercipta
+https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAGU DGNT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " group-title="REMIX NDUT",cucak rowo
+https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" REMIX NDUT" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,Trio macan1
+https://m.vidio.com/videos/1993675/common_tokenized_playlist.m3u8
+
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,Trio macan2
+https://m.vidio.com/videos/2638797/common_tokenized_playlist.m3u8
+
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,Trio macan3
+https://m.vidio.com/videos/2276819/common_tokenized_playlist.m3u8
+
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,Trio macan4
+https://m.vidio.com/videos/7619412/common_tokenized_playlist.m3u8
+
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,mukamu manis
+https://m.vidio.com/videos/7167514/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,gaun merah
+https://m.vidio.com/videos/2236421/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,kau bkn dirimu
+https://m.vidio.com/videos/7044516/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 group-title=" Music DJ" tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif "  group-title="REMIX NDUT" ,gengsi dong
+https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
+
+
+=============================================================================================================================
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",LIVE EURO 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1826
@@ -751,8 +815,16 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
+========================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="SPORT" ,ASTRO ASSP HD
+http://mohdtv.com:8880/ALLChannels681def00c044/33809186/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="SPORT" ,ASTRO ASSP2 HD
+http://mohdtv.com:8880/ALLChannels681def00c044/33809186/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="SPORT" ,ASTRO ASSP3 HD
+http://mohdtv.com:8880/ALLChannels681def00c044/33809186/59218
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="SPORT" ,ASTRO ASSP4 HD
+http://mohdtv.com:8880/ALLChannels681def00c044/33809186/59217
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT" ,Astro SuperSport
