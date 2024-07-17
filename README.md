@@ -1354,4 +1354,393 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157457
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/2327
 
 
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/118
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/119
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/120
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/121
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="🇲🇾 | ASTRO SPORTS",ASTRO ARENA 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11629
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="🇲🇾 | ASTRO SPORTS",ASTRO ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11815
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="🇲🇾 | ASTRO SPORTS",beIN SPORTS 1 MY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11937
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="🇲🇾 | ASTRO SPORTS",beIN SPORTS 2 MY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11938
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="🇲🇾 | ASTRO SPORTS",beIN SPORTS 3 MY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11939
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv/astro_sports/spotv1.png" group-title="🇲🇾 | ASTRO SPORTS",SPO TV 1 MY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12723
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv/astro_sports/spotv2.png" group-title="🇲🇾 | ASTRO SPORTS",SPO TV 2 MY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12724
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv/astro_sports/premiersports.png" group-title="🇲🇾 | ASTRO SPORTS",PREMIER SPORTS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12725
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv/astro_sports/wsport.png" group-title="🇲🇾 | ASTRO SPORTS",W-SPORTS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12726
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv/astro_sports/sukan.png" group-title="🇲🇾 | ASTRO SPORTS",SUKAN RTM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12727
+
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwMp8C7IU8iv5HrBS6t0zda.png" group-title="🇲🇾 | ASTRO SPORTS",ASTRO CRICKET
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/122
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> UK | SKY SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Premier League
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9796
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9797
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Formula 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9798
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Main Event
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9800
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9801
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Arena
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9802
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9803
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Cricket
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9804
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Golf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9805
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> UK | TNT/BT SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/tnt_sports2.png" group-title="🇬🇧 | TNT BT SPORTS",TNT 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12121
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/tnt_sports2.png" group-title="🇬🇧 | TNT BT SPORTS",TNT 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12122
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/tnt_sports2.png" group-title="🇬🇧 | TNT BT SPORTS",TNT 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12123
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/tnt_sports2.png" group-title="🇬🇧 | TNT BT SPORTS",TNT 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12124
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/tnt_sports2.png" group-title="🇬🇧 | TNT BT SPORTS",TNT 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12125
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> 🇬🇧 | EUROSPORT UK
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/eurosports.png" group-title="🇬🇧 | EUROSPORT UK",EUROSPORTS 1 UK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9808
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/eurosports.png" group-title="🇬🇧 | EUROSPORT UK",EUROSPORTS 2 UK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9809
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> ES | DAZN ELEVEN
+//========================================================================
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.biz.id/logo/sports/dazn_eleven.png",DAZN ELEVEN 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12125
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.biz.id/logo/sports/dazn_eleven.png",DAZN ELEVEN 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12126
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.biz.id/logo/sports/dazn_eleven.png",DAZN ELEVEN 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12127
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.biz.id/logo/sports/dazn_eleven.png",DAZN ELEVEN 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12128
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.biz.id/logo/sports/dazn_eleven.png",DAZN ELEVEN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd?p=web
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>>SPORTTV
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sporttv.png" group-title="🇵🇹 | SPORTTV",SPORTTV 1 PT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12180
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sporttv.png" group-title="🇵🇹 | SPORTTV",SPORTTV 2 PT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12181
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sporttv.png" group-title="🇵🇹 | SPORTTV",SPORTTV 3 PT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12182
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sporttv.png" group-title="🇵🇹 | SPORTTV",SPORTTV 4 PT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12732
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> SONY SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sony_sports.png" group-title="🇮🇳 | SONY SPORTS",SONY TEN 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12173
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sony_sports.png" group-title="🇮🇳 | SONY SPORTS",SONY TEN 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12174
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/sony_sports.png" group-title="🇮🇳 | SONY SPORTS",SONY TEN 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12175
+
+/=========================================================================
+//copy right by,@hometv menampilkan playlist >>> 🇳🇱 | ZIGGO SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Tennis" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",Ziggo Sport
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12109
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Voetball" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",Ziggo Voetball
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12111
+
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SELECT" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",ZIGGO Select
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12113
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Racing" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",Ziggo Racing
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/4482
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Golf" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",Ziggo Golf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12112
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo docu" tvg-logo="https://hometv.biz.id/logo/sports/ziggo.png" group-title="🇳🇱 | ZIGGO SPORTS",Ziggo Tennis
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12110
+
+/========================================================================
+//copy right by,@hometv menampilkan playlist >>> beIN SPORTS AR
+//========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12114
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12115
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12116
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 4 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12117
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 5 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12118
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 6 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12119
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://hometv.biz.id/logo/sports2/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 7 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12120
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> AR | SSC SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC SPORTS 1 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc1.png" group-title="🇸🇦 | SSC SPORTS", SSC 1 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC SPORTS 2 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc2.png" group-title="🇸🇦 | SSC SPORTS", SSC 2 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC SPORTS 3 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc3.png" group-title="🇸🇦 | SSC SPORTS", SSC 3 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC SPORTS 4 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc4.png" group-title="🇸🇦 | SSC SPORTS", SSC 4 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC SPORTS 5 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc5.png" group-title="🇸🇦 | SSC SPORTS", SSC 5 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 1 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc_extra1.png" group-title="🇸🇦 | SSC SPORTS", SSC EXTRA 1 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 2 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc_extra2.png" group-title="🇸🇦 | SSC SPORTS", SSC EXTRA 2 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSC EXTRA 3 HD" tvg-logo="https://hometv.biz.id/logo/sports2/ssc_extra3.png" group-title="🇸🇦 | SSC SPORTS", SSC EXTRA 3 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+/========================================================================
+//copy right by,@hometv menampilkan playlist >>> AU | FOX SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/502.png" group-title="🇦🇺 | FOX SPORTS",FOX 502 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://iptvkita.my.id:25461/direct/hometv/1876
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/503.png" group-title="🇦🇺 | FOX SPORTS",FOX 503 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/120
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/504.png" group-title="🇦🇺 | FOX SPORTS",FOX 504 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://iptvkita.my.id:25461/direct/hometv/1877
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/505.png" group-title="🇦🇺 | FOX SPORTS",FOX 505 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/122
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/506.png" group-title="🇦🇺 | FOX SPORTS",FOX 506 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/123
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/507.png" group-title="🇦🇺 | FOX SPORTS",FOX 507 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/124
 
