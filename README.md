@@ -60,7 +60,7 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+https://00webhost.ayetbhs326.workers.dev /https://mearjitp02-playback.astro.com .my/dash-wv/linear/5154/default.mpd
 
 #EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",781
 #KODIPROP:inputstream.adaptive.license_type=clearkey
